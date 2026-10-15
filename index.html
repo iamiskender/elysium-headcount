@@ -155,6 +155,13 @@ tr.detail td { padding: 4px 14px 18px; background: var(--flag-bg); }
 .d-item dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
 .d-foot { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; font-size: 13px; color: var(--muted); }
 .d-foot a { color: var(--focus); }
+.hist { margin-top: 16px; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; font-size: 13px; color: var(--muted); }
+.hist svg { display: block; overflow: visible; }
+.hist a { color: var(--focus); }
+.hist .ln { fill: none; stroke: var(--organic); stroke-width: 1.5; }
+.hist .ar { fill: var(--organic-soft); stroke: none; }
+.hist .dt { fill: var(--organic); }
+.hist .bs { stroke: var(--line); stroke-width: 1; }
 .empty { padding: 28px; text-align: center; color: var(--muted); }
 
 /* method */
@@ -268,6 +275,7 @@ footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--mute
         <li>Flags describe on-chain patterns. They do not identify people or prove intent, and one operator can run wallets that pass every check.</li>
         <li>Testnet price, volume and market cap fields are sparse and can be manipulated.</li>
         <li>Transfer-based signals use up to the 2,000 most recent transfers per token. Holder-based signals use the full holder list.</li>
+        <li>A new snapshot runs every day. Each token's latest numbers and daily history are public at <span class="mono">/data/tokens/&lt;address&gt;.json</span>, with a list of all tokens at <a href="data/index.json" target="_blank" rel="noopener" class="mono">/data/index.json</a>.</li>
       </ul>
     </div>
   </section>
@@ -307,7 +315,7 @@ footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--mute
     return "uni";
   }
 
-  let tokens = [], filter = "all", openAddr = null;
+  let tokens = [], filter = "all", openAddr = null, days = [];
   const CONC = 20;
   const conc = (t) => t.status === "ok" && (t.top_eoa_share_pct ?? 0) >= CONC;
 
@@ -345,12 +353,49 @@ footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--mute
 
     const d = new Date(meta.generated_at);
     const when = isNaN(d) ? "" : d.toLocaleString("en-GB", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " UTC";
-    $("snapshot").textContent = "Snapshot " + when;
+    snapText = "Snapshot " + when;
+    $("snapshot").textContent = snapText;
+    renderMetaDays();
     $("foot-src").innerHTML = "Source: <span class=\"mono\">" + esc(meta.api) + "</span> \u00b7 snapshot " + esc(when);
 
     renderFamilies();
     renderChips();
     renderRows();
+  }
+
+  let snapText = "";
+  function renderMetaDays() {
+    if (!snapText) return;
+    $("snapshot").textContent = snapText + (days.length ? " \u00b7 updated daily \u00b7 " + days.length + (days.length === 1 ? " snapshot" : " snapshots") : "");
+  }
+
+  function fmtDay(d) {
+    const x = new Date(d + "T00:00:00Z");
+    return isNaN(x) ? d : x.toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+  }
+
+  function history(t) {
+    const a = t.address.toLowerCase();
+    const pts = days.map((d) => ({ date: d.date, v: d.tokens && d.tokens[a] ? d.tokens[a][0] : null })).filter((p) => p.v != null);
+    const json = '<a href="data/tokens/' + esc(a) + '.json" target="_blank" rel="noopener">Token JSON</a>';
+    if (pts.length < 2) {
+      const start = pts.length ? fmtDay(pts[0].date) : (days.length ? fmtDay(days[days.length - 1].date) : "");
+      return '<div class="hist"><span>Organic share history starts ' + esc(start) + '. A new snapshot is added every day.</span>' + json + '</div>';
+    }
+    const W = 220, H = 40;
+    const vs = pts.map((p) => p.v);
+    const lo = Math.max(0, Math.min(...vs) - 2), hi = Math.min(100, Math.max(...vs) + 2);
+    const x = (i) => (i / (pts.length - 1)) * W;
+    const y = (v) => H - ((v - lo) / (hi - lo || 1)) * H;
+    const line = pts.map((p, i) => x(i).toFixed(1) + "," + y(p.v).toFixed(1)).join(" ");
+    const area = "0," + H + " " + line + " " + W + "," + H;
+    const last = pts[pts.length - 1], first = pts[0];
+    const delta = last.v - first.v;
+    const svg = '<svg width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Organic share from ' + first.v.toFixed(1) + '% to ' + last.v.toFixed(1) + '%">' +
+      '<line class="bs" x1="0" y1="' + H + '" x2="' + W + '" y2="' + H + '"></line>' +
+      '<polygon class="ar" points="' + area + '"></polygon><polyline class="ln" points="' + line + '"></polyline>' +
+      '<circle class="dt" cx="' + x(pts.length - 1).toFixed(1) + '" cy="' + y(last.v).toFixed(1) + '" r="3"></circle></svg>';
+    return '<div class="hist">' + svg + '<span>Organic share, ' + esc(fmtDay(first.date)) + ' to ' + esc(fmtDay(last.date)) + ': <b class="num">' + first.v.toFixed(1) + '% \u2192 ' + last.v.toFixed(1) + '%</b> (' + (delta >= 0 ? "+" : "") + delta.toFixed(1) + ' pts)</span>' + json + '</div>';
   }
 
   function median(a) { const s = [...a].sort((x, y) => x - y); return s.length ? s[Math.floor(s.length / 2)] : 0; }
@@ -436,7 +481,7 @@ footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--mute
     return '<tr class="detail"><td colspan="7"><dl class="d-grid">' +
       items.map(([k, v, w]) => '<div class="d-item' + (w ? ' warn' : '') + '"><dt>' + k + '</dt><dd>' + v + '</dd></div>').join("") +
       '</dl><div class="d-foot"><span>' + note + esc(t.name) + ' \u00b7 <span class="mono">' + esc(t.address) + '</span></span>' +
-      '<a href="' + EXPLORER + esc(t.address) + '" target="_blank" rel="noopener">Open in explorer</a></div></td></tr>';
+      '<a href="' + EXPLORER + esc(t.address) + '" target="_blank" rel="noopener">Open in explorer</a></div>' + history(t) + '</td></tr>';
   }
 
   function rowFor(addr) { return document.querySelector('tr.row[data-addr="' + CSS.escape(addr) + '"]'); }
@@ -471,6 +516,11 @@ footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--mute
   });
   $("q").addEventListener("input", renderRows);
   $("sort").addEventListener("change", renderRows);
+
+  fetch("data/history.json", { cache: "no-store" })
+    .then((r) => (r.ok ? r.json() : { days: [] }))
+    .then((h) => { days = Array.isArray(h.days) ? h.days : []; renderMetaDays(); if (openAddr) renderRows(); })
+    .catch(() => {});
 
   fetch("holder_quality.json", { cache: "no-store" })
     .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })

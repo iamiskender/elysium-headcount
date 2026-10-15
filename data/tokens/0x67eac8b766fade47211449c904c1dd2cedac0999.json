@@ -1,0 +1,43 @@
+{
+  "address": "0x67eAC8b766FAde47211449C904c1dD2CEdAc0999",
+  "symbol": "KRN",
+  "name": "Karen",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 6,
+    "symbol": "KRN",
+    "name": "Karen",
+    "address": "0x67eAC8b766FAde47211449C904c1dD2CEdAc0999",
+    "raw_holders": 276,
+    "eoa_holders": 274,
+    "clone_wallets": 274,
+    "largest_cluster": 238,
+    "cross_token_wallets": 274,
+    "est_organic": 0,
+    "quality_pct": 0.0,
+    "pool_share_pct": 98.4,
+    "top_eoa_share_pct": 0.0,
+    "pool_buys_seen": 310,
+    "burst_6h_pct": 51.6,
+    "ladder_pct": 100.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 276,
+    "transfers_fetched": 312
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 276
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

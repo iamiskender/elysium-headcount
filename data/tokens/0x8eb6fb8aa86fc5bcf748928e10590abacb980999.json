@@ -1,0 +1,43 @@
+{
+  "address": "0x8Eb6Fb8aA86FC5bCf748928E10590aBacb980999",
+  "symbol": "PEPECHIK",
+  "name": "PEPECHICKEN",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "PEPECHIK",
+    "name": "PEPECHICKEN",
+    "address": "0x8Eb6Fb8aA86FC5bCf748928E10590aBacb980999",
+    "raw_holders": 124,
+    "eoa_holders": 122,
+    "clone_wallets": 107,
+    "largest_cluster": 107,
+    "cross_token_wallets": 107,
+    "est_organic": 15,
+    "quality_pct": 12.3,
+    "pool_share_pct": 98.6,
+    "top_eoa_share_pct": 0.3,
+    "pool_buys_seen": 122,
+    "burst_6h_pct": 88.5,
+    "ladder_pct": 87.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 124,
+    "transfers_fetched": 124
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 12.3,
+      "organic_holders": 15,
+      "reported_holders": 124
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

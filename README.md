@@ -4,6 +4,8 @@ Holder count is the easiest number to fake on a launchpad. Elysium Headcount tak
 
 **Live:** [elysium-headcount.vercel.app](https://elysium-headcount.vercel.app)
 
+A new snapshot runs every day through GitHub Actions, so each token builds up a daily history of its organic share.
+
 ## What the first snapshot found
 
 Snapshot of 15 October 2026, 70 scored tokens with 100+ holders:
@@ -35,6 +37,23 @@ Ascend plans to qualify tokens for Ascended status, buybacks and a path to Hyper
 
 **Look organic** = wallet holders that are neither in a balance cluster nor a repeat wallet. Contracts such as pools are left out of both sides.
 
+## Public data
+
+Every snapshot is published as plain JSON, free to read from anywhere:
+
+| File | Contents |
+| --- | --- |
+| [`/data/index.json`](https://elysium-headcount.vercel.app/data/index.json) | Latest totals and a list of every token with its endpoint |
+| `/data/tokens/<address>.json` | One token: latest signals plus its daily history |
+| [`/data/history.json`](https://elysium-headcount.vercel.app/data/history.json) | Compact daily history for all tokens |
+| [`/holder_quality.json`](https://elysium-headcount.vercel.app/holder_quality.json) | Full latest snapshot |
+
+Addresses in token file names are lowercase.
+
+## Daily snapshots
+
+`.github/workflows/snapshot.yml` runs every day at 03:17 UTC. It scans with a fresh cache, then `scanner/build_site_data.py` writes the files above and commits them, and Vercel redeploys the site. If the explorer API fails and the run comes back with far fewer scored tokens than the day before, nothing is published and the previous snapshot stays live. You can also start a run by hand from the Actions tab.
+
 ## Run it yourself
 
 Python 3.9+ standard library only.
@@ -44,7 +63,11 @@ cd scanner
 python3 holder_quality.py --min-holders 100
 ```
 
-The first run takes 30 to 40 minutes because the explorer API is rate limited. Responses are cached in `scanner/cache/`, so later runs take about a minute. Results are written to `scanner/results/holder_quality.json` and `.csv`. Copy the JSON next to `index.html` to update the site.
+The first run takes 30 to 40 minutes because the explorer API is rate limited. Responses are cached in `scanner/cache/`, so later runs take about a minute; add `--fresh` to ignore the cache. Results are written to `scanner/results/`. Then build the site data from the repo root:
+
+```sh
+python3 scanner/build_site_data.py
+```
 
 To serve the site locally:
 
@@ -60,8 +83,7 @@ python3 -m http.server 4173
 
 ## Roadmap
 
-- Scheduled snapshots, so every token gets a holder-quality history instead of a single reading.
-- A public JSON endpoint per token, so launch pages, explorers and Ascend's own qualification process can read the same numbers.
+- Charts for longer windows once a few weeks of daily history have built up.
 - Wallet lookup: paste an address and see which clusters and families it belongs to.
 - Alerts when a token's organic share moves sharply or a new wallet family appears.
 - Mainnet support once Ascend launches on Elysium mainnet.

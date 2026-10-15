@@ -1,0 +1,43 @@
+{
+  "address": "0xAcbDfd48C86D7F49f199C161bB9999d0792a0999",
+  "symbol": "GHGH",
+  "name": "GHGH",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "GHGH",
+    "name": "GHGH",
+    "address": "0xAcbDfd48C86D7F49f199C161bB9999d0792a0999",
+    "raw_holders": 160,
+    "eoa_holders": 158,
+    "clone_wallets": 157,
+    "largest_cluster": 157,
+    "cross_token_wallets": 157,
+    "est_organic": 1,
+    "quality_pct": 0.6,
+    "pool_share_pct": 99.1,
+    "top_eoa_share_pct": 0.0,
+    "pool_buys_seen": 158,
+    "burst_6h_pct": 96.2,
+    "ladder_pct": 99.4,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 160,
+    "transfers_fetched": 160
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 1,
+      "reported_holders": 160
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

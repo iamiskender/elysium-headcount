@@ -1,0 +1,43 @@
+{
+  "address": "0x219AD8b1ce9671A08caD11Ed75316279E96B24db",
+  "symbol": "VHT",
+  "name": "vuhai79",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F7",
+    "family_size": 2,
+    "symbol": "VHT",
+    "name": "vuhai79",
+    "address": "0x219AD8b1ce9671A08caD11Ed75316279E96B24db",
+    "raw_holders": 107,
+    "eoa_holders": 106,
+    "clone_wallets": 0,
+    "largest_cluster": 6,
+    "cross_token_wallets": 97,
+    "est_organic": 9,
+    "quality_pct": 8.5,
+    "pool_share_pct": 23.2,
+    "top_eoa_share_pct": 9.0,
+    "pool_buys_seen": 109,
+    "burst_6h_pct": 94.5,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 107,
+    "transfers_fetched": 110
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 8.5,
+      "organic_holders": 9,
+      "reported_holders": 107
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

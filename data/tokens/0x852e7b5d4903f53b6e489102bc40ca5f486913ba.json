@@ -1,0 +1,43 @@
+{
+  "address": "0x852E7b5d4903f53b6E489102BC40cA5f486913ba",
+  "symbol": "HYPERLISA",
+  "name": "hyperlisa",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "HYPERLISA",
+    "name": "hyperlisa",
+    "address": "0x852E7b5d4903f53b6E489102BC40cA5f486913ba",
+    "raw_holders": 129,
+    "eoa_holders": 128,
+    "clone_wallets": 54,
+    "largest_cluster": 54,
+    "cross_token_wallets": 59,
+    "est_organic": 69,
+    "quality_pct": 53.9,
+    "pool_share_pct": 64.2,
+    "top_eoa_share_pct": 24.2,
+    "pool_buys_seen": 296,
+    "burst_6h_pct": 27.4,
+    "ladder_pct": 42.9,
+    "buy_only_pct": 80.3,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 129,
+    "transfers_fetched": 343
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 53.9,
+      "organic_holders": 69,
+      "reported_holders": 129
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

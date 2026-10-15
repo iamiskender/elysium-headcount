@@ -1,0 +1,43 @@
+{
+  "address": "0x6367eeD5F5D247422d9282D5a3865230c18f8888",
+  "symbol": "EVRT",
+  "name": "Elysium Verified Release Test",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "EVRT",
+    "name": "Elysium Verified Release Test",
+    "address": "0x6367eeD5F5D247422d9282D5a3865230c18f8888",
+    "raw_holders": 1050,
+    "eoa_holders": 1049,
+    "clone_wallets": 1009,
+    "largest_cluster": 848,
+    "cross_token_wallets": 979,
+    "est_organic": 39,
+    "quality_pct": 3.7,
+    "pool_share_pct": 89.3,
+    "top_eoa_share_pct": 1.9,
+    "pool_buys_seen": 1871,
+    "burst_6h_pct": 45.8,
+    "ladder_pct": 99.0,
+    "buy_only_pct": 99.8,
+    "farm_sample_pct": 93.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5146.37,
+    "holders_fetched": 1050,
+    "transfers_fetched": 1884
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 3.7,
+      "organic_holders": 39,
+      "reported_holders": 1050
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

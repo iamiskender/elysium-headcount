@@ -1,0 +1,43 @@
+{
+  "address": "0x6eA3907B3f4Dbe22D58b51F981dEB48c9B7fe152",
+  "symbol": "HYPE",
+  "name": "HYPERLIQUID",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 27,
+    "symbol": "HYPE",
+    "name": "HYPERLIQUID",
+    "address": "0x6eA3907B3f4Dbe22D58b51F981dEB48c9B7fe152",
+    "raw_holders": 1254,
+    "eoa_holders": 1253,
+    "clone_wallets": 1237,
+    "largest_cluster": 803,
+    "cross_token_wallets": 1240,
+    "est_organic": 13,
+    "quality_pct": 1.0,
+    "pool_share_pct": 87.8,
+    "top_eoa_share_pct": 4.7,
+    "pool_buys_seen": 1419,
+    "burst_6h_pct": 92.5,
+    "ladder_pct": 95.1,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 1254,
+    "transfers_fetched": 1430
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 13,
+      "reported_holders": 1254
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

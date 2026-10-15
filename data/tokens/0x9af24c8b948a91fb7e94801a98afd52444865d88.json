@@ -1,0 +1,43 @@
+{
+  "address": "0x9AF24c8B948a91Fb7e94801a98Afd52444865D88",
+  "symbol": "KDT",
+  "name": "khanhdao1989",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 27,
+    "symbol": "KDT",
+    "name": "khanhdao1989",
+    "address": "0x9AF24c8B948a91Fb7e94801a98Afd52444865D88",
+    "raw_holders": 1264,
+    "eoa_holders": 1263,
+    "clone_wallets": 1240,
+    "largest_cluster": 662,
+    "cross_token_wallets": 1240,
+    "est_organic": 23,
+    "quality_pct": 1.8,
+    "pool_share_pct": 95.6,
+    "top_eoa_share_pct": 0.2,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 62.4,
+    "ladder_pct": 99.5,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 1264,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 1.8,
+      "organic_holders": 23,
+      "reported_holders": 1264
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

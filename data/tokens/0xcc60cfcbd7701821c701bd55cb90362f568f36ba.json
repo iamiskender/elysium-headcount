@@ -1,0 +1,43 @@
+{
+  "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
+  "symbol": "SENDIT",
+  "name": "SENDIT",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 27,
+    "symbol": "SENDIT",
+    "name": "SENDIT",
+    "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
+    "raw_holders": 1256,
+    "eoa_holders": 1255,
+    "clone_wallets": 1238,
+    "largest_cluster": 1184,
+    "cross_token_wallets": 1242,
+    "est_organic": 13,
+    "quality_pct": 1.0,
+    "pool_share_pct": 77.5,
+    "top_eoa_share_pct": 19.5,
+    "pool_buys_seen": 1354,
+    "burst_6h_pct": 97.0,
+    "ladder_pct": 97.2,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 1256,
+    "transfers_fetched": 1370
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 13,
+      "reported_holders": 1256
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

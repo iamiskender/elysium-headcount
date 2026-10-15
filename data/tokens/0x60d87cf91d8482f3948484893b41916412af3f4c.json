@@ -1,0 +1,43 @@
+{
+  "address": "0x60D87Cf91d8482F3948484893B41916412af3F4c",
+  "symbol": "ECOSIG9",
+  "name": "EcoSig9234",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "ECOSIG9",
+    "name": "EcoSig9234",
+    "address": "0x60D87Cf91d8482F3948484893B41916412af3F4c",
+    "raw_holders": 106,
+    "eoa_holders": 105,
+    "clone_wallets": 69,
+    "largest_cluster": 69,
+    "cross_token_wallets": 105,
+    "est_organic": 0,
+    "quality_pct": 0.0,
+    "pool_share_pct": 99.4,
+    "top_eoa_share_pct": 0.0,
+    "pool_buys_seen": 194,
+    "burst_6h_pct": 19.1,
+    "ladder_pct": 37.6,
+    "buy_only_pct": 99.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 5.02,
+    "market_cap_usd": 3635.15,
+    "holders_fetched": 106,
+    "transfers_fetched": 197
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 106
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

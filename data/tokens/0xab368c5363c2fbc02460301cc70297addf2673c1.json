@@ -1,0 +1,43 @@
+{
+  "address": "0xAB368c5363c2fbc02460301cC70297addf2673c1",
+  "symbol": "PURR",
+  "name": "PURR",
+  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 27,
+    "symbol": "PURR",
+    "name": "PURR",
+    "address": "0xAB368c5363c2fbc02460301cC70297addf2673c1",
+    "raw_holders": 1248,
+    "eoa_holders": 1247,
+    "clone_wallets": 1238,
+    "largest_cluster": 669,
+    "cross_token_wallets": 1240,
+    "est_organic": 7,
+    "quality_pct": 0.6,
+    "pool_share_pct": 96.0,
+    "top_eoa_share_pct": 1.7,
+    "pool_buys_seen": 1317,
+    "burst_6h_pct": 99.5,
+    "ladder_pct": 99.6,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 1248,
+    "transfers_fetched": 1321
+  },
+  "history": [
+    {
+      "date": "2026-10-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 7,
+      "reported_holders": 1248
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

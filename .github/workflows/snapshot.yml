@@ -1,0 +1,44 @@
+name: Daily snapshot
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:        # run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan Elysium testnet tokens
+        working-directory: scanner
+        run: python3 holder_quality.py --min-holders 100 --fresh
+
+      - name: Build site data
+        run: python3 scanner/build_site_data.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "iamiskender"
+          git config user.email "98401401+iamiskender@users.noreply.github.com"
+          git add holder_quality.json data
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Snapshot $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
