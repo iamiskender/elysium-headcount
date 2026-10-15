@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%23131D26'/%3E%3Crect x='3' y='3' width='4' height='4' fill='%233CC6AC'/%3E%3Crect x='9' y='3' width='4' height='4' fill='%234E5C68'/%3E%3Crect x='3' y='9' width='4' height='4' fill='%234E5C68'/%3E%3Crect x='9' y='9' width='4' height='4' fill='%234E5C68'/%3E%3C/svg%3E">
+<title>Elysium Headcount</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Reported holders vs. holders that look like people, for every Elysium testnet token with 100+ holders.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a census ledger. Thesis line + one tally bar up top, wallet families, then the full register with inline detail rows. */
+:root {
+  --bg: #F2F4F6;
+  --surface: #FFFFFF;
+  --ink: #131D26;
+  --muted: #5A6875;
+  --line: #D9DFE4;
+  --organic: #0B7A68;
+  --organic-soft: #D3ECE6;
+  --flag: #9AA6B1;
+  --flag-bg: #E6EAEE;
+  --warn: #A35B00;
+  --warn-soft: #F6E7D2;
+  --hot: #A33A4B;
+  --hot-soft: #F4DDE1;
+  --focus: #1F6FD1;
+  --font-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0E151B; --surface: #151F27; --ink: #E3E9EE; --muted: #93A2AF; --line: #26333E;
+    --organic: #3CC6AC; --organic-soft: #12352F; --flag: #4E5C68; --flag-bg: #1C2731;
+    --warn: #E5A04B; --warn-soft: #3A2A14; --hot: #EE8394; --hot-soft: #3B1F25; --focus: #6AA8F5;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0E151B; --surface: #151F27; --ink: #E3E9EE; --muted: #93A2AF; --line: #26333E;
+  --organic: #3CC6AC; --organic-soft: #12352F; --flag: #4E5C68; --flag-bg: #1C2731;
+  --warn: #E5A04B; --warn-soft: #3A2A14; --hot: #EE8394; --hot-soft: #3B1F25; --focus: #6AA8F5;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  background: var(--bg); color: var(--ink);
+  font: 15px/1.55 var(--font-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+.wrap { max-width: 1120px; margin: 0 auto; display: grid; gap: 56px; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+.num { font-variant-numeric: tabular-nums; }
+.mono { font-family: var(--font-mono); }
+
+/* header */
+.top { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; justify-content: space-between; padding-block: 20px 0; border-bottom: 1px solid var(--line); padding-bottom: 14px; }
+.mark { font-family: var(--font-display); font-weight: 800; font-size: 20px; letter-spacing: -0.01em; display: flex; align-items: center; gap: 10px; }
+.mark-glyph { display: inline-grid; grid-template-columns: repeat(4, 5px); gap: 2px; }
+.mark-glyph i { width: 5px; height: 5px; border-radius: 1px; background: var(--flag); }
+.mark-glyph i.o { background: var(--organic); }
+.meta { color: var(--muted); font-size: 13px; font-family: var(--font-mono); }
+
+/* hero */
+.hero { display: grid; gap: 22px; }
+.eyebrow { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(34px, 6.2vw, 64px); line-height: 1.02; letter-spacing: -0.025em; margin: 0; text-wrap: balance; max-width: 18ch; }
+h1 .o { color: var(--organic); }
+.lede { margin: 0; max-width: 62ch; color: var(--muted); font-size: 17px; }
+.tally { display: grid; gap: 10px; }
+.tally-bar { display: flex; height: 44px; border-radius: 6px; overflow: hidden; background: var(--flag-bg); border: 1px solid var(--line); }
+.seg-o { background: var(--organic); }
+.seg-f { flex: 1; background: repeating-linear-gradient(135deg, var(--flag-bg) 0 6px, var(--flag) 6px 7px); }
+.tally-legend { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 20px; font-size: 14px; }
+.key { display: inline-flex; align-items: center; gap: 8px; }
+.sw { width: 12px; height: 12px; border-radius: 2px; flex: none; }
+.sw.o { background: var(--organic); }
+.sw.f { background: repeating-linear-gradient(135deg, var(--flag-bg) 0 3px, var(--flag) 3px 4px); border: 1px solid var(--flag); }
+.tally-note { margin: 0; font-size: 13px; color: var(--muted); }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; border-top: 1px solid var(--line); }
+.fact { padding: 16px 20px 0 0; display: grid; gap: 4px; align-content: start; }
+.fact + .fact { padding-left: 20px; border-left: 1px solid var(--line); }
+.fact b { font-family: var(--font-display); font-size: 30px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+.fact span { color: var(--muted); font-size: 14px; }
+
+/* sections */
+section { display: grid; gap: 20px; }
+.sec-head { display: grid; gap: 6px; }
+h2 { font-family: var(--font-display); font-weight: 700; font-size: 28px; letter-spacing: -0.015em; margin: 0; text-wrap: balance; }
+.sec-head p { margin: 0; color: var(--muted); max-width: 66ch; }
+
+/* families */
+.fam-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 14px; align-items: start; }
+.fam.wide { grid-column: 1 / -1; }
+.fam { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
+.fam-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.fam-id { font-family: var(--font-mono); font-size: 12px; color: var(--muted); letter-spacing: 0.06em; }
+.fam-n { font-family: var(--font-display); font-weight: 700; font-size: 22px; }
+.fam-stats { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; color: var(--muted); }
+.fam-stats b { color: var(--ink); font-weight: 600; }
+.fam-tokens { display: flex; flex-wrap: wrap; gap: 6px; }
+.tk { font-family: var(--font-mono); font-size: 12px; padding: 2px 7px; border-radius: 4px; background: var(--flag-bg); color: var(--ink); border: 0; cursor: pointer; }
+.tk:hover { background: var(--line); }
+
+/* register */
+.controls { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
+.search { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 14px; padding: 9px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip-btn { font: inherit; font-size: 13px; padding: 6px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+.chip-btn[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip-btn .c { color: var(--muted); margin-left: 4px; }
+.chip-btn[aria-pressed="true"] .c { color: inherit; opacity: 0.7; }
+select.sort { font: inherit; font-size: 13px; padding: 7px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+
+.table-box { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+table { width: 100%; border-collapse: collapse; min-width: 760px; font-size: 14px; }
+th { text-align: left; font-weight: 500; font-size: 12px; color: var(--muted); letter-spacing: 0.05em; text-transform: uppercase; padding: 12px 14px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th.r, td.r { text-align: right; }
+td { padding: 11px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+tr.row { cursor: pointer; }
+tr.row:hover td { background: color-mix(in srgb, var(--flag-bg) 55%, transparent); }
+tr.row[aria-expanded="true"] td { background: var(--flag-bg); border-bottom-color: transparent; }
+.sym { font-weight: 600; }
+.addr { display: block; font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); }
+.comp { display: flex; align-items: center; gap: 10px; }
+.comp-bar { flex: 1; min-width: 90px; height: 10px; border-radius: 3px; overflow: hidden; display: flex; background: repeating-linear-gradient(135deg, var(--flag-bg) 0 3px, var(--flag) 3px 4px); }
+.comp-bar i { background: var(--organic); display: block; }
+.comp-pct { width: 46px; text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
+.pill { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 999px; white-space: nowrap; font-weight: 500; }
+.p-org { background: var(--organic-soft); color: var(--organic); }
+.p-mix { background: var(--warn-soft); color: var(--warn); }
+.p-set, .p-farm { background: var(--hot-soft); color: var(--hot); }
+.p-uni { background: var(--flag-bg); color: var(--muted); }
+.p-na { background: transparent; color: var(--muted); border: 1px dashed var(--line); }
+.pat { display: flex; flex-wrap: wrap; gap: 4px; }
+.p-conc { background: var(--warn-soft); color: var(--warn); }
+.d-item.warn dd { color: var(--warn); }
+.fam-tag { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+
+tr.detail td { padding: 4px 14px 18px; background: var(--flag-bg); }
+.d-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px 18px; }
+.d-item { display: grid; gap: 2px; min-width: 0; }
+.d-item dt { font-size: 12px; color: var(--muted); }
+.d-item dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+.d-foot { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; font-size: 13px; color: var(--muted); }
+.d-foot a { color: var(--focus); }
+.empty { padding: 28px; text-align: center; color: var(--muted); }
+
+/* method */
+.method { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 0 32px; margin: 0; }
+.method div { padding: 14px 0; border-top: 1px solid var(--line); display: grid; gap: 4px; min-width: 0; }
+.method dt { font-weight: 600; display: flex; gap: 10px; align-items: baseline; }
+.method dt code { font-family: var(--font-mono); font-size: 12px; color: var(--muted); font-weight: 400; }
+.method dd { margin: 0; color: var(--muted); }
+.limits { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px 20px; display: grid; gap: 8px; }
+.limits h3 { margin: 0; font-size: 15px; }
+.limits ul { margin: 0; padding-left: 18px; color: var(--muted); display: grid; gap: 4px; }
+footer { border-top: 1px solid var(--line); padding-top: 18px; color: var(--muted); font-size: 13px; display: grid; gap: 4px; }
+.loading { color: var(--muted); }
+
+@media (max-width: 640px) {
+  .facts { grid-template-columns: 1fr; }
+  .fact, .fact + .fact { padding: 14px 0 0; border-left: 0; }
+  .fact + .fact { border-top: 1px solid var(--line); margin-top: 14px; }
+  .wrap { gap: 44px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .seg-o { transition: width 0.8s ease-out; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="mark">
+      <span class="mark-glyph" aria-hidden="true"><i class="o"></i><i></i><i></i><i></i><i></i><i></i><i class="o"></i><i></i></span>
+      Elysium Headcount
+    </div>
+    <div class="meta" id="snapshot">Loading snapshot&hellip;</div>
+  </header>
+
+  <section class="hero" aria-labelledby="h1">
+    <div class="eyebrow" id="eyebrow">Elysium testnet</div>
+    <h1 id="h1"><span id="h-raw">&mdash;</span> holders on paper. <span class="o"><span id="h-org">&mdash;</span> look like people.</span></h1>
+    <p class="lede">Holder count is the easiest number to fake on a launchpad. This register takes every Elysium testnet token with 100+ holders, removes wallets that move in lockstep, and shows what is left.</p>
+    <div class="tally">
+      <div class="tally-bar" role="img" id="tally-bar" aria-label="Share of holders that look organic">
+        <div class="seg-o" id="seg-o" style="width:0"></div><div class="seg-f"></div>
+      </div>
+      <div class="tally-legend">
+        <span class="key"><span class="sw o"></span><span><b class="num" id="l-org">&mdash;</b> look organic</span></span>
+        <span class="key"><span class="sw f"></span><span><b class="num" id="l-flag">&mdash;</b> are in balance clusters or repeat wallets</span></span>
+      </div>
+      <p class="tally-note"><span class="num" id="l-con">&mdash;</span> contract holders, such as pools, are left out of both sides.</p>
+    </div>
+    <div class="facts">
+      <div class="fact"><b class="num" id="f-low">&mdash;</b><span id="f-low-t">tokens where under 10% of holders look organic</span></div>
+      <div class="fact"><b class="num" id="f-fam">&mdash;</b><span id="f-fam-t">tokens held by the same wallet set</span></div>
+      <div class="fact"><b class="num" id="f-best">&mdash;</b><span id="f-best-t">highest organic share</span></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="fam-h">
+    <div class="sec-head">
+      <h2 id="fam-h">Wallet families</h2>
+      <p>Tokens whose holder lists overlap so much that they are effectively held by one group of wallets. Two tokens join a family when the wallets they share make up at least half of both lists combined.</p>
+    </div>
+    <div class="fam-grid" id="fams"><p class="loading">Loading families&hellip;</p></div>
+  </section>
+
+  <section aria-labelledby="reg-h">
+    <div class="sec-head">
+      <h2 id="reg-h">Every token</h2>
+      <p>Select a row to see the signals behind its score.</p>
+    </div>
+    <div class="controls">
+      <input class="search" id="q" type="search" placeholder="Search symbol, name or address" aria-label="Search tokens">
+      <div class="chips" id="chips" role="group" aria-label="Filter by pattern"></div>
+      <select class="sort" id="sort" aria-label="Sort tokens">
+        <option value="raw">Most holders reported</option>
+        <option value="org">Most organic holders</option>
+        <option value="qhi">Highest organic share</option>
+        <option value="qlo">Lowest organic share</option>
+        <option value="vol">24h volume</option>
+      </select>
+    </div>
+    <div class="table-box">
+      <table>
+        <thead><tr>
+          <th>Token</th><th>Pattern</th><th class="r">Reported</th><th class="r">Look organic</th><th style="width:28%" title="Organic share of wallet holders, contracts excluded">Organic share</th><th>Family</th><th class="r">24h volume</th>
+        </tr></thead>
+        <tbody id="rows"><tr><td colspan="7" class="empty">Loading tokens&hellip;</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="m-h">
+    <div class="sec-head">
+      <h2 id="m-h">How it is measured</h2>
+      <p>Everything comes from the public Elysium testnet explorer API. Nothing is inferred from names, socials or off-chain data.</p>
+    </div>
+    <dl class="method">
+      <div><dt>Balance clusters <code>clone</code></dt><dd>Wallets holding almost the same amount, within a few percent of each other, in groups large enough to be a pattern (at least 15 wallets and 3% of holders). Organic buyers rarely land on identical balances.</dd></div>
+      <div><dt>Repeat wallets <code>cross</code></dt><dd>Wallets that sit in a balance cluster in three or more different tokens.</dd></div>
+      <div><dt>Ladder buys <code>ladder</code></dt><dd>Share of pool buys inside runs of five or more consecutive buys that differ by less than 0.2%. This is what a script spending a fixed amount per buy leaves behind.</dd></div>
+      <div><dt>Burst <code>burst</code></dt><dd>Share of pool buys that land in the busiest 6-hour window.</dd></div>
+      <div><dt>Buy only <code>buyonly</code></dt><dd>Share of wallets that received the token from a contract, a pool or a router, and never sent it on within the analysed transfers.</dd></div>
+      <div><dt>Top wallet</dt><dd>Share of the supply held by the single largest wallet, contracts excluded. Tokens where one wallet holds 20% or more get a warning tag, whatever their organic share.</dd></div>
+      <div><dt>Task-farm wallets <code>farm</code></dt><dd>From a sample of 15 clustered wallets, the share with 300 or more transactions. High values point to wallets that run long scripted task lists across many contracts.</dd></div>
+      <div><dt>Wallet family <code>family</code></dt><dd>Tokens whose holder sets have a Jaccard overlap of 0.5 or more, with at least 50 shared wallets.</dd></div>
+      <div><dt>Look organic</dt><dd>Wallet holders that are neither in a balance cluster nor a repeat wallet. Organic share is this number divided by all wallet holders. Contracts, such as pools, are left out of both.</dd></div>
+      <div><dt>Pattern label</dt><dd>Names the dominant pattern. 50%+ organic is organic-leaning, 15 to 50% is mixed. Below 15%, the label says why: a shared wallet set, task-farm wallets, repeat wallets or uniform balances.</dd></div>
+    </dl>
+    <div class="limits">
+      <h3>What this does not claim</h3>
+      <ul>
+        <li>Flags describe on-chain patterns. They do not identify people or prove intent, and one operator can run wallets that pass every check.</li>
+        <li>Testnet price, volume and market cap fields are sparse and can be manipulated.</li>
+        <li>Transfer-based signals use up to the 2,000 most recent transfers per token. Holder-based signals use the full holder list.</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div id="foot-src">Source: Elysium testnet explorer API.</div>
+    <div>Independent community tool. Not affiliated with Ascend, Kinetiq or Elysium.</div>
+  </footer>
+</div>
+
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const fmt = (n) => (n == null ? "\u2013" : Number(n).toLocaleString("en-US"));
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const short = (a) => a ? a.slice(0, 6) + "\u2026" + a.slice(-4) : "";
+  const money = (v) => !v ? "\u2013" : v < 1 ? "<$1" : "$" + (v >= 1000 ? (v / 1000).toFixed(v >= 10000 ? 0 : 1) + "K" : v.toFixed(0));
+  const EXPLORER = "https://elysium.kinetiq.xyz/testnet-explorer/token/";
+
+  const PATTERNS = {
+    org: { label: "Organic-leaning", cls: "p-org" },
+    mix: { label: "Mixed", cls: "p-mix" },
+    set: { label: "Shared wallet set", cls: "p-set" },
+    farm: { label: "Task-farm wallets", cls: "p-farm" },
+    rep: { label: "Repeat wallets", cls: "p-farm" },
+    uni: { label: "Uniform balances", cls: "p-uni" },
+    na: { label: "Not scored", cls: "p-na" },
+  };
+  // The label names the dominant pattern, so mixed tokens stay "Mixed" even when part of their holders are flagged.
+  function pattern(t) {
+    if (t.status !== "ok" || t.quality_pct == null) return "na";
+    if (t.quality_pct >= 50) return "org";
+    if (t.quality_pct >= 15) return "mix";
+    if (t.family) return "set";
+    if ((t.farm_sample_pct ?? 0) >= 60) return "farm";
+    if (t.cross_token_wallets > t.clone_wallets) return "rep";
+    return "uni";
+  }
+
+  let tokens = [], filter = "all", openAddr = null;
+  const CONC = 20;
+  const conc = (t) => t.status === "ok" && (t.top_eoa_share_pct ?? 0) >= CONC;
+
+  function render(meta) {
+    const ok = tokens.filter((t) => t.status === "ok");
+    const raw = ok.reduce((s, t) => s + t.raw_holders, 0);
+    const eoa = ok.reduce((s, t) => s + t.eoa_holders, 0);
+    const org = ok.reduce((s, t) => s + t.est_organic, 0);
+    const pct = eoa ? (100 * org) / eoa : 0;
+    $("h-raw").textContent = fmt(raw);
+    $("h-org").textContent = fmt(org);
+    $("l-org").textContent = fmt(org) + " (" + pct.toFixed(1) + "%)";
+    $("l-flag").textContent = fmt(eoa - org);
+    $("l-con").textContent = fmt(Math.max(0, raw - eoa));
+    $("tally-bar").setAttribute("aria-label", pct.toFixed(1) + "% of wallet holders look organic");
+    requestAnimationFrame(() => { $("seg-o").style.width = pct + "%"; });
+    $("eyebrow").textContent = "Elysium testnet \u00b7 " + ok.length + " tokens with " + (meta.params?.min_holders ?? 100) + "+ holders";
+
+    const low = ok.filter((t) => t.quality_pct < 10).length;
+    $("f-low").textContent = low + " of " + ok.length;
+    const famCounts = {};
+    tokens.forEach((t) => { if (t.family) famCounts[t.family] = (famCounts[t.family] || 0) + 1; });
+    const big = Object.entries(famCounts).sort((a, b) => b[1] - a[1])[0];
+    if (big) {
+      const members = tokens.filter((t) => t.family === big[0]);
+      const shared = median(members.map((t) => t.cross_token_wallets));
+      $("f-fam").textContent = big[1];
+      $("f-fam-t").textContent = "tokens held by one set of about " + fmt(shared) + " wallets";
+    }
+    const best = ok.filter((t) => t.eoa_holders >= 100).sort((a, b) => b.quality_pct - a.quality_pct)[0];
+    if (best) {
+      $("f-best").textContent = best.quality_pct.toFixed(0) + "%";
+      $("f-best-t").textContent = "organic share of " + best.symbol + ", the highest of any token" + (conc(best) ? ", though one wallet holds " + best.top_eoa_share_pct.toFixed(0) + "% of its supply" : "");
+    }
+
+    const d = new Date(meta.generated_at);
+    const when = isNaN(d) ? "" : d.toLocaleString("en-GB", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " UTC";
+    $("snapshot").textContent = "Snapshot " + when;
+    $("foot-src").innerHTML = "Source: <span class=\"mono\">" + esc(meta.api) + "</span> \u00b7 snapshot " + esc(when);
+
+    renderFamilies();
+    renderChips();
+    renderRows();
+  }
+
+  function median(a) { const s = [...a].sort((x, y) => x - y); return s.length ? s[Math.floor(s.length / 2)] : 0; }
+
+  function renderFamilies() {
+    const groups = {};
+    tokens.forEach((t) => { if (t.family) (groups[t.family] ||= []).push(t); });
+    const list = Object.entries(groups).sort((a, b) => b[1].length - a[1].length);
+    if (!list.length) { $("fams").innerHTML = '<p class="loading">No wallet families in this snapshot.</p>'; return; }
+    $("fams").innerHTML = list.map(([id, ts]) => {
+      const raw = ts.reduce((s, t) => s + t.raw_holders, 0);
+      const org = ts.reduce((s, t) => s + t.est_organic, 0);
+      const mq = median(ts.map((t) => t.quality_pct ?? 0));
+      const shared = median(ts.map((t) => t.cross_token_wallets));
+      return '<article class="fam' + (ts.length >= 10 ? ' wide' : '') + '">' +
+        '<div class="fam-top"><span class="fam-id">FAMILY ' + esc(id.slice(1)) + '</span><span class="fam-n num">' + ts.length + ' tokens</span></div>' +
+        '<div class="fam-stats"><span><b class="num">' + fmt(raw) + '</b> holders reported</span><span><b class="num">' + fmt(org) + '</b> look organic</span><span>median organic share <b class="num">' + mq.toFixed(1) + '%</b></span><span>~<b class="num">' + fmt(shared) + '</b> repeat wallets per token</span></div>' +
+        '<div class="fam-tokens">' + ts.sort((a, b) => b.raw_holders - a.raw_holders).map((t) => '<button class="tk" data-addr="' + esc(t.address) + '" title="' + esc(t.name) + '">' + esc(t.symbol) + '</button>').join("") + '</div>' +
+        '</article>';
+    }).join("");
+  }
+
+  function renderChips() {
+    const counts = { all: tokens.length };
+    tokens.forEach((t) => { const p = pattern(t); counts[p] = (counts[p] || 0) + 1; });
+    const order = ["all", "org", "mix", "set", "farm", "rep", "uni", "na"];
+    $("chips").innerHTML = order.filter((k) => counts[k]).map((k) =>
+      '<button class="chip-btn" data-f="' + k + '" aria-pressed="' + (filter === k) + '">' + (k === "all" ? "All" : PATTERNS[k].label) + '<span class="c num">' + counts[k] + '</span></button>'
+    ).join("");
+  }
+
+  function renderRows() {
+    const q = $("q").value.trim().toLowerCase();
+    let list = tokens.filter((t) => filter === "all" || pattern(t) === filter);
+    if (q) list = list.filter((t) => [t.symbol, t.name, t.address].some((v) => String(v || "").toLowerCase().includes(q)));
+    const s = $("sort").value;
+    const qv = (t) => t.quality_pct ?? -1;
+    const sorters = {
+      raw: (a, b) => b.raw_holders - a.raw_holders,
+      org: (a, b) => b.est_organic - a.est_organic,
+      qhi: (a, b) => qv(b) - qv(a) || b.raw_holders - a.raw_holders,
+      qlo: (a, b) => (a.quality_pct ?? 999) - (b.quality_pct ?? 999) || b.raw_holders - a.raw_holders,
+      vol: (a, b) => (b.volume_24h_usd || 0) - (a.volume_24h_usd || 0),
+    };
+    list.sort(sorters[s]);
+    if (!list.length) { $("rows").innerHTML = '<tr><td colspan="7" class="empty">No tokens match. Clear the search or pick another pattern.</td></tr>'; return; }
+    $("rows").innerHTML = list.map((t) => {
+      const p = PATTERNS[pattern(t)];
+      const q = t.quality_pct;
+      const open = openAddr === t.address;
+      let html = '<tr class="row" tabindex="0" data-addr="' + esc(t.address) + '" aria-expanded="' + open + '">' +
+        '<td><span class="sym">' + esc(t.symbol) + '</span><span class="addr">' + esc(short(t.address)) + '</span></td>' +
+        '<td><div class="pat"><span class="pill ' + p.cls + '">' + p.label + '</span>' + (conc(t) ? '<span class="pill p-conc" title="One wallet holds ' + t.top_eoa_share_pct.toFixed(1) + '% of the supply">Top wallet ' + t.top_eoa_share_pct.toFixed(0) + '%</span>' : '') + '</div></td>' +
+        '<td class="r num">' + fmt(t.raw_holders) + '</td>' +
+        '<td class="r num">' + (q == null ? "\u2013" : fmt(t.est_organic)) + '</td>' +
+        '<td><div class="comp"><div class="comp-bar" aria-hidden="true"><i style="width:' + (q ?? 0) + '%"></i></div><span class="comp-pct">' + (q == null ? "\u2013" : q.toFixed(1) + "%") + '</span></div></td>' +
+        '<td><span class="fam-tag">' + (t.family ? esc(t.family) + " \u00b7 " + t.family_size : "\u2013") + '</span></td>' +
+        '<td class="r num">' + money(t.volume_24h_usd) + '</td></tr>';
+      if (open) html += detail(t);
+      return html;
+    }).join("");
+  }
+
+  function detail(t) {
+    const pc = (v) => v == null ? "\u2013" : v.toFixed(1) + "%";
+    const buys = t.pool_buys_seen > 0;
+    const pb = (v) => buys ? pc(v) : "\u2013";
+    const items = [
+      ["Normal wallets", fmt(t.eoa_holders)],
+      ["In balance clusters", fmt(t.clone_wallets)],
+      ["Largest cluster", fmt(t.largest_cluster)],
+      ["Repeat wallets", fmt(t.cross_token_wallets)],
+      ["Ladder buys", pb(t.ladder_pct)],
+      ["Burst (6h)", pb(t.burst_6h_pct)],
+      ["Buy only", pb(t.buy_only_pct)],
+      ["Task-farm sample", t.farm_sample_pct == null ? "\u2013" : t.farm_sample_pct.toFixed(0) + "% of " + t.farm_sample_n],
+      ["Largest contract holds", pc(t.pool_share_pct)],
+      ["Largest wallet holds", pc(t.top_eoa_share_pct), conc(t)],
+      ["Buys analysed", fmt(t.pool_buys_seen)],
+      ["Market cap", money(t.market_cap_usd)],
+    ];
+    const note = t.status === "too_few_eoa" ? "Too few normal wallets to score. " : t.status === "partial" ? "Only part of the holder list loaded in this snapshot. " : t.status === "failed" ? "Holder list did not load in this snapshot. " : "";
+    return '<tr class="detail"><td colspan="7"><dl class="d-grid">' +
+      items.map(([k, v, w]) => '<div class="d-item' + (w ? ' warn' : '') + '"><dt>' + k + '</dt><dd>' + v + '</dd></div>').join("") +
+      '</dl><div class="d-foot"><span>' + note + esc(t.name) + ' \u00b7 <span class="mono">' + esc(t.address) + '</span></span>' +
+      '<a href="' + EXPLORER + esc(t.address) + '" target="_blank" rel="noopener">Open in explorer</a></div></td></tr>';
+  }
+
+  function rowFor(addr) { return document.querySelector('tr.row[data-addr="' + CSS.escape(addr) + '"]'); }
+  function toggle(addr, keepFocus) {
+    openAddr = openAddr === addr ? null : addr;
+    renderRows();
+    if (keepFocus) { const r = rowFor(addr); if (r) r.focus(); }
+  }
+
+  $("rows").addEventListener("click", (e) => {
+    if (e.target.closest("a")) return;
+    const r = e.target.closest("tr.row");
+    if (r) toggle(r.dataset.addr);
+  });
+  $("rows").addEventListener("keydown", (e) => {
+    const r = e.target.closest("tr.row");
+    if (r && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); toggle(r.dataset.addr, true); }
+  });
+  $("chips").addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-f]");
+    if (!b) return;
+    filter = b.dataset.f;
+    renderChips(); renderRows();
+  });
+  $("fams").addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-addr]");
+    if (!b) return;
+    filter = "all"; $("q").value = ""; openAddr = b.dataset.addr;
+    renderChips(); renderRows();
+    const row = rowFor(b.dataset.addr);
+    if (row) { row.scrollIntoView({ block: "center", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); row.focus({ preventScroll: true }); }
+  });
+  $("q").addEventListener("input", renderRows);
+  $("sort").addEventListener("change", renderRows);
+
+  fetch("holder_quality.json", { cache: "no-store" })
+    .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then((d) => { tokens = d.tokens || []; render(d.meta || {}); })
+    .catch((err) => {
+      $("snapshot").textContent = "Snapshot unavailable";
+      $("rows").innerHTML = '<tr><td colspan="7" class="empty">The data file holder_quality.json did not load (' + esc(err.message) + '). Check that it sits next to this page.</td></tr>';
+      $("fams").innerHTML = "";
+    });
+})();
+</script>
+</body>
+</html>
