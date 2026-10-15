@@ -2,7 +2,7 @@
   "address": "0x686F0f544ab4F2B1029345C28B0fe70Af2ef3f18",
   "symbol": "ELYSIUM",
   "name": "ELYSIUM",
-  "snapshot": "2026-10-15T20:16:16.080553+00:00",
+  "snapshot": "2026-10-15T22:41:22.273873+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -10,7 +10,7 @@
     "symbol": "ELYSIUM",
     "name": "ELYSIUM",
     "address": "0x686F0f544ab4F2B1029345C28B0fe70Af2ef3f18",
-    "raw_holders": 613,
+    "raw_holders": 616,
     "eoa_holders": 614,
     "clone_wallets": 424,
     "largest_cluster": 32,
@@ -19,23 +19,23 @@
     "quality_pct": 19.4,
     "pool_share_pct": 20.5,
     "top_eoa_share_pct": 14.8,
-    "pool_buys_seen": 600,
-    "burst_6h_pct": 14.3,
+    "pool_buys_seen": 608,
+    "burst_6h_pct": 14.1,
     "ladder_pct": 0.0,
     "buy_only_pct": 91.7,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 385.65,
-    "market_cap_usd": 46009.94,
+    "volume_24h_usd": 567.43,
+    "market_cap_usd": 48459.88,
     "holders_fetched": 616,
-    "transfers_fetched": 1405
+    "transfers_fetched": 1413
   },
   "history": [
     {
       "date": "2026-10-15",
       "organic_share_pct": 19.4,
       "organic_holders": 119,
-      "reported_holders": 613
+      "reported_holders": 616
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",
