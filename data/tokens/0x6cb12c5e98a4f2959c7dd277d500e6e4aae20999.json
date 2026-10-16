@@ -2,10 +2,10 @@
   "address": "0x6CB12C5e98A4f2959c7dd277d500E6e4AaE20999",
   "symbol": "GTDV",
   "name": "Gotham Dave",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
-    "family": "F6",
+    "family": "F7",
     "family_size": 2,
     "symbol": "GTDV",
     "name": "Gotham Dave",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 1,
+      "reported_holders": 166
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 0.6,
       "organic_holders": 1,
       "reported_holders": 166

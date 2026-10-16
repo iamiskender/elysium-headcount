@@ -2,7 +2,7 @@
   "address": "0x67eAC8b766FAde47211449C904c1dD2CEdAc0999",
   "symbol": "KRN",
   "name": "Karen",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 276
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 0.0,
       "organic_holders": 0,
       "reported_holders": 276

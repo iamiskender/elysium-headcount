@@ -2,7 +2,7 @@
   "address": "0x67C5f4E5252b75cD5c3aeCEd36B9CA7D4f2382Dc",
   "symbol": "TEL",
   "name": "Telegramcoin",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -10,25 +10,25 @@
     "symbol": "TEL",
     "name": "Telegramcoin",
     "address": "0x67C5f4E5252b75cD5c3aeCEd36B9CA7D4f2382Dc",
-    "raw_holders": 628,
-    "eoa_holders": 627,
+    "raw_holders": 630,
+    "eoa_holders": 629,
     "clone_wallets": 598,
     "largest_cluster": 87,
     "cross_token_wallets": 519,
-    "est_organic": 16,
-    "quality_pct": 2.6,
+    "est_organic": 18,
+    "quality_pct": 2.9,
     "pool_share_pct": 73.7,
     "top_eoa_share_pct": 0.3,
-    "pool_buys_seen": 1429,
-    "burst_6h_pct": 66.4,
-    "ladder_pct": 98.0,
+    "pool_buys_seen": 1431,
+    "burst_6h_pct": 66.3,
+    "ladder_pct": 97.9,
     "buy_only_pct": 98.6,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.0,
-    "market_cap_usd": 6214.53,
-    "holders_fetched": 628,
-    "transfers_fetched": 1452
+    "volume_24h_usd": 0.41,
+    "market_cap_usd": 6095.3,
+    "holders_fetched": 630,
+    "transfers_fetched": 1454
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 2.6,
       "organic_holders": 16,
       "reported_holders": 628
+    },
+    {
+      "date": "2026-10-16",
+      "organic_share_pct": 2.9,
+      "organic_holders": 18,
+      "reported_holders": 630
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

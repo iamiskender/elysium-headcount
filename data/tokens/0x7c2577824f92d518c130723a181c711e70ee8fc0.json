@@ -2,7 +2,7 @@
   "address": "0x7C2577824F92d518c130723A181C711e70eE8Fc0",
   "symbol": "LEGENDES",
   "name": "Legends of Atlas",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 1.1,
+      "organic_holders": 14,
+      "reported_holders": 1256
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 1.1,
       "organic_holders": 14,
       "reported_holders": 1256

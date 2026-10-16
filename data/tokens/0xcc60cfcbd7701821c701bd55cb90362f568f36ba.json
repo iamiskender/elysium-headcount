@@ -2,7 +2,7 @@
   "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
   "symbol": "SENDIT",
   "name": "SENDIT",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 13,
+      "reported_holders": 1256
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 1.0,
       "organic_holders": 13,
       "reported_holders": 1256

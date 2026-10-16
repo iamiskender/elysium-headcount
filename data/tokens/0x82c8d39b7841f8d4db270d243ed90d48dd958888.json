@@ -2,7 +2,7 @@
   "address": "0x82C8d39B7841f8d4db270d243Ed90d48DD958888",
   "symbol": "KM",
   "name": "Kinetiq Morning",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -25,14 +25,20 @@
     "buy_only_pct": 99.7,
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.08,
-    "market_cap_usd": 6082.07,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 6012.86,
     "holders_fetched": 1022,
     "transfers_fetched": 1861
   },
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 4.2,
+      "organic_holders": 43,
+      "reported_holders": 1022
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 4.2,
       "organic_holders": 43,
       "reported_holders": 1022

@@ -2,7 +2,7 @@
   "address": "0x1E7A0b240e460FB8373Ce1a801A96d0A01A647dE",
   "symbol": "TRUMP",
   "name": "trump official",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 0.9,
+      "organic_holders": 11,
+      "reported_holders": 1252
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 0.9,
       "organic_holders": 11,
       "reported_holders": 1252

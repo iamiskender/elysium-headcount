@@ -2,7 +2,7 @@
   "address": "0x88f83299FEc565e20ca20DA13bB745F8f785cBd0",
   "symbol": "2555",
   "name": "HYPURR2555",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -17,22 +17,28 @@
     "cross_token_wallets": 1240,
     "est_organic": 26,
     "quality_pct": 2.1,
-    "pool_share_pct": 89.0,
-    "top_eoa_share_pct": 2.3,
-    "pool_buys_seen": 1296,
-    "burst_6h_pct": 96.1,
-    "ladder_pct": 96.8,
+    "pool_share_pct": 87.9,
+    "top_eoa_share_pct": 3.4,
+    "pool_buys_seen": 1300,
+    "burst_6h_pct": 95.8,
+    "ladder_pct": 96.5,
     "buy_only_pct": 99.8,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
     "holders_fetched": 1268,
-    "transfers_fetched": 1302
+    "transfers_fetched": 1306
   },
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 2.1,
+      "organic_holders": 26,
+      "reported_holders": 1268
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 2.1,
       "organic_holders": 26,
       "reported_holders": 1268

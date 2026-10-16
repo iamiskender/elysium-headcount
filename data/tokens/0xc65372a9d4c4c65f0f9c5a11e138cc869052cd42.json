@@ -2,7 +2,7 @@
   "address": "0xC65372A9d4C4c65f0f9C5A11e138Cc869052CD42",
   "symbol": "PIKACHU",
   "name": "Pikachu",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -19,7 +19,7 @@
     "quality_pct": 4.8,
     "pool_share_pct": 65.0,
     "top_eoa_share_pct": 2.8,
-    "pool_buys_seen": 1856,
+    "pool_buys_seen": 1857,
     "burst_6h_pct": 10.3,
     "ladder_pct": 98.5,
     "buy_only_pct": 97.5,
@@ -28,11 +28,17 @@
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
     "holders_fetched": 437,
-    "transfers_fetched": 1900
+    "transfers_fetched": 1901
   },
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 4.8,
+      "organic_holders": 21,
+      "reported_holders": 437
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 4.8,
       "organic_holders": 21,
       "reported_holders": 437

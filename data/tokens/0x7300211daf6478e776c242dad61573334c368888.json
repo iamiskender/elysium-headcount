@@ -2,7 +2,7 @@
   "address": "0x7300211dAf6478E776C242DAd61573334c368888",
   "symbol": "ELYS",
   "name": "Elys",
-  "snapshot": "2026-10-15T22:41:22.273873+00:00",
+  "snapshot": "2026-10-16T09:13:08.559873+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,13 +26,19 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5328.54,
+    "market_cap_usd": 5267.91,
     "holders_fetched": 996,
     "transfers_fetched": 1831
   },
   "history": [
     {
       "date": "2026-10-15",
+      "organic_share_pct": 3.8,
+      "organic_holders": 38,
+      "reported_holders": 996
+    },
+    {
+      "date": "2026-10-16",
       "organic_share_pct": 3.8,
       "organic_holders": 38,
       "reported_holders": 996
