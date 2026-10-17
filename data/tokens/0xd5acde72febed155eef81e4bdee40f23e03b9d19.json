@@ -2,7 +2,7 @@
   "address": "0xd5aCdE72FEbeD155EEf81e4bDEe40F23e03B9D19",
   "symbol": "CTR",
   "name": "CTR",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -14,7 +14,7 @@
     "eoa_holders": 1249,
     "clone_wallets": 1239,
     "largest_cluster": 650,
-    "cross_token_wallets": 1240,
+    "cross_token_wallets": 1241,
     "est_organic": 8,
     "quality_pct": 0.6,
     "pool_share_pct": 96.8,
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 0.6,
+      "organic_holders": 8,
+      "reported_holders": 1250
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 0.6,
       "organic_holders": 8,
       "reported_holders": 1250

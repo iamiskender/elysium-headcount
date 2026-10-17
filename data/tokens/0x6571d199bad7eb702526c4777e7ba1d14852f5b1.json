@@ -2,7 +2,7 @@
   "address": "0x6571D199bad7eB702526c4777e7Ba1d14852F5b1",
   "symbol": "101025",
   "name": "10-10-25",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -14,8 +14,8 @@
     "eoa_holders": 1253,
     "clone_wallets": 1237,
     "largest_cluster": 1221,
-    "cross_token_wallets": 1240,
-    "est_organic": 13,
+    "cross_token_wallets": 1241,
+    "est_organic": 12,
     "quality_pct": 1.0,
     "pool_share_pct": 74.5,
     "top_eoa_share_pct": 19.9,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 0.0,
+    "market_cap_usd": 15814.54,
     "holders_fetched": 1254,
     "transfers_fetched": 1289
   },
@@ -41,6 +41,12 @@
       "date": "2026-10-16",
       "organic_share_pct": 1.0,
       "organic_holders": 13,
+      "reported_holders": 1254
+    },
+    {
+      "date": "2026-10-17",
+      "organic_share_pct": 1.0,
+      "organic_holders": 12,
       "reported_holders": 1254
     }
   ],

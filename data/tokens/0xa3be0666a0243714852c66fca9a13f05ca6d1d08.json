@@ -2,7 +2,7 @@
   "address": "0xA3Be0666a0243714852c66FCA9a13f05CA6D1d08",
   "symbol": "CTOFLOW",
   "name": "CTO acceptance",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 0.2,
+      "organic_holders": 1,
+      "reported_holders": 423
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 0.2,
       "organic_holders": 1,
       "reported_holders": 423

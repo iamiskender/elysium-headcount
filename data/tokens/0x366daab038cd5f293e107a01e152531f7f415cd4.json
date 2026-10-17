@@ -2,7 +2,7 @@
   "address": "0x366daaB038CD5f293e107a01E152531F7f415Cd4",
   "symbol": "FGFDGFD",
   "name": "FDGFDG",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -10,25 +10,25 @@
     "symbol": "FGFDGFD",
     "name": "FDGFDG",
     "address": "0x366daaB038CD5f293e107a01E152531F7f415Cd4",
-    "raw_holders": 1261,
-    "eoa_holders": 1260,
+    "raw_holders": 1260,
+    "eoa_holders": 1259,
     "clone_wallets": 1241,
     "largest_cluster": 699,
-    "cross_token_wallets": 1240,
-    "est_organic": 19,
-    "quality_pct": 1.5,
-    "pool_share_pct": 92.7,
+    "cross_token_wallets": 1244,
+    "est_organic": 14,
+    "quality_pct": 1.1,
+    "pool_share_pct": 92.8,
     "top_eoa_share_pct": 3.3,
     "pool_buys_seen": 1267,
     "burst_6h_pct": 98.3,
     "ladder_pct": 98.3,
-    "buy_only_pct": 99.9,
+    "buy_only_pct": 99.8,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
-    "holders_fetched": 1261,
-    "transfers_fetched": 1271
+    "holders_fetched": 1260,
+    "transfers_fetched": 1272
   },
   "history": [
     {
@@ -42,6 +42,12 @@
       "organic_share_pct": 1.5,
       "organic_holders": 19,
       "reported_holders": 1261
+    },
+    {
+      "date": "2026-10-17",
+      "organic_share_pct": 1.1,
+      "organic_holders": 14,
+      "reported_holders": 1260
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

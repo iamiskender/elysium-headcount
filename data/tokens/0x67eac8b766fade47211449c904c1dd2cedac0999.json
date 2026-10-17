@@ -2,7 +2,7 @@
   "address": "0x67eAC8b766FAde47211449C904c1dD2CEdAc0999",
   "symbol": "KRN",
   "name": "Karen",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -10,25 +10,25 @@
     "symbol": "KRN",
     "name": "Karen",
     "address": "0x67eAC8b766FAde47211449C904c1dD2CEdAc0999",
-    "raw_holders": 276,
-    "eoa_holders": 274,
+    "raw_holders": 278,
+    "eoa_holders": 276,
     "clone_wallets": 274,
     "largest_cluster": 238,
     "cross_token_wallets": 274,
-    "est_organic": 0,
-    "quality_pct": 0.0,
-    "pool_share_pct": 98.4,
+    "est_organic": 2,
+    "quality_pct": 0.7,
+    "pool_share_pct": 98.3,
     "top_eoa_share_pct": 0.0,
-    "pool_buys_seen": 310,
-    "burst_6h_pct": 51.6,
-    "ladder_pct": 100.0,
+    "pool_buys_seen": 312,
+    "burst_6h_pct": 51.3,
+    "ladder_pct": 99.4,
     "buy_only_pct": 100.0,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
-    "holders_fetched": 276,
-    "transfers_fetched": 312
+    "holders_fetched": 278,
+    "transfers_fetched": 314
   },
   "history": [
     {
@@ -42,6 +42,12 @@
       "organic_share_pct": 0.0,
       "organic_holders": 0,
       "reported_holders": 276
+    },
+    {
+      "date": "2026-10-17",
+      "organic_share_pct": 0.7,
+      "organic_holders": 2,
+      "reported_holders": 278
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

@@ -2,7 +2,7 @@
   "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
   "symbol": "SENDIT",
   "name": "SENDIT",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 0.0,
+    "market_cap_usd": 13586.1,
     "holders_fetched": 1256,
     "transfers_fetched": 1370
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 1.0,
+      "organic_holders": 13,
+      "reported_holders": 1256
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 1.0,
       "organic_holders": 13,
       "reported_holders": 1256

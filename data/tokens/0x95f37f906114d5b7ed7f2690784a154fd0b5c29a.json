@@ -2,7 +2,7 @@
   "address": "0x95f37F906114D5B7ED7f2690784a154Fd0B5c29A",
   "symbol": "ECOSIG4",
   "name": "EcoSig4356",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 197,
     "clone_wallets": 140,
     "largest_cluster": 95,
-    "cross_token_wallets": 192,
+    "cross_token_wallets": 193,
     "est_organic": 4,
     "quality_pct": 2.0,
     "pool_share_pct": 98.2,
@@ -25,8 +25,8 @@
     "buy_only_pct": 99.5,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 5.71,
-    "market_cap_usd": 3690.56,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3651.62,
     "holders_fetched": 198,
     "transfers_fetched": 486
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 2.0,
+      "organic_holders": 4,
+      "reported_holders": 198
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 2.0,
       "organic_holders": 4,
       "reported_holders": 198

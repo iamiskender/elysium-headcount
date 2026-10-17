@@ -2,7 +2,7 @@
   "address": "0x0FfC1DADdbd6B65644fBDf737c43640c2bf057AC",
   "symbol": "rr43",
   "name": "fre",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -10,25 +10,25 @@
     "symbol": "rr43",
     "name": "fre",
     "address": "0x0FfC1DADdbd6B65644fBDf737c43640c2bf057AC",
-    "raw_holders": 233,
-    "eoa_holders": 231,
+    "raw_holders": 234,
+    "eoa_holders": 232,
     "clone_wallets": 231,
     "largest_cluster": 231,
     "cross_token_wallets": 231,
-    "est_organic": 0,
-    "quality_pct": 0.0,
-    "pool_share_pct": 98.8,
-    "top_eoa_share_pct": 0.0,
-    "pool_buys_seen": 231,
-    "burst_6h_pct": 77.9,
-    "ladder_pct": 100.0,
+    "est_organic": 1,
+    "quality_pct": 0.4,
+    "pool_share_pct": 98.3,
+    "top_eoa_share_pct": 0.4,
+    "pool_buys_seen": 232,
+    "burst_6h_pct": 77.6,
+    "ladder_pct": 99.6,
     "buy_only_pct": 100.0,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
-    "holders_fetched": 233,
-    "transfers_fetched": 233
+    "holders_fetched": 234,
+    "transfers_fetched": 234
   },
   "history": [
     {
@@ -42,6 +42,12 @@
       "organic_share_pct": 0.0,
       "organic_holders": 0,
       "reported_holders": 233
+    },
+    {
+      "date": "2026-10-17",
+      "organic_share_pct": 0.4,
+      "organic_holders": 1,
+      "reported_holders": 234
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

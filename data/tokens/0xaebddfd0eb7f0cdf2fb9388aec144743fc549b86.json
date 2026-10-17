@@ -2,7 +2,7 @@
   "address": "0xaEBddfD0Eb7F0CDF2fb9388Aec144743fc549b86",
   "symbol": "CVT",
   "name": "cryptovn39",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 1.0,
+      "organic_holders": 2,
+      "reported_holders": 205
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 1.0,
       "organic_holders": 2,
       "reported_holders": 205

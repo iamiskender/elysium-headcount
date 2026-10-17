@@ -2,7 +2,7 @@
   "address": "0x9A3cb4153fF52279B759a87A3aa4c3E3fb88C2b2",
   "symbol": "JEFF",
   "name": "joff",
-  "snapshot": "2026-10-16T09:13:08.559873+00:00",
+  "snapshot": "2026-10-17T08:56:01.880812+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-10-16",
+      "organic_share_pct": 0.6,
+      "organic_holders": 8,
+      "reported_holders": 1249
+    },
+    {
+      "date": "2026-10-17",
       "organic_share_pct": 0.6,
       "organic_holders": 8,
       "reported_holders": 1249
