@@ -2,7 +2,7 @@
   "address": "0x8Eb6Fb8aA86FC5bCf748928E10590aBacb980999",
   "symbol": "PEPECHIK",
   "name": "PEPECHICKEN",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 122,
     "clone_wallets": 107,
     "largest_cluster": 107,
-    "cross_token_wallets": 108,
-    "est_organic": 14,
-    "quality_pct": 11.5,
+    "cross_token_wallets": 109,
+    "est_organic": 13,
+    "quality_pct": 10.7,
     "pool_share_pct": 98.6,
     "top_eoa_share_pct": 0.3,
     "pool_buys_seen": 122,
@@ -47,6 +47,12 @@
       "date": "2026-10-17",
       "organic_share_pct": 11.5,
       "organic_holders": 14,
+      "reported_holders": 124
+    },
+    {
+      "date": "2026-10-18",
+      "organic_share_pct": 10.7,
+      "organic_holders": 13,
       "reported_holders": 124
     }
   ],

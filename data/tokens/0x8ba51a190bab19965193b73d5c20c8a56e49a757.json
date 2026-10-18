@@ -2,7 +2,7 @@
   "address": "0x8bA51a190Bab19965193b73D5c20c8a56E49A757",
   "symbol": "ltUSDC",
   "name": "TheHouse load-test USDC",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "too_few_eoa",
     "family": "",

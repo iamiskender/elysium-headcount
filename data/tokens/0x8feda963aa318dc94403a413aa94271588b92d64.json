@@ -1,0 +1,43 @@
+{
+  "address": "0x8FEdA963AA318dC94403A413AA94271588B92d64",
+  "symbol": "WNATIVE",
+  "name": "Wrapped Native",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "WNATIVE",
+    "name": "Wrapped Native",
+    "address": "0x8FEdA963AA318dC94403A413AA94271588B92d64",
+    "raw_holders": 861,
+    "eoa_holders": 859,
+    "clone_wallets": 858,
+    "largest_cluster": 858,
+    "cross_token_wallets": 0,
+    "est_organic": 1,
+    "quality_pct": 0.1,
+    "pool_share_pct": 1.5,
+    "top_eoa_share_pct": 0.1,
+    "pool_buys_seen": 569,
+    "burst_6h_pct": 99.1,
+    "ladder_pct": 99.1,
+    "buy_only_pct": 0.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 861,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-18",
+      "organic_share_pct": 0.1,
+      "organic_holders": 1,
+      "reported_holders": 861
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

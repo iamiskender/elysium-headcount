@@ -2,7 +2,7 @@
   "address": "0x9A3cb4153fF52279B759a87A3aa4c3E3fb88C2b2",
   "symbol": "JEFF",
   "name": "joff",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -14,8 +14,8 @@
     "eoa_holders": 1248,
     "clone_wallets": 1237,
     "largest_cluster": 669,
-    "cross_token_wallets": 1240,
-    "est_organic": 8,
+    "cross_token_wallets": 1241,
+    "est_organic": 7,
     "quality_pct": 0.6,
     "pool_share_pct": 96.1,
     "top_eoa_share_pct": 1.8,
@@ -47,6 +47,12 @@
       "date": "2026-10-17",
       "organic_share_pct": 0.6,
       "organic_holders": 8,
+      "reported_holders": 1249
+    },
+    {
+      "date": "2026-10-18",
+      "organic_share_pct": 0.6,
+      "organic_holders": 7,
       "reported_holders": 1249
     }
   ],

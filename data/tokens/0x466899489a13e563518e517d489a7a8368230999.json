@@ -2,7 +2,7 @@
   "address": "0x466899489a13e563518E517D489a7a8368230999",
   "symbol": "HYTIQ",
   "name": "HYPER KINETIQ",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-10-17",
+      "organic_share_pct": 1.5,
+      "organic_holders": 2,
+      "reported_holders": 137
+    },
+    {
+      "date": "2026-10-18",
       "organic_share_pct": 1.5,
       "organic_holders": 2,
       "reported_holders": 137

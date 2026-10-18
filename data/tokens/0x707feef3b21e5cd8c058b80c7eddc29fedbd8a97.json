@@ -2,10 +2,10 @@
   "address": "0x707feEf3b21e5CD8c058B80C7eddc29fEdbd8A97",
   "symbol": "HFRIED",
   "name": "HYPERFRIED",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
+    "family": "F4",
     "family_size": 3,
     "symbol": "HFRIED",
     "name": "HYPERFRIED",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 11276.95,
+    "market_cap_usd": 10994.98,
     "holders_fetched": 506,
     "transfers_fetched": 745
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-10-17",
+      "organic_share_pct": 3.4,
+      "organic_holders": 17,
+      "reported_holders": 506
+    },
+    {
+      "date": "2026-10-18",
       "organic_share_pct": 3.4,
       "organic_holders": 17,
       "reported_holders": 506

@@ -2,7 +2,7 @@
   "address": "0x497E8606916Cd777FE4A67E7123631C45C69965b",
   "symbol": "VXH",
   "name": "vxhvn39",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 169,
     "clone_wallets": 0,
     "largest_cluster": 8,
-    "cross_token_wallets": 166,
-    "est_organic": 3,
-    "quality_pct": 1.8,
+    "cross_token_wallets": 167,
+    "est_organic": 2,
+    "quality_pct": 1.2,
     "pool_share_pct": 20.0,
     "top_eoa_share_pct": 7.1,
     "pool_buys_seen": 171,
@@ -47,6 +47,12 @@
       "date": "2026-10-17",
       "organic_share_pct": 1.8,
       "organic_holders": 3,
+      "reported_holders": 170
+    },
+    {
+      "date": "2026-10-18",
+      "organic_share_pct": 1.2,
+      "organic_holders": 2,
       "reported_holders": 170
     }
   ],

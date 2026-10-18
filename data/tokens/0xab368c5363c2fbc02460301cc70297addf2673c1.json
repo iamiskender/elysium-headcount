@@ -2,7 +2,7 @@
   "address": "0xAB368c5363c2fbc02460301cC70297addf2673c1",
   "symbol": "PURR",
   "name": "PURR",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -14,9 +14,9 @@
     "eoa_holders": 1247,
     "clone_wallets": 1238,
     "largest_cluster": 669,
-    "cross_token_wallets": 1240,
-    "est_organic": 7,
-    "quality_pct": 0.6,
+    "cross_token_wallets": 1241,
+    "est_organic": 6,
+    "quality_pct": 0.5,
     "pool_share_pct": 96.0,
     "top_eoa_share_pct": 1.7,
     "pool_buys_seen": 1317,
@@ -47,6 +47,12 @@
       "date": "2026-10-17",
       "organic_share_pct": 0.6,
       "organic_holders": 7,
+      "reported_holders": 1248
+    },
+    {
+      "date": "2026-10-18",
+      "organic_share_pct": 0.5,
+      "organic_holders": 6,
       "reported_holders": 1248
     }
   ],

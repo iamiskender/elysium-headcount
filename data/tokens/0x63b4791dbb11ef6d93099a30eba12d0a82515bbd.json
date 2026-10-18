@@ -2,11 +2,11 @@
   "address": "0x63b4791DBb11Ef6D93099A30eba12d0A82515bBD",
   "symbol": "CGTC",
   "name": "cryptoglobal79",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
-    "family_size": 6,
+    "family_size": 5,
     "symbol": "CGTC",
     "name": "cryptoglobal79",
     "address": "0x63b4791DBb11Ef6D93099A30eba12d0A82515bBD",
@@ -19,8 +19,8 @@
     "quality_pct": 0.5,
     "pool_share_pct": 20.0,
     "top_eoa_share_pct": 1.5,
-    "pool_buys_seen": 203,
-    "burst_6h_pct": 72.9,
+    "pool_buys_seen": 204,
+    "burst_6h_pct": 72.5,
     "ladder_pct": 0.0,
     "buy_only_pct": 100.0,
     "farm_sample_pct": null,
@@ -28,7 +28,7 @@
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
     "holders_fetched": 204,
-    "transfers_fetched": 204
+    "transfers_fetched": 205
   },
   "history": [
     {
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-10-17",
+      "organic_share_pct": 0.5,
+      "organic_holders": 1,
+      "reported_holders": 204
+    },
+    {
+      "date": "2026-10-18",
       "organic_share_pct": 0.5,
       "organic_holders": 1,
       "reported_holders": 204

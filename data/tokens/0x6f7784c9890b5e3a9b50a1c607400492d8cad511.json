@@ -2,7 +2,7 @@
   "address": "0x6f7784C9890B5e3A9B50A1c607400492D8CaD511",
   "symbol": "OK",
   "name": "oh",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-10-17",
+      "organic_share_pct": 0.6,
+      "organic_holders": 1,
+      "reported_holders": 167
+    },
+    {
+      "date": "2026-10-18",
       "organic_share_pct": 0.6,
       "organic_holders": 1,
       "reported_holders": 167

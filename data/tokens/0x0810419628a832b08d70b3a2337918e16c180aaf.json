@@ -2,7 +2,7 @@
   "address": "0x0810419628A832B08D70B3a2337918E16C180Aaf",
   "symbol": "GAGA",
   "name": "GAGA BULLISH COIN",
-  "snapshot": "2026-10-17T08:56:01.880812+00:00",
+  "snapshot": "2026-10-18T09:11:03.613999+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-10-17",
+      "organic_share_pct": 0.4,
+      "organic_holders": 5,
+      "reported_holders": 1248
+    },
+    {
+      "date": "2026-10-18",
       "organic_share_pct": 0.4,
       "organic_holders": 5,
       "reported_holders": 1248
