@@ -2,7 +2,7 @@
   "address": "0x527096A607896a1cDB497a39ed5859a953bb5e57",
   "symbol": "HMLDR",
   "name": "homelander",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 1.3,
+      "organic_holders": 16,
+      "reported_holders": 1266
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 1.3,
       "organic_holders": 16,
       "reported_holders": 1266

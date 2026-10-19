@@ -2,7 +2,7 @@
   "address": "0xD699d701EfB2412bdB6a44518c3081Aa22D00999",
   "symbol": "Greed",
   "name": "Greed",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 0.7,
+      "organic_holders": 1,
+      "reported_holders": 139
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 0.7,
       "organic_holders": 1,
       "reported_holders": 139

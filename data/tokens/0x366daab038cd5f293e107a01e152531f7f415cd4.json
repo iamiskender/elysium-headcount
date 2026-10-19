@@ -2,7 +2,7 @@
   "address": "0x366daaB038CD5f293e107a01E152531F7f415Cd4",
   "symbol": "FGFDGFD",
   "name": "FDGFDG",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 1.2,
+      "organic_holders": 15,
+      "reported_holders": 1260
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 1.2,
       "organic_holders": 15,
       "reported_holders": 1260

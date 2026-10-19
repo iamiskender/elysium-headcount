@@ -1,0 +1,43 @@
+{
+  "address": "0x3724d4d48336ed56B5829902d56cB00da478E877",
+  "symbol": "TRA",
+  "name": "TRAIN",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "TRA",
+    "name": "TRAIN",
+    "address": "0x3724d4d48336ed56B5829902d56cB00da478E877",
+    "raw_holders": 145,
+    "eoa_holders": 145,
+    "clone_wallets": 111,
+    "largest_cluster": 111,
+    "cross_token_wallets": 7,
+    "est_organic": 28,
+    "quality_pct": 19.3,
+    "pool_share_pct": 97.3,
+    "top_eoa_share_pct": 1.7,
+    "pool_buys_seen": 152,
+    "burst_6h_pct": 84.2,
+    "ladder_pct": 63.8,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": 66.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 146,
+    "transfers_fetched": 161
+  },
+  "history": [
+    {
+      "date": "2026-10-19",
+      "organic_share_pct": 19.3,
+      "organic_holders": 28,
+      "reported_holders": 145
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

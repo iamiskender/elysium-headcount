@@ -2,7 +2,7 @@
   "address": "0x6571D199bad7eB702526c4777e7Ba1d14852F5b1",
   "symbol": "101025",
   "name": "10-10-25",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -25,8 +25,8 @@
     "buy_only_pct": 99.6,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 66.11,
-    "market_cap_usd": 15524.18,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 15853.25,
     "holders_fetched": 1254,
     "transfers_fetched": 1292
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 1.0,
+      "organic_holders": 12,
+      "reported_holders": 1254
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 1.0,
       "organic_holders": 12,
       "reported_holders": 1254

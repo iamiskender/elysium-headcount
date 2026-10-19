@@ -2,7 +2,7 @@
   "address": "0xed31816C8b553A0D3dCd8e052046b37ab8a98888",
   "symbol": "AGENT",
   "name": "Agent K",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 2646,
     "clone_wallets": 1941,
     "largest_cluster": 1168,
-    "cross_token_wallets": 951,
-    "est_organic": 695,
-    "quality_pct": 26.3,
+    "cross_token_wallets": 952,
+    "est_organic": 694,
+    "quality_pct": 26.2,
     "pool_share_pct": 2.2,
     "top_eoa_share_pct": 12.6,
     "pool_buys_seen": 1718,
@@ -25,8 +25,8 @@
     "buy_only_pct": 96.7,
     "farm_sample_pct": 80.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 46147.42,
-    "market_cap_usd": 8422682.83,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 8489464.13,
     "holders_fetched": 2647,
     "transfers_fetched": 2000
   },
@@ -53,6 +53,12 @@
       "date": "2026-10-18",
       "organic_share_pct": 26.3,
       "organic_holders": 695,
+      "reported_holders": 2647
+    },
+    {
+      "date": "2026-10-19",
+      "organic_share_pct": 26.2,
+      "organic_holders": 694,
       "reported_holders": 2647
     }
   ],

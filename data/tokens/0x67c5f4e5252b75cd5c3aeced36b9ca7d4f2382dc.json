@@ -2,7 +2,7 @@
   "address": "0x67C5f4E5252b75cD5c3aeCEd36B9CA7D4f2382Dc",
   "symbol": "TEL",
   "name": "Telegramcoin",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5880.18,
+    "market_cap_usd": 6004.82,
     "holders_fetched": 630,
     "transfers_fetched": 1454
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 2.4,
+      "organic_holders": 15,
+      "reported_holders": 630
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 2.4,
       "organic_holders": 15,
       "reported_holders": 630

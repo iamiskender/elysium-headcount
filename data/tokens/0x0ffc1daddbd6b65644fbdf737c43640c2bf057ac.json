@@ -2,7 +2,7 @@
   "address": "0x0FfC1DADdbd6B65644fBDf737c43640c2bf057AC",
   "symbol": "rr43",
   "name": "fre",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 0.9,
+      "organic_holders": 2,
+      "reported_holders": 235
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 0.9,
       "organic_holders": 2,
       "reported_holders": 235

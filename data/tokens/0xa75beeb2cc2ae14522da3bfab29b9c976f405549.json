@@ -2,7 +2,7 @@
   "address": "0xA75BeEB2Cc2aE14522dA3BfAb29B9C976F405549",
   "symbol": "TJEA",
   "name": "tjean",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 0.8,
+      "organic_holders": 10,
+      "reported_holders": 1254
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 0.8,
       "organic_holders": 10,
       "reported_holders": 1254

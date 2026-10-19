@@ -2,7 +2,7 @@
   "address": "0x6eA3907B3f4Dbe22D58b51F981dEB48c9B7fe152",
   "symbol": "HYPE",
   "name": "HYPERLIQUID",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -25,8 +25,8 @@
     "buy_only_pct": 99.4,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 242.49,
-    "market_cap_usd": 7611.16,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7772.49,
     "holders_fetched": 1253,
     "transfers_fetched": 1434
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 0.9,
+      "organic_holders": 11,
+      "reported_holders": 1253
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 0.9,
       "organic_holders": 11,
       "reported_holders": 1253

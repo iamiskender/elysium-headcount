@@ -2,7 +2,7 @@
   "address": "0x1fd99198cAccDE08Ad9383aade3D6c11be71E4f3",
   "symbol": "TCT",
   "name": "thaocute1998",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 1.6,
+      "organic_holders": 20,
+      "reported_holders": 1272
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 1.6,
       "organic_holders": 20,
       "reported_holders": 1272

@@ -2,7 +2,7 @@
   "address": "0xD27Fe7B07437603CA5032737dD5Ac7727247039E",
   "symbol": "MNC",
   "name": "MNC",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -10,25 +10,25 @@
     "symbol": "MNC",
     "name": "MNC",
     "address": "0xD27Fe7B07437603CA5032737dD5Ac7727247039E",
-    "raw_holders": 1313,
-    "eoa_holders": 1313,
-    "clone_wallets": 1244,
-    "largest_cluster": 1188,
+    "raw_holders": 1325,
+    "eoa_holders": 1324,
+    "clone_wallets": 1245,
+    "largest_cluster": 1189,
     "cross_token_wallets": 1246,
-    "est_organic": 61,
-    "quality_pct": 4.6,
-    "pool_share_pct": 35.0,
-    "top_eoa_share_pct": 63.2,
-    "pool_buys_seen": 1452,
-    "burst_6h_pct": 90.5,
-    "ladder_pct": 90.4,
-    "buy_only_pct": 98.6,
+    "est_organic": 71,
+    "quality_pct": 5.4,
+    "pool_share_pct": 34.5,
+    "top_eoa_share_pct": 63.7,
+    "pool_buys_seen": 1472,
+    "burst_6h_pct": 89.3,
+    "ladder_pct": 89.5,
+    "buy_only_pct": 98.3,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 33179.41,
-    "market_cap_usd": 160542.42,
-    "holders_fetched": 1314,
-    "transfers_fetched": 1490
+    "volume_24h_usd": 845.7,
+    "market_cap_usd": 170421.62,
+    "holders_fetched": 1325,
+    "transfers_fetched": 1518
   },
   "history": [
     {
@@ -54,6 +54,12 @@
       "organic_share_pct": 4.6,
       "organic_holders": 61,
       "reported_holders": 1313
+    },
+    {
+      "date": "2026-10-19",
+      "organic_share_pct": 5.4,
+      "organic_holders": 71,
+      "reported_holders": 1325
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

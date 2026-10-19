@@ -2,7 +2,7 @@
   "address": "0xA969981ec522FA7b48aE88278B3Db56355333a24",
   "symbol": "GCR",
   "name": "Gigantic Rebirth",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -10,25 +10,25 @@
     "symbol": "GCR",
     "name": "Gigantic Rebirth",
     "address": "0xA969981ec522FA7b48aE88278B3Db56355333a24",
-    "raw_holders": 143,
-    "eoa_holders": 143,
+    "raw_holders": 149,
+    "eoa_holders": 148,
     "clone_wallets": 87,
     "largest_cluster": 87,
-    "cross_token_wallets": 103,
-    "est_organic": 40,
-    "quality_pct": 28.0,
-    "pool_share_pct": 93.1,
+    "cross_token_wallets": 134,
+    "est_organic": 14,
+    "quality_pct": 9.5,
+    "pool_share_pct": 93.0,
     "top_eoa_share_pct": 2.0,
-    "pool_buys_seen": 757,
-    "burst_6h_pct": 98.7,
-    "ladder_pct": 98.3,
+    "pool_buys_seen": 762,
+    "burst_6h_pct": 98.0,
+    "ladder_pct": 97.6,
     "buy_only_pct": 99.3,
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
-    "volume_24h_usd": 250.31,
-    "market_cap_usd": 3841.81,
-    "holders_fetched": 144,
-    "transfers_fetched": 760
+    "volume_24h_usd": 4.04,
+    "market_cap_usd": 4006.09,
+    "holders_fetched": 149,
+    "transfers_fetched": 765
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 28.0,
       "organic_holders": 40,
       "reported_holders": 143
+    },
+    {
+      "date": "2026-10-19",
+      "organic_share_pct": 9.5,
+      "organic_holders": 14,
+      "reported_holders": 149
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

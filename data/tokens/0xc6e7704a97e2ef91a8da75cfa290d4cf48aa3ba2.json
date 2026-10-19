@@ -2,7 +2,7 @@
   "address": "0xC6e7704A97e2EF91a8da75Cfa290D4cf48Aa3Ba2",
   "symbol": "EDOG",
   "name": "elysium dog",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 7459.77,
+    "market_cap_usd": 7617.9,
     "holders_fetched": 1251,
     "transfers_fetched": 1328
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 0.8,
+      "organic_holders": 10,
+      "reported_holders": 1251
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 0.8,
       "organic_holders": 10,
       "reported_holders": 1251

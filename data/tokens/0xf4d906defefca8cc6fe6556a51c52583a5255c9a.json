@@ -2,7 +2,7 @@
   "address": "0xF4D906DefEFca8cC6FE6556A51C52583a5255c9a",
   "symbol": "PEPE",
   "name": "PEPE",
-  "snapshot": "2026-10-18T09:11:03.613999+00:00",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8476.69,
+    "market_cap_usd": 8656.37,
     "holders_fetched": 1257,
     "transfers_fetched": 1438
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-10-18",
+      "organic_share_pct": 1.2,
+      "organic_holders": 15,
+      "reported_holders": 1257
+    },
+    {
+      "date": "2026-10-19",
       "organic_share_pct": 1.2,
       "organic_holders": 15,
       "reported_holders": 1257

@@ -1,0 +1,43 @@
+{
+  "address": "0xfb3a6F0b6Ec7837EAF298Efe0e5DC534Bf1D746a",
+  "symbol": "UNI-V2",
+  "name": "Uniswap V2",
+  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "address": "0xfb3a6F0b6Ec7837EAF298Efe0e5DC534Bf1D746a",
+    "raw_holders": 122,
+    "eoa_holders": 123,
+    "clone_wallets": 0,
+    "largest_cluster": 6,
+    "cross_token_wallets": 7,
+    "est_organic": 116,
+    "quality_pct": 94.3,
+    "pool_share_pct": 0.0,
+    "top_eoa_share_pct": 57.5,
+    "pool_buys_seen": 28,
+    "burst_6h_pct": 53.6,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 0.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 123,
+    "transfers_fetched": 220
+  },
+  "history": [
+    {
+      "date": "2026-10-19",
+      "organic_share_pct": 94.3,
+      "organic_holders": 116,
+      "reported_holders": 122
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}
