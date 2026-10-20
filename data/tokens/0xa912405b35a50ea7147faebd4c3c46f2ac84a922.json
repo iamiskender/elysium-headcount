@@ -1,0 +1,43 @@
+{
+  "address": "0xa912405b35A50Ea7147FaEbd4C3C46f2aC84a922",
+  "symbol": "PURR",
+  "name": "Purr Test Token",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F4",
+    "family_size": 9,
+    "symbol": "PURR",
+    "name": "Purr Test Token",
+    "address": "0xa912405b35A50Ea7147FaEbd4C3C46f2aC84a922",
+    "raw_holders": 346,
+    "eoa_holders": 359,
+    "clone_wallets": 350,
+    "largest_cluster": 350,
+    "cross_token_wallets": 353,
+    "est_organic": 6,
+    "quality_pct": 1.7,
+    "pool_share_pct": 0.4,
+    "top_eoa_share_pct": 0.4,
+    "pool_buys_seen": 25,
+    "burst_6h_pct": 36.0,
+    "ladder_pct": 24.0,
+    "buy_only_pct": 57.1,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 360,
+    "transfers_fetched": 401
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.7,
+      "organic_holders": 6,
+      "reported_holders": 346
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

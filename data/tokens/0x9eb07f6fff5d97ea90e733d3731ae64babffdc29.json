@@ -1,0 +1,43 @@
+{
+  "address": "0x9eB07F6Fff5d97ea90e733d3731Ae64BaBFfDc29",
+  "symbol": "RING",
+  "name": "ring",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "RING",
+    "name": "ring",
+    "address": "0x9eB07F6Fff5d97ea90e733d3731Ae64BaBFfDc29",
+    "raw_holders": 118,
+    "eoa_holders": 148,
+    "clone_wallets": 132,
+    "largest_cluster": 50,
+    "cross_token_wallets": 140,
+    "est_organic": 7,
+    "quality_pct": 4.7,
+    "pool_share_pct": 99.1,
+    "top_eoa_share_pct": 0.2,
+    "pool_buys_seen": 151,
+    "burst_6h_pct": 82.1,
+    "ladder_pct": 13.9,
+    "buy_only_pct": 98.7,
+    "farm_sample_pct": 73.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 149,
+    "transfers_fetched": 156
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 4.7,
+      "organic_holders": 7,
+      "reported_holders": 118
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

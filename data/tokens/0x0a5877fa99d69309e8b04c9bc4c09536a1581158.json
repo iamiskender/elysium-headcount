@@ -2,7 +2,7 @@
   "address": "0x0a5877fA99d69309E8b04C9bc4c09536a1581158",
   "symbol": "pUSD",
   "name": "Pindar Test USD",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "pUSD",
     "name": "Pindar Test USD",
     "address": "0x0a5877fA99d69309E8b04C9bc4c09536a1581158",
-    "raw_holders": 203,
-    "eoa_holders": 202,
-    "clone_wallets": 184,
+    "raw_holders": 211,
+    "eoa_holders": 212,
+    "clone_wallets": 189,
     "largest_cluster": 82,
-    "cross_token_wallets": 122,
+    "cross_token_wallets": 145,
     "est_organic": 18,
-    "quality_pct": 8.9,
-    "pool_share_pct": 84.9,
+    "quality_pct": 8.5,
+    "pool_share_pct": 84.3,
     "top_eoa_share_pct": 0.2,
     "pool_buys_seen": 7,
     "burst_6h_pct": 28.6,
     "ladder_pct": 0.0,
     "buy_only_pct": 0.0,
-    "farm_sample_pct": 40.0,
+    "farm_sample_pct": 33.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
-    "holders_fetched": 203,
-    "transfers_fetched": 597
+    "holders_fetched": 213,
+    "transfers_fetched": 645
   },
   "history": [
     {
@@ -48,6 +48,12 @@
       "organic_share_pct": 8.9,
       "organic_holders": 18,
       "reported_holders": 203
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 8.5,
+      "organic_holders": 18,
+      "reported_holders": 211
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

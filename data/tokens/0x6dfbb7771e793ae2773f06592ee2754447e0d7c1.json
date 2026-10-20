@@ -1,0 +1,43 @@
+{
+  "address": "0x6dfBB7771e793ae2773f06592Ee2754447E0D7C1",
+  "symbol": "HYPERBART",
+  "name": "HYPERBART",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 20,
+    "symbol": "HYPERBART",
+    "name": "HYPERBART",
+    "address": "0x6dfBB7771e793ae2773f06592Ee2754447E0D7C1",
+    "raw_holders": 194,
+    "eoa_holders": 193,
+    "clone_wallets": 125,
+    "largest_cluster": 25,
+    "cross_token_wallets": 173,
+    "est_organic": 20,
+    "quality_pct": 10.4,
+    "pool_share_pct": 85.4,
+    "top_eoa_share_pct": 12.1,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 100.0,
+    "ladder_pct": 100.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 54.3,
+    "market_cap_usd": 9217.34,
+    "holders_fetched": 194,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 10.4,
+      "organic_holders": 20,
+      "reported_holders": 194
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

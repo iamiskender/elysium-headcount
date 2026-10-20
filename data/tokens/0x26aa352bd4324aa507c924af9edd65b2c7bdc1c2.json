@@ -1,0 +1,43 @@
+{
+  "address": "0x26aA352bD4324AA507C924AF9EdD65B2c7BDC1c2",
+  "symbol": "HEX",
+  "name": "Hex",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "HEX",
+    "name": "Hex",
+    "address": "0x26aA352bD4324AA507C924AF9EdD65B2c7BDC1c2",
+    "raw_holders": 136,
+    "eoa_holders": 136,
+    "clone_wallets": 78,
+    "largest_cluster": 46,
+    "cross_token_wallets": 0,
+    "est_organic": 58,
+    "quality_pct": 42.6,
+    "pool_share_pct": 0.0,
+    "top_eoa_share_pct": 100.0,
+    "pool_buys_seen": 1651,
+    "burst_6h_pct": 30.7,
+    "ladder_pct": 20.7,
+    "buy_only_pct": 27.6,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 137,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 42.6,
+      "organic_holders": 58,
+      "reported_holders": 136
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

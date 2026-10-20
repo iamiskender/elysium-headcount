@@ -2,33 +2,33 @@
   "address": "0xA3Be0666a0243714852c66FCA9a13f05CA6D1d08",
   "symbol": "CTOFLOW",
   "name": "CTO acceptance",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 5,
+    "family": "F5",
+    "family_size": 6,
     "symbol": "CTOFLOW",
     "name": "CTO acceptance",
     "address": "0xA3Be0666a0243714852c66FCA9a13f05CA6D1d08",
     "raw_holders": 423,
     "eoa_holders": 415,
-    "clone_wallets": 402,
-    "largest_cluster": 111,
+    "clone_wallets": 395,
+    "largest_cluster": 97,
     "cross_token_wallets": 414,
     "est_organic": 1,
     "quality_pct": 0.2,
-    "pool_share_pct": 83.1,
+    "pool_share_pct": 80.1,
     "top_eoa_share_pct": 1.1,
-    "pool_buys_seen": 1836,
-    "burst_6h_pct": 10.5,
-    "ladder_pct": 99.7,
-    "buy_only_pct": 99.8,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 9.3,
+    "ladder_pct": 100.0,
+    "buy_only_pct": 100.0,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
     "holders_fetched": 423,
-    "transfers_fetched": 1846
+    "transfers_fetched": 2000
   },
   "history": [
     {
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-10-19",
+      "organic_share_pct": 0.2,
+      "organic_holders": 1,
+      "reported_holders": 423
+    },
+    {
+      "date": "2026-10-20",
       "organic_share_pct": 0.2,
       "organic_holders": 1,
       "reported_holders": 423

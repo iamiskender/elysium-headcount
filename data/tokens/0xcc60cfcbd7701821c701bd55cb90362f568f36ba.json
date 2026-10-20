@@ -2,7 +2,7 @@
   "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
   "symbol": "SENDIT",
   "name": "SENDIT",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -10,13 +10,13 @@
     "symbol": "SENDIT",
     "name": "SENDIT",
     "address": "0xCC60CFcBd7701821C701bD55cb90362F568f36Ba",
-    "raw_holders": 1256,
-    "eoa_holders": 1255,
+    "raw_holders": 1255,
+    "eoa_holders": 1254,
     "clone_wallets": 1238,
     "largest_cluster": 1184,
-    "cross_token_wallets": 1243,
-    "est_organic": 12,
-    "quality_pct": 1.0,
+    "cross_token_wallets": 1248,
+    "est_organic": 6,
+    "quality_pct": 0.5,
     "pool_share_pct": 77.5,
     "top_eoa_share_pct": 19.5,
     "pool_buys_seen": 1354,
@@ -25,10 +25,10 @@
     "buy_only_pct": 99.1,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.0,
-    "market_cap_usd": 13527.17,
-    "holders_fetched": 1256,
-    "transfers_fetched": 1370
+    "volume_24h_usd": 7.87,
+    "market_cap_usd": 13224.44,
+    "holders_fetched": 1255,
+    "transfers_fetched": 1371
   },
   "history": [
     {
@@ -60,6 +60,12 @@
       "organic_share_pct": 1.0,
       "organic_holders": 12,
       "reported_holders": 1256
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 0.5,
+      "organic_holders": 6,
+      "reported_holders": 1255
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

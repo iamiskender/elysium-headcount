@@ -1,0 +1,43 @@
+{
+  "address": "0x327B2D45eAA5Ede2825ee07F5B37432e976f3851",
+  "symbol": "UCD6AA",
+  "name": "Elysium Badge 3 3",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F3",
+    "family_size": 14,
+    "symbol": "UCD6AA",
+    "name": "Elysium Badge 3 3",
+    "address": "0x327B2D45eAA5Ede2825ee07F5B37432e976f3851",
+    "raw_holders": 223,
+    "eoa_holders": 228,
+    "clone_wallets": 200,
+    "largest_cluster": 200,
+    "cross_token_wallets": 228,
+    "est_organic": 0,
+    "quality_pct": 0.0,
+    "pool_share_pct": 39.0,
+    "top_eoa_share_pct": 9.8,
+    "pool_buys_seen": 29,
+    "burst_6h_pct": 100.0,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 92.9,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 11.6,
+    "market_cap_usd": 42.27,
+    "holders_fetched": 229,
+    "transfers_fetched": 231
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 223
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

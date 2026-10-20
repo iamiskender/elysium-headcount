@@ -2,7 +2,7 @@
   "address": "0xFeF9040Abb9251E951B152077891483380d2B092",
   "symbol": "CHECKE",
   "name": "Checked1",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 116,
     "clone_wallets": 0,
     "largest_cluster": 6,
-    "cross_token_wallets": 113,
-    "est_organic": 3,
-    "quality_pct": 2.6,
+    "cross_token_wallets": 114,
+    "est_organic": 2,
+    "quality_pct": 1.7,
     "pool_share_pct": 20.0,
     "top_eoa_share_pct": 10.4,
     "pool_buys_seen": 127,
@@ -59,6 +59,12 @@
       "date": "2026-10-19",
       "organic_share_pct": 2.6,
       "organic_holders": 3,
+      "reported_holders": 117
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.7,
+      "organic_holders": 2,
       "reported_holders": 117
     }
   ],

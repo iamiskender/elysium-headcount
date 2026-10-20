@@ -1,0 +1,43 @@
+{
+  "address": "0xAA05F00b58c96B7d2a89Afb44ABb2Aa5c4FCEFAc",
+  "symbol": "RPRED",
+  "name": "Radar Predict",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 20,
+    "symbol": "RPRED",
+    "name": "Radar Predict",
+    "address": "0xAA05F00b58c96B7d2a89Afb44ABb2Aa5c4FCEFAc",
+    "raw_holders": 215,
+    "eoa_holders": 216,
+    "clone_wallets": 136,
+    "largest_cluster": 31,
+    "cross_token_wallets": 197,
+    "est_organic": 19,
+    "quality_pct": 8.8,
+    "pool_share_pct": 98.6,
+    "top_eoa_share_pct": 0.1,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 99.7,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 86.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 217,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 8.8,
+      "organic_holders": 19,
+      "reported_holders": 215
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

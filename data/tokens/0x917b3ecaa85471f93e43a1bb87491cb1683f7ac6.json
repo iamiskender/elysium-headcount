@@ -1,0 +1,43 @@
+{
+  "address": "0x917B3ecaa85471F93E43A1bB87491Cb1683F7aC6",
+  "symbol": "WIF",
+  "name": "dogwifhat",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 20,
+    "symbol": "WIF",
+    "name": "dogwifhat",
+    "address": "0x917B3ecaa85471F93E43A1bB87491Cb1683F7aC6",
+    "raw_holders": 196,
+    "eoa_holders": 195,
+    "clone_wallets": 125,
+    "largest_cluster": 33,
+    "cross_token_wallets": 176,
+    "est_organic": 19,
+    "quality_pct": 9.7,
+    "pool_share_pct": 98.6,
+    "top_eoa_share_pct": 0.3,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 100.0,
+    "ladder_pct": 100.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 196,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 9.7,
+      "organic_holders": 19,
+      "reported_holders": 196
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

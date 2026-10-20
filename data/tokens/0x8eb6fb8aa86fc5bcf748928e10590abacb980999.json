@@ -2,7 +2,7 @@
   "address": "0x8Eb6Fb8aA86FC5bCf748928E10590aBacb980999",
   "symbol": "PEPECHIK",
   "name": "PEPECHICKEN",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-10-19",
+      "organic_share_pct": 10.7,
+      "organic_holders": 13,
+      "reported_holders": 124
+    },
+    {
+      "date": "2026-10-20",
       "organic_share_pct": 10.7,
       "organic_holders": 13,
       "reported_holders": 124

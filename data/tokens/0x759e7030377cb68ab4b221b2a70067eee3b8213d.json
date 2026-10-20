@@ -1,0 +1,43 @@
+{
+  "address": "0x759e7030377CB68AB4B221b2A70067eEe3b8213d",
+  "symbol": "DONPEPE",
+  "name": "DON PEPE",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "DONPEPE",
+    "name": "DON PEPE",
+    "address": "0x759e7030377CB68AB4B221b2A70067eEe3b8213d",
+    "raw_holders": 777,
+    "eoa_holders": 777,
+    "clone_wallets": 561,
+    "largest_cluster": 53,
+    "cross_token_wallets": 738,
+    "est_organic": 38,
+    "quality_pct": 4.9,
+    "pool_share_pct": 58.0,
+    "top_eoa_share_pct": 39.5,
+    "pool_buys_seen": 1998,
+    "burst_6h_pct": 99.9,
+    "ladder_pct": 72.1,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 86.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 3691.27,
+    "market_cap_usd": 45504.99,
+    "holders_fetched": 778,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 4.9,
+      "organic_holders": 38,
+      "reported_holders": 777
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

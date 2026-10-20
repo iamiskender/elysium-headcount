@@ -2,10 +2,10 @@
   "address": "0x707feEf3b21e5CD8c058B80C7eddc29fEdbd8A97",
   "symbol": "HFRIED",
   "name": "HYPERFRIED",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
-    "family": "F4",
+    "family": "F7",
     "family_size": 3,
     "symbol": "HFRIED",
     "name": "HYPERFRIED",
@@ -14,9 +14,9 @@
     "eoa_holders": 504,
     "clone_wallets": 468,
     "largest_cluster": 29,
-    "cross_token_wallets": 484,
-    "est_organic": 16,
-    "quality_pct": 3.2,
+    "cross_token_wallets": 492,
+    "est_organic": 8,
+    "quality_pct": 1.6,
     "pool_share_pct": 41.9,
     "top_eoa_share_pct": 0.8,
     "pool_buys_seen": 20,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 11228.04,
+    "market_cap_usd": 11009.08,
     "holders_fetched": 506,
     "transfers_fetched": 745
   },
@@ -59,6 +59,12 @@
       "date": "2026-10-19",
       "organic_share_pct": 3.2,
       "organic_holders": 16,
+      "reported_holders": 506
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.6,
+      "organic_holders": 8,
       "reported_holders": 506
     }
   ],

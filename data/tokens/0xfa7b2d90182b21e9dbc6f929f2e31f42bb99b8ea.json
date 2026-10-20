@@ -1,0 +1,43 @@
+{
+  "address": "0xfA7B2d90182B21e9dbc6F929F2e31f42BB99B8EA",
+  "symbol": "CPR",
+  "name": "Copyright",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "CPR",
+    "name": "Copyright",
+    "address": "0xfA7B2d90182B21e9dbc6F929F2e31f42BB99B8EA",
+    "raw_holders": 607,
+    "eoa_holders": 606,
+    "clone_wallets": 517,
+    "largest_cluster": 63,
+    "cross_token_wallets": 547,
+    "est_organic": 16,
+    "quality_pct": 2.6,
+    "pool_share_pct": 65.3,
+    "top_eoa_share_pct": 21.8,
+    "pool_buys_seen": 653,
+    "burst_6h_pct": 81.9,
+    "ladder_pct": 6.4,
+    "buy_only_pct": 97.9,
+    "farm_sample_pct": 86.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 2983.08,
+    "market_cap_usd": 27550.49,
+    "holders_fetched": 607,
+    "transfers_fetched": 674
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 2.6,
+      "organic_holders": 16,
+      "reported_holders": 607
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x35A0893b7B2cDdd04F9eFc9F3B9faa949aA79Cf0",
+  "symbol": "FEO",
+  "name": "ELFEO",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "FEO",
+    "name": "ELFEO",
+    "address": "0x35A0893b7B2cDdd04F9eFc9F3B9faa949aA79Cf0",
+    "raw_holders": 763,
+    "eoa_holders": 763,
+    "clone_wallets": 461,
+    "largest_cluster": 45,
+    "cross_token_wallets": 725,
+    "est_organic": 37,
+    "quality_pct": 4.8,
+    "pool_share_pct": 82.3,
+    "top_eoa_share_pct": 6.2,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 99.9,
+    "ladder_pct": 72.9,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 93.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 763.72,
+    "market_cap_usd": 10516.91,
+    "holders_fetched": 764,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 4.8,
+      "organic_holders": 37,
+      "reported_holders": 763
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

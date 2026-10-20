@@ -2,7 +2,7 @@
   "address": "0x527096A607896a1cDB497a39ed5859a953bb5e57",
   "symbol": "HMLDR",
   "name": "homelander",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -14,9 +14,9 @@
     "eoa_holders": 1265,
     "clone_wallets": 1245,
     "largest_cluster": 650,
-    "cross_token_wallets": 1249,
-    "est_organic": 16,
-    "quality_pct": 1.3,
+    "cross_token_wallets": 1253,
+    "est_organic": 12,
+    "quality_pct": 0.9,
     "pool_share_pct": 96.9,
     "top_eoa_share_pct": 0.7,
     "pool_buys_seen": 1275,
@@ -59,6 +59,12 @@
       "date": "2026-10-19",
       "organic_share_pct": 1.3,
       "organic_holders": 16,
+      "reported_holders": 1266
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 0.9,
+      "organic_holders": 12,
       "reported_holders": 1266
     }
   ],

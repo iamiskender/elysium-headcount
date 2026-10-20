@@ -2,10 +2,10 @@
   "address": "0x10ee1362751EB012cCa44C6D138aAAf9bf99068A",
   "symbol": "QUEST",
   "name": "quest",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
-    "family": "F7",
+    "family": "F10",
     "family_size": 2,
     "symbol": "QUEST",
     "name": "quest",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-10-19",
+      "organic_share_pct": 1.8,
+      "organic_holders": 3,
+      "reported_holders": 166
+    },
+    {
+      "date": "2026-10-20",
       "organic_share_pct": 1.8,
       "organic_holders": 3,
       "reported_holders": 166

@@ -1,0 +1,43 @@
+{
+  "address": "0x57238CfA5d73Ed3A524653186149390520028888",
+  "symbol": "HYPERPERP",
+  "name": "Backed by HYPE 10x LONG",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F3",
+    "family_size": 14,
+    "symbol": "HYPERPERP",
+    "name": "Backed by HYPE 10x LONG",
+    "address": "0x57238CfA5d73Ed3A524653186149390520028888",
+    "raw_holders": 203,
+    "eoa_holders": 203,
+    "clone_wallets": 167,
+    "largest_cluster": 27,
+    "cross_token_wallets": 201,
+    "est_organic": 2,
+    "quality_pct": 1.0,
+    "pool_share_pct": 96.2,
+    "top_eoa_share_pct": 3.5,
+    "pool_buys_seen": 202,
+    "burst_6h_pct": 66.8,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 2.5,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 204,
+    "transfers_fetched": 407
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.0,
+      "organic_holders": 2,
+      "reported_holders": 203
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

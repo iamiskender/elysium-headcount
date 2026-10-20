@@ -2,7 +2,7 @@
   "address": "0x88f83299FEc565e20ca20DA13bB745F8f785cBd0",
   "symbol": "2555",
   "name": "HYPURR2555",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -10,14 +10,14 @@
     "symbol": "2555",
     "name": "HYPURR2555",
     "address": "0x88f83299FEc565e20ca20DA13bB745F8f785cBd0",
-    "raw_holders": 1268,
-    "eoa_holders": 1267,
+    "raw_holders": 1267,
+    "eoa_holders": 1266,
     "clone_wallets": 1241,
     "largest_cluster": 700,
-    "cross_token_wallets": 1242,
-    "est_organic": 24,
-    "quality_pct": 1.9,
-    "pool_share_pct": 84.0,
+    "cross_token_wallets": 1250,
+    "est_organic": 16,
+    "quality_pct": 1.3,
+    "pool_share_pct": 84.1,
     "top_eoa_share_pct": 6.1,
     "pool_buys_seen": 1326,
     "burst_6h_pct": 94.0,
@@ -25,10 +25,10 @@
     "buy_only_pct": 98.7,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 47.83,
-    "market_cap_usd": 9965.44,
-    "holders_fetched": 1268,
-    "transfers_fetched": 1345
+    "volume_24h_usd": 1.98,
+    "market_cap_usd": 9762.66,
+    "holders_fetched": 1267,
+    "transfers_fetched": 1346
   },
   "history": [
     {
@@ -60,6 +60,12 @@
       "organic_share_pct": 1.9,
       "organic_holders": 24,
       "reported_holders": 1268
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.3,
+      "organic_holders": 16,
+      "reported_holders": 1267
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

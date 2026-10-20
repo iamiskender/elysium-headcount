@@ -1,0 +1,43 @@
+{
+  "address": "0xbc43194D019A8527961DfA75E19Af093Ca42C562",
+  "symbol": "KNTQ",
+  "name": "Kinetiq (testnet mock)",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F3",
+    "family_size": 14,
+    "symbol": "KNTQ",
+    "name": "Kinetiq (testnet mock)",
+    "address": "0xbc43194D019A8527961DfA75E19Af093Ca42C562",
+    "raw_holders": 230,
+    "eoa_holders": 227,
+    "clone_wallets": 200,
+    "largest_cluster": 200,
+    "cross_token_wallets": 206,
+    "est_organic": 18,
+    "quality_pct": 7.9,
+    "pool_share_pct": 9.9,
+    "top_eoa_share_pct": 0.5,
+    "pool_buys_seen": 532,
+    "burst_6h_pct": 25.2,
+    "ladder_pct": 46.8,
+    "buy_only_pct": 7.3,
+    "farm_sample_pct": 93.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 230,
+    "transfers_fetched": 1068
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 7.9,
+      "organic_holders": 18,
+      "reported_holders": 230
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

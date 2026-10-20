@@ -1,0 +1,43 @@
+{
+  "address": "0xc173C97C74894Cc8087fc028c948f33AC2bf03DD",
+  "symbol": "DOGE",
+  "name": "dogecoin",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 20,
+    "symbol": "DOGE",
+    "name": "dogecoin",
+    "address": "0xc173C97C74894Cc8087fc028c948f33AC2bf03DD",
+    "raw_holders": 194,
+    "eoa_holders": 194,
+    "clone_wallets": 96,
+    "largest_cluster": 26,
+    "cross_token_wallets": 174,
+    "est_organic": 19,
+    "quality_pct": 9.8,
+    "pool_share_pct": 90.7,
+    "top_eoa_share_pct": 8.5,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 100.0,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 74.12,
+    "market_cap_usd": 7292.47,
+    "holders_fetched": 195,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 9.8,
+      "organic_holders": 19,
+      "reported_holders": 194
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

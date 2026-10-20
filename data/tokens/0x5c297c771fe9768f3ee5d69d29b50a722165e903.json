@@ -1,0 +1,43 @@
+{
+  "address": "0x5C297c771fe9768F3EE5d69d29B50A722165e903",
+  "symbol": "SIGNAL",
+  "name": "Signal Test Token",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F4",
+    "family_size": 9,
+    "symbol": "SIGNAL",
+    "name": "Signal Test Token",
+    "address": "0x5C297c771fe9768F3EE5d69d29B50A722165e903",
+    "raw_holders": 340,
+    "eoa_holders": 355,
+    "clone_wallets": 351,
+    "largest_cluster": 351,
+    "cross_token_wallets": 351,
+    "est_organic": 4,
+    "quality_pct": 1.1,
+    "pool_share_pct": 0.0,
+    "top_eoa_share_pct": 0.3,
+    "pool_buys_seen": 10,
+    "burst_6h_pct": 90.0,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 66.7,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 355,
+    "transfers_fetched": 375
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.1,
+      "organic_holders": 4,
+      "reported_holders": 340
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

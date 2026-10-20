@@ -2,7 +2,7 @@
   "address": "0x23810F7eDccF719594516E2237722C48f4035E65",
   "symbol": "ECOSIG1",
   "name": "EcoSig1748",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "ECOSIG1",
     "name": "EcoSig1748",
     "address": "0x23810F7eDccF719594516E2237722C48f4035E65",
-    "raw_holders": 105,
-    "eoa_holders": 104,
+    "raw_holders": 106,
+    "eoa_holders": 105,
     "clone_wallets": 58,
     "largest_cluster": 58,
-    "cross_token_wallets": 99,
-    "est_organic": 5,
-    "quality_pct": 4.8,
-    "pool_share_pct": 99.2,
+    "cross_token_wallets": 104,
+    "est_organic": 1,
+    "quality_pct": 1.0,
+    "pool_share_pct": 99.1,
     "top_eoa_share_pct": 0.0,
-    "pool_buys_seen": 215,
-    "burst_6h_pct": 21.9,
-    "ladder_pct": 26.5,
-    "buy_only_pct": 99.0,
+    "pool_buys_seen": 237,
+    "burst_6h_pct": 19.8,
+    "ladder_pct": 33.3,
+    "buy_only_pct": 98.1,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.0,
-    "market_cap_usd": 3572.6,
-    "holders_fetched": 105,
-    "transfers_fetched": 218
+    "volume_24h_usd": 3.58,
+    "market_cap_usd": 3508.84,
+    "holders_fetched": 106,
+    "transfers_fetched": 242
   },
   "history": [
     {
@@ -60,6 +60,12 @@
       "organic_share_pct": 4.8,
       "organic_holders": 5,
       "reported_holders": 105
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 1.0,
+      "organic_holders": 1,
+      "reported_holders": 106
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

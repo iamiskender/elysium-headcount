@@ -1,0 +1,43 @@
+{
+  "address": "0x20Fe685c8d0966510Caf0d16156057B5CF6b54a3",
+  "symbol": "DORAEMON",
+  "name": "DORAEMON",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 20,
+    "symbol": "DORAEMON",
+    "name": "DORAEMON",
+    "address": "0x20Fe685c8d0966510Caf0d16156057B5CF6b54a3",
+    "raw_holders": 256,
+    "eoa_holders": 257,
+    "clone_wallets": 127,
+    "largest_cluster": 24,
+    "cross_token_wallets": 209,
+    "est_organic": 27,
+    "quality_pct": 10.5,
+    "pool_share_pct": 96.3,
+    "top_eoa_share_pct": 0.5,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 99.7,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 86.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 258,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 10.5,
+      "organic_holders": 27,
+      "reported_holders": 256
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

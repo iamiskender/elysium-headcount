@@ -1,0 +1,43 @@
+{
+  "address": "0x00799D7bA3bD842758809e9b13983Ee976144970",
+  "symbol": "C15R",
+  "name": "C15 Roadster",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "C15R",
+    "name": "C15 Roadster",
+    "address": "0x00799D7bA3bD842758809e9b13983Ee976144970",
+    "raw_holders": 825,
+    "eoa_holders": 824,
+    "clone_wallets": 485,
+    "largest_cluster": 43,
+    "cross_token_wallets": 768,
+    "est_organic": 48,
+    "quality_pct": 5.8,
+    "pool_share_pct": 84.7,
+    "top_eoa_share_pct": 0.6,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 100.0,
+    "ladder_pct": 72.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 534.76,
+    "market_cap_usd": 9506.78,
+    "holders_fetched": 825,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 5.8,
+      "organic_holders": 48,
+      "reported_holders": 825
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

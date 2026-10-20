@@ -2,7 +2,7 @@
   "address": "0xAcbDfd48C86D7F49f199C161bB9999d0792a0999",
   "symbol": "GHGH",
   "name": "GHGH",
-  "snapshot": "2026-10-19T10:06:05.759907+00:00",
+  "snapshot": "2026-10-20T10:30:48.386261+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "GHGH",
     "name": "GHGH",
     "address": "0xAcbDfd48C86D7F49f199C161bB9999d0792a0999",
-    "raw_holders": 199,
-    "eoa_holders": 197,
+    "raw_holders": 201,
+    "eoa_holders": 200,
     "clone_wallets": 186,
     "largest_cluster": 157,
-    "cross_token_wallets": 188,
-    "est_organic": 8,
-    "quality_pct": 4.1,
+    "cross_token_wallets": 191,
+    "est_organic": 9,
+    "quality_pct": 4.5,
     "pool_share_pct": 97.5,
     "top_eoa_share_pct": 1.3,
-    "pool_buys_seen": 197,
-    "burst_6h_pct": 77.2,
-    "ladder_pct": 96.4,
-    "buy_only_pct": 99.5,
+    "pool_buys_seen": 201,
+    "burst_6h_pct": 75.6,
+    "ladder_pct": 94.5,
+    "buy_only_pct": 98.5,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
     "market_cap_usd": 0.0,
-    "holders_fetched": 199,
-    "transfers_fetched": 200
+    "holders_fetched": 202,
+    "transfers_fetched": 207
   },
   "history": [
     {
@@ -60,6 +60,12 @@
       "organic_share_pct": 4.1,
       "organic_holders": 8,
       "reported_holders": 199
+    },
+    {
+      "date": "2026-10-20",
+      "organic_share_pct": 4.5,
+      "organic_holders": 9,
+      "reported_holders": 201
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",
