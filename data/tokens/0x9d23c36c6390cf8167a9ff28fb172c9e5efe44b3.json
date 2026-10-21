@@ -2,7 +2,7 @@
   "address": "0x9D23c36C6390CF8167A9fF28FB172c9e5EFE44b3",
   "symbol": "ECOSIG1",
   "name": "EcoSig1301",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "ECOSIG1",
     "name": "EcoSig1301",
     "address": "0x9D23c36C6390CF8167A9fF28FB172c9e5EFE44b3",
-    "raw_holders": 148,
-    "eoa_holders": 147,
-    "clone_wallets": 121,
-    "largest_cluster": 95,
-    "cross_token_wallets": 146,
-    "est_organic": 0,
-    "quality_pct": 0.0,
-    "pool_share_pct": 99.1,
+    "raw_holders": 222,
+    "eoa_holders": 221,
+    "clone_wallets": 187,
+    "largest_cluster": 136,
+    "cross_token_wallets": 218,
+    "est_organic": 1,
+    "quality_pct": 0.5,
+    "pool_share_pct": 98.7,
     "top_eoa_share_pct": 0.0,
-    "pool_buys_seen": 297,
-    "burst_6h_pct": 17.8,
-    "ladder_pct": 42.1,
-    "buy_only_pct": 99.3,
+    "pool_buys_seen": 449,
+    "burst_6h_pct": 12.2,
+    "ladder_pct": 50.6,
+    "buy_only_pct": 99.1,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 10.25,
-    "market_cap_usd": 3511.35,
-    "holders_fetched": 148,
-    "transfers_fetched": 300
+    "volume_24h_usd": 14.85,
+    "market_cap_usd": 3674.68,
+    "holders_fetched": 222,
+    "transfers_fetched": 454
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 0.0,
       "organic_holders": 0,
       "reported_holders": 148
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 0.5,
+      "organic_holders": 1,
+      "reported_holders": 222
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

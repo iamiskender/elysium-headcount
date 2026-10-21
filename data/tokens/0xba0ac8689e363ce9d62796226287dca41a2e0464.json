@@ -1,0 +1,43 @@
+{
+  "address": "0xBa0aC8689E363CE9d62796226287dca41A2e0464",
+  "symbol": "WEWE",
+  "name": "WEWE",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "WEWE",
+    "name": "WEWE",
+    "address": "0xBa0aC8689E363CE9d62796226287dca41A2e0464",
+    "raw_holders": 104,
+    "eoa_holders": 103,
+    "clone_wallets": 0,
+    "largest_cluster": 11,
+    "cross_token_wallets": 100,
+    "est_organic": 3,
+    "quality_pct": 2.9,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 6.2,
+    "pool_buys_seen": 106,
+    "burst_6h_pct": 41.5,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 91.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 35.36,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 104,
+    "transfers_fetched": 116
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 2.9,
+      "organic_holders": 3,
+      "reported_holders": 104
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

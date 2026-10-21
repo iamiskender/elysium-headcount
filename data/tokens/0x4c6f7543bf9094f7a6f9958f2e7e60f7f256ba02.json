@@ -1,0 +1,43 @@
+{
+  "address": "0x4c6F7543BF9094f7a6f9958F2E7e60F7f256BA02",
+  "symbol": "STIO_BIGGY",
+  "name": "@stio_biggy",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 62,
+    "symbol": "STIO_BIGGY",
+    "name": "@stio_biggy",
+    "address": "0x4c6F7543BF9094f7a6f9958F2E7e60F7f256BA02",
+    "raw_holders": 208,
+    "eoa_holders": 206,
+    "clone_wallets": 201,
+    "largest_cluster": 94,
+    "cross_token_wallets": 201,
+    "est_organic": 5,
+    "quality_pct": 2.4,
+    "pool_share_pct": 13.7,
+    "top_eoa_share_pct": 71.4,
+    "pool_buys_seen": 218,
+    "burst_6h_pct": 52.8,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 2.72,
+    "market_cap_usd": 86.85,
+    "holders_fetched": 208,
+    "transfers_fetched": 222
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 2.4,
+      "organic_holders": 5,
+      "reported_holders": 208
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

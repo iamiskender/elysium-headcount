@@ -1,0 +1,43 @@
+{
+  "address": "0x05B4A0c394c0739Ac06Ccc0c60CEA928e3aC24Ff",
+  "symbol": "TRANSP",
+  "name": "transparent",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "TRANSP",
+    "name": "transparent",
+    "address": "0x05B4A0c394c0739Ac06Ccc0c60CEA928e3aC24Ff",
+    "raw_holders": 101,
+    "eoa_holders": 100,
+    "clone_wallets": 0,
+    "largest_cluster": 8,
+    "cross_token_wallets": 89,
+    "est_organic": 11,
+    "quality_pct": 11.0,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 5.1,
+    "pool_buys_seen": 108,
+    "burst_6h_pct": 56.5,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 91.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 31.06,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 101,
+    "transfers_fetched": 118
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 11.0,
+      "organic_holders": 11,
+      "reported_holders": 101
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

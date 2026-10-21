@@ -1,0 +1,43 @@
+{
+  "address": "0x5F797e325486956409E65D0efB800621ede5fbfE",
+  "symbol": "SPARK",
+  "name": "Spark",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "SPARK",
+    "name": "Spark",
+    "address": "0x5F797e325486956409E65D0efB800621ede5fbfE",
+    "raw_holders": 105,
+    "eoa_holders": 104,
+    "clone_wallets": 0,
+    "largest_cluster": 11,
+    "cross_token_wallets": 94,
+    "est_organic": 10,
+    "quality_pct": 9.6,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 5.9,
+    "pool_buys_seen": 105,
+    "burst_6h_pct": 47.6,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 87.5,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 33.63,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 105,
+    "transfers_fetched": 121
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 9.6,
+      "organic_holders": 10,
+      "reported_holders": 105
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

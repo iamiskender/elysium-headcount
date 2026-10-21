@@ -2,7 +2,7 @@
   "address": "0x070e5406D24eA5df4517FAF6c61469ff2CA676f1",
   "symbol": "TCK",
   "name": "ticktock",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "TCK",
     "name": "ticktock",
     "address": "0x070e5406D24eA5df4517FAF6c61469ff2CA676f1",
-    "raw_holders": 583,
-    "eoa_holders": 585,
-    "clone_wallets": 452,
-    "largest_cluster": 40,
-    "cross_token_wallets": 565,
-    "est_organic": 5,
-    "quality_pct": 0.9,
-    "pool_share_pct": 85.7,
+    "raw_holders": 671,
+    "eoa_holders": 670,
+    "clone_wallets": 523,
+    "largest_cluster": 39,
+    "cross_token_wallets": 658,
+    "est_organic": 10,
+    "quality_pct": 1.5,
+    "pool_share_pct": 84.4,
     "top_eoa_share_pct": 1.8,
-    "pool_buys_seen": 597,
-    "burst_6h_pct": 94.3,
-    "ladder_pct": 5.2,
+    "pool_buys_seen": 701,
+    "burst_6h_pct": 80.3,
+    "ladder_pct": 5.6,
     "buy_only_pct": 99.7,
-    "farm_sample_pct": 86.7,
+    "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
-    "volume_24h_usd": 434.35,
-    "market_cap_usd": 9094.89,
-    "holders_fetched": 586,
-    "transfers_fetched": 603
+    "volume_24h_usd": 133.38,
+    "market_cap_usd": 10020.11,
+    "holders_fetched": 671,
+    "transfers_fetched": 707
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 0.9,
       "organic_holders": 5,
       "reported_holders": 583
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 1.5,
+      "organic_holders": 10,
+      "reported_holders": 671
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

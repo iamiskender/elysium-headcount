@@ -2,7 +2,7 @@
   "address": "0xf5F33b0Bf839cb84D932dF796d3b955653a46797",
   "symbol": "KPURR",
   "name": "kPurr",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "KPURR",
     "name": "kPurr",
     "address": "0xf5F33b0Bf839cb84D932dF796d3b955653a46797",
-    "raw_holders": 579,
-    "eoa_holders": 578,
+    "raw_holders": 588,
+    "eoa_holders": 593,
     "clone_wallets": 525,
     "largest_cluster": 47,
-    "cross_token_wallets": 570,
-    "est_organic": 8,
-    "quality_pct": 1.4,
-    "pool_share_pct": 65.9,
-    "top_eoa_share_pct": 30.3,
-    "pool_buys_seen": 578,
-    "burst_6h_pct": 99.8,
+    "cross_token_wallets": 576,
+    "est_organic": 16,
+    "quality_pct": 2.7,
+    "pool_share_pct": 95.8,
+    "top_eoa_share_pct": 0.1,
+    "pool_buys_seen": 593,
+    "burst_6h_pct": 97.3,
     "ladder_pct": 0.0,
-    "buy_only_pct": 100.0,
-    "farm_sample_pct": 86.7,
+    "buy_only_pct": 99.8,
+    "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 3989.78,
-    "market_cap_usd": 26230.06,
-    "holders_fetched": 579,
-    "transfers_fetched": 581
+    "volume_24h_usd": 3808.68,
+    "market_cap_usd": 27256.33,
+    "holders_fetched": 594,
+    "transfers_fetched": 597
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 1.4,
       "organic_holders": 8,
       "reported_holders": 579
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 2.7,
+      "organic_holders": 16,
+      "reported_holders": 588
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

@@ -1,0 +1,43 @@
+{
+  "address": "0x6e2aB300c60Df1397c75f0a133FD29D33F3b1b36",
+  "symbol": "PARASI",
+  "name": "Parasites",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "PARASI",
+    "name": "Parasites",
+    "address": "0x6e2aB300c60Df1397c75f0a133FD29D33F3b1b36",
+    "raw_holders": 106,
+    "eoa_holders": 105,
+    "clone_wallets": 0,
+    "largest_cluster": 7,
+    "cross_token_wallets": 95,
+    "est_organic": 10,
+    "quality_pct": 9.5,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 3.6,
+    "pool_buys_seen": 110,
+    "burst_6h_pct": 48.2,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 91.4,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 31.8,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 106,
+    "transfers_fetched": 121
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 9.5,
+      "organic_holders": 10,
+      "reported_holders": 106
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

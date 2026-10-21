@@ -1,0 +1,43 @@
+{
+  "address": "0xe1f9797Ea3cc154f9Fd67baC62EF90bdb15dCaE7",
+  "symbol": "S5F1B3",
+  "name": "Elysium Timing 11",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "S5F1B3",
+    "name": "Elysium Timing 11",
+    "address": "0xe1f9797Ea3cc154f9Fd67baC62EF90bdb15dCaE7",
+    "raw_holders": 101,
+    "eoa_holders": 100,
+    "clone_wallets": 0,
+    "largest_cluster": 8,
+    "cross_token_wallets": 100,
+    "est_organic": 0,
+    "quality_pct": 0.0,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 2.7,
+    "pool_buys_seen": 103,
+    "burst_6h_pct": 46.6,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 82.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 40.81,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 101,
+    "transfers_fetched": 123
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 101
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

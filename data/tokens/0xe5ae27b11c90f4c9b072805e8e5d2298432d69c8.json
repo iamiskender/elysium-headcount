@@ -2,7 +2,7 @@
   "address": "0xe5aE27b11c90f4C9b072805e8e5d2298432d69C8",
   "symbol": "SLIVE",
   "name": "Snipe Live",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "SLIVE",
     "name": "Snipe Live",
     "address": "0xe5aE27b11c90f4C9b072805e8e5d2298432d69C8",
-    "raw_holders": 568,
-    "eoa_holders": 567,
+    "raw_holders": 580,
+    "eoa_holders": 579,
     "clone_wallets": 445,
     "largest_cluster": 44,
     "cross_token_wallets": 549,
-    "est_organic": 17,
-    "quality_pct": 3.0,
-    "pool_share_pct": 86.2,
-    "top_eoa_share_pct": 0.4,
-    "pool_buys_seen": 584,
-    "burst_6h_pct": 95.4,
-    "ladder_pct": 2.1,
-    "buy_only_pct": 98.8,
+    "est_organic": 29,
+    "quality_pct": 5.0,
+    "pool_share_pct": 85.2,
+    "top_eoa_share_pct": 1.1,
+    "pool_buys_seen": 598,
+    "burst_6h_pct": 93.1,
+    "ladder_pct": 3.0,
+    "buy_only_pct": 98.5,
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 394.61,
-    "market_cap_usd": 8928.49,
-    "holders_fetched": 568,
-    "transfers_fetched": 605
+    "volume_24h_usd": 132.05,
+    "market_cap_usd": 9682.12,
+    "holders_fetched": 580,
+    "transfers_fetched": 621
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 3.0,
       "organic_holders": 17,
       "reported_holders": 568
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 5.0,
+      "organic_holders": 29,
+      "reported_holders": 580
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

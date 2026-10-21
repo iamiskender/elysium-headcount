@@ -2,7 +2,7 @@
   "address": "0x3724d4d48336ed56B5829902d56cB00da478E877",
   "symbol": "TRA",
   "name": "TRAIN",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,13 +10,13 @@
     "symbol": "TRA",
     "name": "TRAIN",
     "address": "0x3724d4d48336ed56B5829902d56cB00da478E877",
-    "raw_holders": 890,
+    "raw_holders": 891,
     "eoa_holders": 890,
     "clone_wallets": 491,
     "largest_cluster": 111,
-    "cross_token_wallets": 733,
-    "est_organic": 46,
-    "quality_pct": 5.2,
+    "cross_token_wallets": 717,
+    "est_organic": 61,
+    "quality_pct": 6.9,
     "pool_share_pct": 84.5,
     "top_eoa_share_pct": 2.1,
     "pool_buys_seen": 2000,
@@ -25,8 +25,8 @@
     "buy_only_pct": 100.0,
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
-    "volume_24h_usd": 544.22,
-    "market_cap_usd": 9555.53,
+    "volume_24h_usd": 1.86,
+    "market_cap_usd": 9934.43,
     "holders_fetched": 891,
     "transfers_fetched": 2000
   },
@@ -42,6 +42,12 @@
       "organic_share_pct": 5.2,
       "organic_holders": 46,
       "reported_holders": 890
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 6.9,
+      "organic_holders": 61,
+      "reported_holders": 891
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

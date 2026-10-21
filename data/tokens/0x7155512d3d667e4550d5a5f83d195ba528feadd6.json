@@ -1,0 +1,43 @@
+{
+  "address": "0x7155512D3D667E4550d5a5f83D195bA528FEadD6",
+  "symbol": "TRANSA",
+  "name": "transaction",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "TRANSA",
+    "name": "transaction",
+    "address": "0x7155512D3D667E4550d5a5f83D195bA528FEadD6",
+    "raw_holders": 103,
+    "eoa_holders": 102,
+    "clone_wallets": 0,
+    "largest_cluster": 10,
+    "cross_token_wallets": 91,
+    "est_organic": 11,
+    "quality_pct": 10.8,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 3.4,
+    "pool_buys_seen": 102,
+    "burst_6h_pct": 43.1,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 86.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 34.45,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 103,
+    "transfers_fetched": 120
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 10.8,
+      "organic_holders": 11,
+      "reported_holders": 103
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

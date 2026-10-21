@@ -1,0 +1,43 @@
+{
+  "address": "0x4c7667e63eD9081AD41BC57B901CD1a974913840",
+  "symbol": "READ",
+  "name": "ready",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "READ",
+    "name": "ready",
+    "address": "0x4c7667e63eD9081AD41BC57B901CD1a974913840",
+    "raw_holders": 110,
+    "eoa_holders": 109,
+    "clone_wallets": 0,
+    "largest_cluster": 9,
+    "cross_token_wallets": 92,
+    "est_organic": 17,
+    "quality_pct": 15.6,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 2.9,
+    "pool_buys_seen": 111,
+    "burst_6h_pct": 46.8,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 96.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 24.77,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 110,
+    "transfers_fetched": 116
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 15.6,
+      "organic_holders": 17,
+      "reported_holders": 110
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

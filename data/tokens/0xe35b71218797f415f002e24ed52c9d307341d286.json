@@ -2,7 +2,7 @@
   "address": "0xE35b71218797F415F002e24ed52c9d307341D286",
   "symbol": "FRONK",
   "name": "FRONK",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "FRONK",
     "name": "FRONK",
     "address": "0xE35b71218797F415F002e24ed52c9d307341D286",
-    "raw_holders": 598,
-    "eoa_holders": 597,
+    "raw_holders": 599,
+    "eoa_holders": 598,
     "clone_wallets": 535,
     "largest_cluster": 45,
-    "cross_token_wallets": 578,
-    "est_organic": 15,
-    "quality_pct": 2.5,
-    "pool_share_pct": 73.1,
-    "top_eoa_share_pct": 18.2,
-    "pool_buys_seen": 625,
-    "burst_6h_pct": 89.8,
+    "cross_token_wallets": 570,
+    "est_organic": 20,
+    "quality_pct": 3.3,
+    "pool_share_pct": 71.7,
+    "top_eoa_share_pct": 19.6,
+    "pool_buys_seen": 631,
+    "burst_6h_pct": 88.9,
     "ladder_pct": 1.3,
-    "buy_only_pct": 98.8,
-    "farm_sample_pct": 93.3,
+    "buy_only_pct": 98.5,
+    "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 1372.07,
-    "market_cap_usd": 16259.63,
-    "holders_fetched": 598,
-    "transfers_fetched": 636
+    "volume_24h_usd": 599.29,
+    "market_cap_usd": 18781.66,
+    "holders_fetched": 599,
+    "transfers_fetched": 645
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 2.5,
       "organic_holders": 15,
       "reported_holders": 598
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 3.3,
+      "organic_holders": 20,
+      "reported_holders": 599
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",

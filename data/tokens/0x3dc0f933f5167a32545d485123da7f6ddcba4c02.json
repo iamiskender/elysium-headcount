@@ -1,0 +1,43 @@
+{
+  "address": "0x3DC0f933f5167A32545d485123DA7f6DdcBA4c02",
+  "symbol": "SOUL",
+  "name": "sellforsoul",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "SOUL",
+    "name": "sellforsoul",
+    "address": "0x3DC0f933f5167A32545d485123DA7f6DdcBA4c02",
+    "raw_holders": 102,
+    "eoa_holders": 101,
+    "clone_wallets": 0,
+    "largest_cluster": 9,
+    "cross_token_wallets": 99,
+    "est_organic": 2,
+    "quality_pct": 2.0,
+    "pool_share_pct": 20.0,
+    "top_eoa_share_pct": 3.0,
+    "pool_buys_seen": 104,
+    "burst_6h_pct": 45.2,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 90.1,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 36.06,
+    "market_cap_usd": 0.0,
+    "holders_fetched": 102,
+    "transfers_fetched": 117
+  },
+  "history": [
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 2.0,
+      "organic_holders": 2,
+      "reported_holders": 102
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

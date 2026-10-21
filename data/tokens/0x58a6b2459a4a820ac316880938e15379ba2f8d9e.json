@@ -2,7 +2,7 @@
   "address": "0x58A6b2459a4A820AC316880938e15379Ba2f8d9e",
   "symbol": "SIERRA",
   "name": "JAVIER",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-10-21T10:01:40.838078+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -10,25 +10,25 @@
     "symbol": "SIERRA",
     "name": "JAVIER",
     "address": "0x58A6b2459a4A820AC316880938e15379Ba2f8d9e",
-    "raw_holders": 599,
-    "eoa_holders": 598,
-    "clone_wallets": 554,
+    "raw_holders": 623,
+    "eoa_holders": 622,
+    "clone_wallets": 548,
     "largest_cluster": 46,
-    "cross_token_wallets": 561,
-    "est_organic": 19,
-    "quality_pct": 3.2,
-    "pool_share_pct": 53.5,
+    "cross_token_wallets": 553,
+    "est_organic": 50,
+    "quality_pct": 8.0,
+    "pool_share_pct": 53.1,
     "top_eoa_share_pct": 39.6,
-    "pool_buys_seen": 721,
-    "burst_6h_pct": 76.7,
-    "ladder_pct": 9.2,
-    "buy_only_pct": 97.5,
-    "farm_sample_pct": 73.3,
+    "pool_buys_seen": 749,
+    "burst_6h_pct": 73.8,
+    "ladder_pct": 11.5,
+    "buy_only_pct": 97.6,
+    "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
-    "volume_24h_usd": 1760.02,
-    "market_cap_usd": 54606.78,
-    "holders_fetched": 599,
-    "transfers_fetched": 771
+    "volume_24h_usd": 241.07,
+    "market_cap_usd": 57817.58,
+    "holders_fetched": 623,
+    "transfers_fetched": 799
   },
   "history": [
     {
@@ -36,6 +36,12 @@
       "organic_share_pct": 3.2,
       "organic_holders": 19,
       "reported_holders": 599
+    },
+    {
+      "date": "2026-10-21",
+      "organic_share_pct": 8.0,
+      "organic_holders": 50,
+      "reported_holders": 623
     }
   ],
   "method": "https://elysium-headcount.vercel.app/#m-h",
