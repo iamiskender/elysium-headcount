@@ -15,7 +15,7 @@ concurrency:
 jobs:
   snapshot:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -25,7 +25,7 @@ jobs:
 
       - name: Scan Elysium testnet tokens
         working-directory: scanner
-        run: python3 holder_quality.py --min-holders 100 --fresh
+        run: python3 holder_quality.py --min-holders 100 --fresh --workers 4
 
       - name: Build site data
         run: python3 scanner/build_site_data.py
