@@ -1,0 +1,43 @@
+{
+  "address": "0x6AC18f55dfbFD83B85B75a66bcE575e609bAd593",
+  "symbol": "AUTOMATIC",
+  "name": "Automatic",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "AUTOMATIC",
+    "name": "Automatic",
+    "address": "0x6AC18f55dfbFD83B85B75a66bcE575e609bAd593",
+    "raw_holders": 118,
+    "eoa_holders": 117,
+    "clone_wallets": 74,
+    "largest_cluster": 74,
+    "cross_token_wallets": 88,
+    "est_organic": 25,
+    "quality_pct": 21.4,
+    "pool_share_pct": 87.6,
+    "top_eoa_share_pct": 5.6,
+    "pool_buys_seen": 370,
+    "burst_6h_pct": 25.7,
+    "ladder_pct": 85.9,
+    "buy_only_pct": 91.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7333.82,
+    "holders_fetched": 118,
+    "transfers_fetched": 384
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 21.4,
+      "organic_holders": 25,
+      "reported_holders": 118
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

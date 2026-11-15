@@ -1,0 +1,43 @@
+{
+  "address": "0x5d372E41F29bDFd0250fC0049C2Cb890443E9CCE",
+  "symbol": "DOD",
+  "name": "DO OR DIE",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "DOD",
+    "name": "DO OR DIE",
+    "address": "0x5d372E41F29bDFd0250fC0049C2Cb890443E9CCE",
+    "raw_holders": 205,
+    "eoa_holders": 203,
+    "clone_wallets": 50,
+    "largest_cluster": 18,
+    "cross_token_wallets": 48,
+    "est_organic": 122,
+    "quality_pct": 60.1,
+    "pool_share_pct": 94.7,
+    "top_eoa_share_pct": 4.8,
+    "pool_buys_seen": 350,
+    "burst_6h_pct": 41.7,
+    "ladder_pct": 41.7,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4421.77,
+    "holders_fetched": 205,
+    "transfers_fetched": 352
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 60.1,
+      "organic_holders": 122,
+      "reported_holders": 205
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

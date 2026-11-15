@@ -1,0 +1,43 @@
+{
+  "address": "0x1581d3fE14CCf6343710c214736603F3E52be511",
+  "symbol": "SOXLx",
+  "name": "Direxion Semiconductor Bull 3X",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "SOXLx",
+    "name": "Direxion Semiconductor Bull 3X",
+    "address": "0x1581d3fE14CCf6343710c214736603F3E52be511",
+    "raw_holders": 150,
+    "eoa_holders": 149,
+    "clone_wallets": 16,
+    "largest_cluster": 16,
+    "cross_token_wallets": 146,
+    "est_organic": 3,
+    "quality_pct": 2.0,
+    "pool_share_pct": 69.2,
+    "top_eoa_share_pct": 27.5,
+    "pool_buys_seen": 797,
+    "burst_6h_pct": 27.7,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7219.93,
+    "holders_fetched": 150,
+    "transfers_fetched": 802
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.0,
+      "organic_holders": 3,
+      "reported_holders": 150
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

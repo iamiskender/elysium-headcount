@@ -1,0 +1,43 @@
+{
+  "address": "0xd11e807c24F73Dc4D681d29E1Eb8d2D102b94C4d",
+  "symbol": "MCDx",
+  "name": "McDonald's",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "MCDx",
+    "name": "McDonald's",
+    "address": "0xd11e807c24F73Dc4D681d29E1Eb8d2D102b94C4d",
+    "raw_holders": 147,
+    "eoa_holders": 146,
+    "clone_wallets": 83,
+    "largest_cluster": 24,
+    "cross_token_wallets": 141,
+    "est_organic": 5,
+    "quality_pct": 3.4,
+    "pool_share_pct": 85.9,
+    "top_eoa_share_pct": 13.0,
+    "pool_buys_seen": 805,
+    "burst_6h_pct": 27.6,
+    "ladder_pct": 99.4,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 6186.45,
+    "holders_fetched": 147,
+    "transfers_fetched": 812
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.4,
+      "organic_holders": 5,
+      "reported_holders": 147
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

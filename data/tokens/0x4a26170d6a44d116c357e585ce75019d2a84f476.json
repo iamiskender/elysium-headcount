@@ -1,0 +1,43 @@
+{
+  "address": "0x4A26170D6A44d116C357e585CE75019d2a84f476",
+  "symbol": "Barbra",
+  "name": "Barbra",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Barbra",
+    "name": "Barbra",
+    "address": "0x4A26170D6A44d116C357e585CE75019d2a84f476",
+    "raw_holders": 155,
+    "eoa_holders": 154,
+    "clone_wallets": 0,
+    "largest_cluster": 13,
+    "cross_token_wallets": 147,
+    "est_organic": 7,
+    "quality_pct": 4.5,
+    "pool_share_pct": 2.4,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 837,
+    "burst_6h_pct": 26.4,
+    "ladder_pct": 97.0,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5291382.61,
+    "holders_fetched": 155,
+    "transfers_fetched": 839
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.5,
+      "organic_holders": 7,
+      "reported_holders": 155
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

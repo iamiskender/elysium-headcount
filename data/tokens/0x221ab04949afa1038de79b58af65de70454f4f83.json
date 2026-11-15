@@ -1,0 +1,43 @@
+{
+  "address": "0x221Ab04949AFA1038DE79B58Af65De70454f4F83",
+  "symbol": "DOINU",
+  "name": "DOG HYINU",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "DOINU",
+    "name": "DOG HYINU",
+    "address": "0x221Ab04949AFA1038DE79B58Af65De70454f4F83",
+    "raw_holders": 446,
+    "eoa_holders": 445,
+    "clone_wallets": 399,
+    "largest_cluster": 165,
+    "cross_token_wallets": 329,
+    "est_organic": 42,
+    "quality_pct": 9.4,
+    "pool_share_pct": 94.0,
+    "top_eoa_share_pct": 2.9,
+    "pool_buys_seen": 1002,
+    "burst_6h_pct": 73.7,
+    "ladder_pct": 97.1,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2818.79,
+    "holders_fetched": 446,
+    "transfers_fetched": 1007
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 9.4,
+      "organic_holders": 42,
+      "reported_holders": 446
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

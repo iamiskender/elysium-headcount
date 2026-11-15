@@ -1,0 +1,43 @@
+{
+  "address": "0x731a5189A862a9568e4eAdf91CE3f8F85a910e4F",
+  "symbol": "TSLAx",
+  "name": "Tesla",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "TSLAx",
+    "name": "Tesla",
+    "address": "0x731a5189A862a9568e4eAdf91CE3f8F85a910e4F",
+    "raw_holders": 142,
+    "eoa_holders": 141,
+    "clone_wallets": 93,
+    "largest_cluster": 32,
+    "cross_token_wallets": 139,
+    "est_organic": 2,
+    "quality_pct": 1.4,
+    "pool_share_pct": 91.2,
+    "top_eoa_share_pct": 8.1,
+    "pool_buys_seen": 799,
+    "burst_6h_pct": 27.7,
+    "ladder_pct": 99.6,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5882.27,
+    "holders_fetched": 142,
+    "transfers_fetched": 805
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 142
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xD1b09903c0C920f9b914192Ffe75e90124C43B85",
+  "symbol": "AMZNx",
+  "name": "Amazon.com",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "AMZNx",
+    "name": "Amazon.com",
+    "address": "0xD1b09903c0C920f9b914192Ffe75e90124C43B85",
+    "raw_holders": 140,
+    "eoa_holders": 139,
+    "clone_wallets": 15,
+    "largest_cluster": 15,
+    "cross_token_wallets": 136,
+    "est_organic": 3,
+    "quality_pct": 2.2,
+    "pool_share_pct": 77.5,
+    "top_eoa_share_pct": 13.2,
+    "pool_buys_seen": 792,
+    "burst_6h_pct": 27.9,
+    "ladder_pct": 99.5,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 6812.99,
+    "holders_fetched": 140,
+    "transfers_fetched": 799
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.2,
+      "organic_holders": 3,
+      "reported_holders": 140
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

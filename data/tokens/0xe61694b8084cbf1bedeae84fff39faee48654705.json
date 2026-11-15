@@ -1,0 +1,43 @@
+{
+  "address": "0xe61694B8084cbF1BeDEAE84fff39fAEe48654705",
+  "symbol": "SKHYx",
+  "name": "SK hynix",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "SKHYx",
+    "name": "SK hynix",
+    "address": "0xe61694B8084cbF1BeDEAE84fff39fAEe48654705",
+    "raw_holders": 142,
+    "eoa_holders": 141,
+    "clone_wallets": 24,
+    "largest_cluster": 18,
+    "cross_token_wallets": 140,
+    "est_organic": 1,
+    "quality_pct": 0.7,
+    "pool_share_pct": 76.1,
+    "top_eoa_share_pct": 20.6,
+    "pool_buys_seen": 788,
+    "burst_6h_pct": 28.2,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5692.8,
+    "holders_fetched": 142,
+    "transfers_fetched": 794
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.7,
+      "organic_holders": 1,
+      "reported_holders": 142
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

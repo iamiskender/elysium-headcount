@@ -1,0 +1,43 @@
+{
+  "address": "0x541493b60A8baA298463F8c5F7D5F9806E94BF1b",
+  "symbol": "RHFKRC",
+  "name": "ROBINHOOD ELYSIUM fucking ARC (TESTNET)",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "RHFKRC",
+    "name": "ROBINHOOD ELYSIUM fucking ARC (TESTNET)",
+    "address": "0x541493b60A8baA298463F8c5F7D5F9806E94BF1b",
+    "raw_holders": 785,
+    "eoa_holders": 784,
+    "clone_wallets": 739,
+    "largest_cluster": 175,
+    "cross_token_wallets": 751,
+    "est_organic": 28,
+    "quality_pct": 3.6,
+    "pool_share_pct": 24.0,
+    "top_eoa_share_pct": 58.6,
+    "pool_buys_seen": 801,
+    "burst_6h_pct": 28.2,
+    "ladder_pct": 28.1,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 44593.38,
+    "holders_fetched": 785,
+    "transfers_fetched": 810
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.6,
+      "organic_holders": 28,
+      "reported_holders": 785
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

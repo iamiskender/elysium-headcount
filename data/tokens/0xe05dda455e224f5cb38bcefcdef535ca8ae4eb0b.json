@@ -1,0 +1,43 @@
+{
+  "address": "0xE05dda455E224f5Cb38bCEfCdeF535cA8aE4EB0b",
+  "symbol": "NEMEP",
+  "name": "Nemean Pelt",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "NEMEP",
+    "name": "Nemean Pelt",
+    "address": "0xE05dda455E224f5Cb38bCEfCdeF535cA8aE4EB0b",
+    "raw_holders": 1168,
+    "eoa_holders": 1167,
+    "clone_wallets": 1153,
+    "largest_cluster": 975,
+    "cross_token_wallets": 1155,
+    "est_organic": 6,
+    "quality_pct": 0.5,
+    "pool_share_pct": 62.6,
+    "top_eoa_share_pct": 36.7,
+    "pool_buys_seen": 1203,
+    "burst_6h_pct": 81.1,
+    "ladder_pct": 95.7,
+    "buy_only_pct": 98.9,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 29259.64,
+    "holders_fetched": 1168,
+    "transfers_fetched": 1219
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.5,
+      "organic_holders": 6,
+      "reported_holders": 1168
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

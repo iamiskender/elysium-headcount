@@ -1,0 +1,43 @@
+{
+  "address": "0xe68F7058d810e2AA045a0Ed378FBeca54c24a9a4",
+  "symbol": "aori",
+  "name": "aori",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "aori",
+    "name": "aori",
+    "address": "0xe68F7058d810e2AA045a0Ed378FBeca54c24a9a4",
+    "raw_holders": 153,
+    "eoa_holders": 152,
+    "clone_wallets": 0,
+    "largest_cluster": 13,
+    "cross_token_wallets": 147,
+    "est_organic": 5,
+    "quality_pct": 3.3,
+    "pool_share_pct": 14.6,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 842,
+    "burst_6h_pct": 26.2,
+    "ladder_pct": 96.7,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 140927.57,
+    "holders_fetched": 153,
+    "transfers_fetched": 844
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 153
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

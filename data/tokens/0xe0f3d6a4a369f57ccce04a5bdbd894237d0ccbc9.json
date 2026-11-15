@@ -1,0 +1,43 @@
+{
+  "address": "0xE0f3D6A4a369F57ccCe04A5bDBD894237D0CcBc9",
+  "symbol": "CAL",
+  "name": "calien",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "CAL",
+    "name": "calien",
+    "address": "0xE0f3D6A4a369F57ccCe04A5bDBD894237D0CcBc9",
+    "raw_holders": 1063,
+    "eoa_holders": 1061,
+    "clone_wallets": 670,
+    "largest_cluster": 72,
+    "cross_token_wallets": 979,
+    "est_organic": 42,
+    "quality_pct": 4.0,
+    "pool_share_pct": 83.2,
+    "top_eoa_share_pct": 13.2,
+    "pool_buys_seen": 1067,
+    "burst_6h_pct": 22.2,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4643.2,
+    "holders_fetched": 1063,
+    "transfers_fetched": 1071
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.0,
+      "organic_holders": 42,
+      "reported_holders": 1063
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

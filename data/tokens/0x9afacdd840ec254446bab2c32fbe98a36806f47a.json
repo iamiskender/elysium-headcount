@@ -1,0 +1,43 @@
+{
+  "address": "0x9AfACdD840ec254446bAB2C32fBe98A36806f47A",
+  "symbol": "talarico",
+  "name": "James Dell Talarico",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "talarico",
+    "name": "James Dell Talarico",
+    "address": "0x9AfACdD840ec254446bAB2C32fBe98A36806f47A",
+    "raw_holders": 382,
+    "eoa_holders": 381,
+    "clone_wallets": 376,
+    "largest_cluster": 142,
+    "cross_token_wallets": 368,
+    "est_organic": 4,
+    "quality_pct": 1.0,
+    "pool_share_pct": 59.1,
+    "top_eoa_share_pct": 40.7,
+    "pool_buys_seen": 388,
+    "burst_6h_pct": 37.6,
+    "ladder_pct": 36.3,
+    "buy_only_pct": 99.5,
+    "farm_sample_pct": 40.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7319.23,
+    "holders_fetched": 382,
+    "transfers_fetched": 393
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 4,
+      "reported_holders": 382
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xDd37FEE5b7A874Bae39262189305c18f2d492198",
+  "symbol": "nunu",
+  "name": "skape",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "nunu",
+    "name": "skape",
+    "address": "0xDd37FEE5b7A874Bae39262189305c18f2d492198",
+    "raw_holders": 1377,
+    "eoa_holders": 1376,
+    "clone_wallets": 1284,
+    "largest_cluster": 155,
+    "cross_token_wallets": 1338,
+    "est_organic": 13,
+    "quality_pct": 0.9,
+    "pool_share_pct": 84.2,
+    "top_eoa_share_pct": 14.8,
+    "pool_buys_seen": 1389,
+    "burst_6h_pct": 11.6,
+    "ladder_pct": 18.4,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3608.38,
+    "holders_fetched": 1377,
+    "transfers_fetched": 1400
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.9,
+      "organic_holders": 13,
+      "reported_holders": 1377
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

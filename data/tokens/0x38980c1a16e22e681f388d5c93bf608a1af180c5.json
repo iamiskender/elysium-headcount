@@ -1,0 +1,43 @@
+{
+  "address": "0x38980c1A16E22e681f388D5C93bf608a1Af180c5",
+  "symbol": "SLZ",
+  "name": "SLYMZ",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "SLZ",
+    "name": "SLYMZ",
+    "address": "0x38980c1A16E22e681f388D5C93bf608a1Af180c5",
+    "raw_holders": 710,
+    "eoa_holders": 708,
+    "clone_wallets": 417,
+    "largest_cluster": 46,
+    "cross_token_wallets": 534,
+    "est_organic": 86,
+    "quality_pct": 12.1,
+    "pool_share_pct": 17.2,
+    "top_eoa_share_pct": 79.3,
+    "pool_buys_seen": 867,
+    "burst_6h_pct": 18.3,
+    "ladder_pct": 18.6,
+    "buy_only_pct": 99.2,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7086.24,
+    "holders_fetched": 710,
+    "transfers_fetched": 876
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 12.1,
+      "organic_holders": 86,
+      "reported_holders": 710
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

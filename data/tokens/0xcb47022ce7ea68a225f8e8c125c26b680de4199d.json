@@ -1,0 +1,43 @@
+{
+  "address": "0xcB47022ce7Ea68a225F8E8c125c26B680DE4199d",
+  "symbol": "CENA",
+  "name": "JOHNCENA",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "CENA",
+    "name": "JOHNCENA",
+    "address": "0xcB47022ce7Ea68a225F8E8c125c26B680DE4199d",
+    "raw_holders": 211,
+    "eoa_holders": 210,
+    "clone_wallets": 0,
+    "largest_cluster": 14,
+    "cross_token_wallets": 8,
+    "est_organic": 202,
+    "quality_pct": 96.2,
+    "pool_share_pct": 94.2,
+    "top_eoa_share_pct": 0.1,
+    "pool_buys_seen": 1020,
+    "burst_6h_pct": 86.2,
+    "ladder_pct": 11.6,
+    "buy_only_pct": 5.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2880.03,
+    "holders_fetched": 211,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 96.2,
+      "organic_holders": 202,
+      "reported_holders": 211
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

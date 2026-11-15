@@ -1,0 +1,43 @@
+{
+  "address": "0x796ddaCb77E21800dEC0519D5A9eFeB732820462",
+  "symbol": "KHUTLA",
+  "name": "KARHUTLA",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F13",
+    "family_size": 2,
+    "symbol": "KHUTLA",
+    "name": "KARHUTLA",
+    "address": "0x796ddaCb77E21800dEC0519D5A9eFeB732820462",
+    "raw_holders": 1009,
+    "eoa_holders": 1008,
+    "clone_wallets": 1003,
+    "largest_cluster": 1003,
+    "cross_token_wallets": 355,
+    "est_organic": 4,
+    "quality_pct": 0.4,
+    "pool_share_pct": 41.5,
+    "top_eoa_share_pct": 32.8,
+    "pool_buys_seen": 11,
+    "burst_6h_pct": 54.5,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 99.5,
+    "farm_sample_pct": 46.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 17461.9,
+    "holders_fetched": 1009,
+    "transfers_fetched": 1048
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.4,
+      "organic_holders": 4,
+      "reported_holders": 1009
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x662238adbb790D3EfeAbd13c04726F0AF5B522E3",
+  "symbol": "Kamigotchi",
+  "name": "Kamigotchi",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Kamigotchi",
+    "name": "Kamigotchi",
+    "address": "0x662238adbb790D3EfeAbd13c04726F0AF5B522E3",
+    "raw_holders": 149,
+    "eoa_holders": 148,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 144,
+    "est_organic": 4,
+    "quality_pct": 2.7,
+    "pool_share_pct": 12.5,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 851,
+    "burst_6h_pct": 25.9,
+    "ladder_pct": 96.4,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 191385.28,
+    "holders_fetched": 149,
+    "transfers_fetched": 853
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 149
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -2,11 +2,11 @@
   "address": "0xcBFE40Badd9472761eBC5FB5b230C5c56E2aC84c",
   "symbol": "GVT",
   "name": "girlvn2006",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
   "latest": {
     "status": "ok",
-    "family": "F1",
-    "family_size": 27,
+    "family": "F2",
+    "family_size": 26,
     "symbol": "GVT",
     "name": "girlvn2006",
     "address": "0xcBFE40Badd9472761eBC5FB5b230C5c56E2aC84c",
@@ -14,9 +14,9 @@
     "eoa_holders": 1259,
     "clone_wallets": 1240,
     "largest_cluster": 661,
-    "cross_token_wallets": 1250,
-    "est_organic": 9,
-    "quality_pct": 0.7,
+    "cross_token_wallets": 1248,
+    "est_organic": 11,
+    "quality_pct": 0.9,
     "pool_share_pct": 95.5,
     "top_eoa_share_pct": 0.2,
     "pool_buys_seen": 2000,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 0.0,
+    "market_cap_usd": 4693.53,
     "holders_fetched": 1260,
     "transfers_fetched": 2000
   },
@@ -65,6 +65,12 @@
       "date": "2026-10-20",
       "organic_share_pct": 0.7,
       "organic_holders": 9,
+      "reported_holders": 1260
+    },
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.9,
+      "organic_holders": 11,
       "reported_holders": 1260
     }
   ],

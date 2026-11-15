@@ -1,0 +1,43 @@
+{
+  "address": "0xA92DB80D8767883A6Ac38422fa0d2AD49920fB6b",
+  "symbol": "INTCx",
+  "name": "Intel",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "INTCx",
+    "name": "Intel",
+    "address": "0xA92DB80D8767883A6Ac38422fa0d2AD49920fB6b",
+    "raw_holders": 146,
+    "eoa_holders": 145,
+    "clone_wallets": 16,
+    "largest_cluster": 16,
+    "cross_token_wallets": 143,
+    "est_organic": 2,
+    "quality_pct": 1.4,
+    "pool_share_pct": 69.2,
+    "top_eoa_share_pct": 27.5,
+    "pool_buys_seen": 796,
+    "burst_6h_pct": 27.8,
+    "ladder_pct": 99.7,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7220.14,
+    "holders_fetched": 146,
+    "transfers_fetched": 801
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 146
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

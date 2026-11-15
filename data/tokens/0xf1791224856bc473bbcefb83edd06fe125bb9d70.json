@@ -1,0 +1,43 @@
+{
+  "address": "0xf1791224856bC473BBCefB83eDD06FE125bb9d70",
+  "symbol": "ohlala",
+  "name": "ohlala",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "ohlala",
+    "name": "ohlala",
+    "address": "0xf1791224856bC473BBCefB83eDD06FE125bb9d70",
+    "raw_holders": 146,
+    "eoa_holders": 145,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 141,
+    "est_organic": 4,
+    "quality_pct": 2.8,
+    "pool_share_pct": 2.9,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 836,
+    "burst_6h_pct": 26.3,
+    "ladder_pct": 96.8,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3522183.42,
+    "holders_fetched": 146,
+    "transfers_fetched": 839
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.8,
+      "organic_holders": 4,
+      "reported_holders": 146
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

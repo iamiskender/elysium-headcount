@@ -1,0 +1,43 @@
+{
+  "address": "0x598be4FDeE6bbFc963fc2e2E4E51B8Ea0ea9E56f",
+  "symbol": "MAD",
+  "name": "MaD",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "MAD",
+    "name": "MaD",
+    "address": "0x598be4FDeE6bbFc963fc2e2E4E51B8Ea0ea9E56f",
+    "raw_holders": 1259,
+    "eoa_holders": 1258,
+    "clone_wallets": 1132,
+    "largest_cluster": 522,
+    "cross_token_wallets": 1095,
+    "est_organic": 94,
+    "quality_pct": 7.5,
+    "pool_share_pct": 21.0,
+    "top_eoa_share_pct": 72.5,
+    "pool_buys_seen": 1900,
+    "burst_6h_pct": 37.2,
+    "ladder_pct": 60.8,
+    "buy_only_pct": 97.8,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 54744.53,
+    "holders_fetched": 1259,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 7.5,
+      "organic_holders": 94,
+      "reported_holders": 1259
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

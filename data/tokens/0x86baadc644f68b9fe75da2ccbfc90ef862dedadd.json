@@ -1,0 +1,43 @@
+{
+  "address": "0x86baADC644F68B9fE75DA2Ccbfc90Ef862Dedadd",
+  "symbol": "FOME",
+  "name": "Fear Of Missing Elysium",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "FOME",
+    "name": "Fear Of Missing Elysium",
+    "address": "0x86baADC644F68B9fE75DA2Ccbfc90Ef862Dedadd",
+    "raw_holders": 732,
+    "eoa_holders": 730,
+    "clone_wallets": 415,
+    "largest_cluster": 45,
+    "cross_token_wallets": 511,
+    "est_organic": 117,
+    "quality_pct": 16.0,
+    "pool_share_pct": 78.1,
+    "top_eoa_share_pct": 6.6,
+    "pool_buys_seen": 901,
+    "burst_6h_pct": 17.1,
+    "ladder_pct": 20.6,
+    "buy_only_pct": 99.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 6502.51,
+    "holders_fetched": 732,
+    "transfers_fetched": 920
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 16.0,
+      "organic_holders": 117,
+      "reported_holders": 732
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

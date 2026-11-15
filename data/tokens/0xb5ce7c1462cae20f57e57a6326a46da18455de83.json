@@ -1,0 +1,43 @@
+{
+  "address": "0xB5ce7c1462cAe20F57E57A6326a46Da18455dE83",
+  "symbol": "THINK",
+  "name": "Think",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "THINK",
+    "name": "Think",
+    "address": "0xB5ce7c1462cAe20F57E57A6326a46Da18455dE83",
+    "raw_holders": 128,
+    "eoa_holders": 126,
+    "clone_wallets": 51,
+    "largest_cluster": 51,
+    "cross_token_wallets": 80,
+    "est_organic": 46,
+    "quality_pct": 36.5,
+    "pool_share_pct": 80.1,
+    "top_eoa_share_pct": 10.0,
+    "pool_buys_seen": 128,
+    "burst_6h_pct": 41.4,
+    "ladder_pct": 39.8,
+    "buy_only_pct": 99.2,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5003.1,
+    "holders_fetched": 128,
+    "transfers_fetched": 132
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 36.5,
+      "organic_holders": 46,
+      "reported_holders": 128
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

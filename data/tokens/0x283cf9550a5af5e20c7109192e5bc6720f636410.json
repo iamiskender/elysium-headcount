@@ -1,0 +1,43 @@
+{
+  "address": "0x283cF9550a5af5E20C7109192E5bc6720f636410",
+  "symbol": "BOOMER",
+  "name": "BOOMER",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "BOOMER",
+    "name": "BOOMER",
+    "address": "0x283cF9550a5af5E20C7109192E5bc6720f636410",
+    "raw_holders": 152,
+    "eoa_holders": 151,
+    "clone_wallets": 30,
+    "largest_cluster": 15,
+    "cross_token_wallets": 145,
+    "est_organic": 6,
+    "quality_pct": 4.0,
+    "pool_share_pct": 2.5,
+    "top_eoa_share_pct": 24.4,
+    "pool_buys_seen": 847,
+    "burst_6h_pct": 26.2,
+    "ladder_pct": 96.1,
+    "buy_only_pct": 98.1,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5055267.4,
+    "holders_fetched": 152,
+    "transfers_fetched": 851
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.0,
+      "organic_holders": 6,
+      "reported_holders": 152
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

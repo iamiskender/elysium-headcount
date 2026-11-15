@@ -1,0 +1,43 @@
+{
+  "address": "0xB794F360af8Eb0F987E9F02F96b920cCbcef2b4a",
+  "symbol": "YAHE",
+  "name": "YarHunter",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "YAHE",
+    "name": "YarHunter",
+    "address": "0xB794F360af8Eb0F987E9F02F96b920cCbcef2b4a",
+    "raw_holders": 161,
+    "eoa_holders": 160,
+    "clone_wallets": 0,
+    "largest_cluster": 13,
+    "cross_token_wallets": 153,
+    "est_organic": 7,
+    "quality_pct": 4.4,
+    "pool_share_pct": 12.5,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 900,
+    "burst_6h_pct": 24.7,
+    "ladder_pct": 95.6,
+    "buy_only_pct": 98.2,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 190972.74,
+    "holders_fetched": 161,
+    "transfers_fetched": 908
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.4,
+      "organic_holders": 7,
+      "reported_holders": 161
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x6221c71a98b5717dC25615eAa7e2adb36948F241",
+  "symbol": "Hu",
+  "name": "Hi",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "Hu",
+    "name": "Hi",
+    "address": "0x6221c71a98b5717dC25615eAa7e2adb36948F241",
+    "raw_holders": 591,
+    "eoa_holders": 590,
+    "clone_wallets": 569,
+    "largest_cluster": 195,
+    "cross_token_wallets": 553,
+    "est_organic": 6,
+    "quality_pct": 1.0,
+    "pool_share_pct": 78.3,
+    "top_eoa_share_pct": 20.9,
+    "pool_buys_seen": 606,
+    "burst_6h_pct": 40.1,
+    "ladder_pct": 55.4,
+    "buy_only_pct": 99.5,
+    "farm_sample_pct": 40.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4173.79,
+    "holders_fetched": 591,
+    "transfers_fetched": 610
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 6,
+      "reported_holders": 591
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

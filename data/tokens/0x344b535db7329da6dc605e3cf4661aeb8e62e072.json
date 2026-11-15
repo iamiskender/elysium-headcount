@@ -1,0 +1,43 @@
+{
+  "address": "0x344B535DB7329DA6dC605E3Cf4661aeB8E62e072",
+  "symbol": "CashCat",
+  "name": "CashCat",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "CashCat",
+    "name": "CashCat",
+    "address": "0x344B535DB7329DA6dC605E3Cf4661aeB8E62e072",
+    "raw_holders": 812,
+    "eoa_holders": 811,
+    "clone_wallets": 796,
+    "largest_cluster": 164,
+    "cross_token_wallets": 783,
+    "est_organic": 12,
+    "quality_pct": 1.5,
+    "pool_share_pct": 46.7,
+    "top_eoa_share_pct": 49.6,
+    "pool_buys_seen": 865,
+    "burst_6h_pct": 22.4,
+    "ladder_pct": 23.8,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 11706.85,
+    "holders_fetched": 812,
+    "transfers_fetched": 896
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.5,
+      "organic_holders": 12,
+      "reported_holders": 812
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

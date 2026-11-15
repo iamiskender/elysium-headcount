@@ -1,0 +1,43 @@
+{
+  "address": "0x34d8a9E9b0Dac595fAC4E66F389c78D4201e2106",
+  "symbol": "mingos",
+  "name": "mingos",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "mingos",
+    "name": "mingos",
+    "address": "0x34d8a9E9b0Dac595fAC4E66F389c78D4201e2106",
+    "raw_holders": 164,
+    "eoa_holders": 163,
+    "clone_wallets": 0,
+    "largest_cluster": 13,
+    "cross_token_wallets": 154,
+    "est_organic": 9,
+    "quality_pct": 5.5,
+    "pool_share_pct": 9.9,
+    "top_eoa_share_pct": 38.6,
+    "pool_buys_seen": 895,
+    "burst_6h_pct": 24.8,
+    "ladder_pct": 95.6,
+    "buy_only_pct": 98.8,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 305447.69,
+    "holders_fetched": 164,
+    "transfers_fetched": 903
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.5,
+      "organic_holders": 9,
+      "reported_holders": 164
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x0a2D1C5005BeeB6a4CfF92666085274dFAaEDC34",
+  "symbol": "spoodermon",
+  "name": "spoodermon",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "spoodermon",
+    "name": "spoodermon",
+    "address": "0x0a2D1C5005BeeB6a4CfF92666085274dFAaEDC34",
+    "raw_holders": 152,
+    "eoa_holders": 151,
+    "clone_wallets": 0,
+    "largest_cluster": 11,
+    "cross_token_wallets": 146,
+    "est_organic": 5,
+    "quality_pct": 3.3,
+    "pool_share_pct": 12.9,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 849,
+    "burst_6h_pct": 26.1,
+    "ladder_pct": 97.5,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 179276.46,
+    "holders_fetched": 152,
+    "transfers_fetched": 850
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 152
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

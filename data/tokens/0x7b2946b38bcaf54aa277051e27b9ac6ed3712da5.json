@@ -1,0 +1,43 @@
+{
+  "address": "0x7b2946B38BCaF54Aa277051E27B9AC6ed3712dA5",
+  "symbol": "ORCLx",
+  "name": "Oracle",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "ORCLx",
+    "name": "Oracle",
+    "address": "0x7b2946B38BCaF54Aa277051E27B9AC6ed3712dA5",
+    "raw_holders": 144,
+    "eoa_holders": 143,
+    "clone_wallets": 0,
+    "largest_cluster": 7,
+    "cross_token_wallets": 139,
+    "est_organic": 4,
+    "quality_pct": 2.8,
+    "pool_share_pct": 30.8,
+    "top_eoa_share_pct": 2.5,
+    "pool_buys_seen": 794,
+    "burst_6h_pct": 28.0,
+    "ladder_pct": 11.3,
+    "buy_only_pct": 97.9,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 31406.34,
+    "holders_fetched": 144,
+    "transfers_fetched": 800
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.8,
+      "organic_holders": 4,
+      "reported_holders": 144
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

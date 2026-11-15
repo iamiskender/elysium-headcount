@@ -1,0 +1,43 @@
+{
+  "address": "0xA28F06148C8fA28770Ea8330cA8c926552bfC9ac",
+  "symbol": "dacosta",
+  "name": "da costa",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "dacosta",
+    "name": "da costa",
+    "address": "0xA28F06148C8fA28770Ea8330cA8c926552bfC9ac",
+    "raw_holders": 436,
+    "eoa_holders": 435,
+    "clone_wallets": 400,
+    "largest_cluster": 156,
+    "cross_token_wallets": 321,
+    "est_organic": 29,
+    "quality_pct": 6.7,
+    "pool_share_pct": 93.1,
+    "top_eoa_share_pct": 5.7,
+    "pool_buys_seen": 1053,
+    "burst_6h_pct": 71.8,
+    "ladder_pct": 95.9,
+    "buy_only_pct": 97.5,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2951.86,
+    "holders_fetched": 436,
+    "transfers_fetched": 1099
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 6.7,
+      "organic_holders": 29,
+      "reported_holders": 436
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

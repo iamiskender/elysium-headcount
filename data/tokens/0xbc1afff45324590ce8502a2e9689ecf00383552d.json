@@ -1,0 +1,43 @@
+{
+  "address": "0xBC1AfFF45324590ce8502a2e9689ECF00383552D",
+  "symbol": "Tye",
+  "name": "The coin",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "Tye",
+    "name": "The coin",
+    "address": "0xBC1AfFF45324590ce8502a2e9689ECF00383552D",
+    "raw_holders": 223,
+    "eoa_holders": 222,
+    "clone_wallets": 217,
+    "largest_cluster": 159,
+    "cross_token_wallets": 217,
+    "est_organic": 0,
+    "quality_pct": 0.0,
+    "pool_share_pct": 77.7,
+    "top_eoa_share_pct": 21.9,
+    "pool_buys_seen": 229,
+    "burst_6h_pct": 83.0,
+    "ladder_pct": 82.1,
+    "buy_only_pct": 99.6,
+    "farm_sample_pct": 86.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4239.25,
+    "holders_fetched": 223,
+    "transfers_fetched": 233
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.0,
+      "organic_holders": 0,
+      "reported_holders": 223
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

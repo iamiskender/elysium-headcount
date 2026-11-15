@@ -1,0 +1,43 @@
+{
+  "address": "0x705E79628ff389b026f516fc78A7Cae6EA6c21fF",
+  "symbol": "DANCOK",
+  "name": "PANJENENGAN DANCOK",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "DANCOK",
+    "name": "PANJENENGAN DANCOK",
+    "address": "0x705E79628ff389b026f516fc78A7Cae6EA6c21fF",
+    "raw_holders": 537,
+    "eoa_holders": 536,
+    "clone_wallets": 502,
+    "largest_cluster": 208,
+    "cross_token_wallets": 392,
+    "est_organic": 31,
+    "quality_pct": 5.8,
+    "pool_share_pct": 86.2,
+    "top_eoa_share_pct": 13.2,
+    "pool_buys_seen": 1247,
+    "burst_6h_pct": 69.4,
+    "ladder_pct": 98.3,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 26.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3453.8,
+    "holders_fetched": 537,
+    "transfers_fetched": 1296
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.8,
+      "organic_holders": 31,
+      "reported_holders": 537
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

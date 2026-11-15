@@ -1,0 +1,43 @@
+{
+  "address": "0x0105b17e633440a5d3a0EBD52857B48a82aF8323",
+  "symbol": "XFLOW",
+  "name": "XFLOW",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F3",
+    "family_size": 24,
+    "symbol": "XFLOW",
+    "name": "XFLOW",
+    "address": "0x0105b17e633440a5d3a0EBD52857B48a82aF8323",
+    "raw_holders": 1297,
+    "eoa_holders": 1295,
+    "clone_wallets": 1125,
+    "largest_cluster": 145,
+    "cross_token_wallets": 1221,
+    "est_organic": 18,
+    "quality_pct": 1.4,
+    "pool_share_pct": 80.6,
+    "top_eoa_share_pct": 4.1,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 18.7,
+    "ladder_pct": 0.0,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4526.48,
+    "holders_fetched": 1297,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.4,
+      "organic_holders": 18,
+      "reported_holders": 1297
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

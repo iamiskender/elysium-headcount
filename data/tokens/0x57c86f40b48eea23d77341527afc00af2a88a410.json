@@ -1,0 +1,43 @@
+{
+  "address": "0x57C86f40b48EEA23d77341527afc00aF2A88a410",
+  "symbol": "Xebec",
+  "name": "Xebec",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Xebec",
+    "name": "Xebec",
+    "address": "0x57C86f40b48EEA23d77341527afc00aF2A88a410",
+    "raw_holders": 157,
+    "eoa_holders": 156,
+    "clone_wallets": 63,
+    "largest_cluster": 18,
+    "cross_token_wallets": 150,
+    "est_organic": 6,
+    "quality_pct": 3.8,
+    "pool_share_pct": 2.7,
+    "top_eoa_share_pct": 24.4,
+    "pool_buys_seen": 847,
+    "burst_6h_pct": 26.1,
+    "ladder_pct": 95.7,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4158908.86,
+    "holders_fetched": 157,
+    "transfers_fetched": 849
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.8,
+      "organic_holders": 6,
+      "reported_holders": 157
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

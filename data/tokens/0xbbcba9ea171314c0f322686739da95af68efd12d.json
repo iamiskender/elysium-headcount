@@ -1,0 +1,43 @@
+{
+  "address": "0xbBcBA9ea171314C0f322686739da95Af68eFD12d",
+  "symbol": "POS",
+  "name": "Pos",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "POS",
+    "name": "Pos",
+    "address": "0xbBcBA9ea171314C0f322686739da95Af68eFD12d",
+    "raw_holders": 217,
+    "eoa_holders": 215,
+    "clone_wallets": 50,
+    "largest_cluster": 18,
+    "cross_token_wallets": 59,
+    "est_organic": 118,
+    "quality_pct": 54.9,
+    "pool_share_pct": 84.2,
+    "top_eoa_share_pct": 15.3,
+    "pool_buys_seen": 361,
+    "burst_6h_pct": 40.2,
+    "ladder_pct": 47.9,
+    "buy_only_pct": 99.5,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4530.84,
+    "holders_fetched": 217,
+    "transfers_fetched": 365
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 54.9,
+      "organic_holders": 118,
+      "reported_holders": 217
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

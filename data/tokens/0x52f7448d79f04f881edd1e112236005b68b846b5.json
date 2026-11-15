@@ -1,0 +1,43 @@
+{
+  "address": "0x52f7448D79f04F881Edd1E112236005B68B846B5",
+  "symbol": "ANGEL",
+  "name": "ELYSIUM ANGEL",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F15",
+    "family_size": 2,
+    "symbol": "ANGEL",
+    "name": "ELYSIUM ANGEL",
+    "address": "0x52f7448D79f04F881Edd1E112236005B68B846B5",
+    "raw_holders": 667,
+    "eoa_holders": 666,
+    "clone_wallets": 472,
+    "largest_cluster": 247,
+    "cross_token_wallets": 637,
+    "est_organic": 28,
+    "quality_pct": 4.2,
+    "pool_share_pct": 70.6,
+    "top_eoa_share_pct": 19.5,
+    "pool_buys_seen": 1759,
+    "burst_6h_pct": 78.5,
+    "ladder_pct": 83.1,
+    "buy_only_pct": 98.4,
+    "farm_sample_pct": 80.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 13575.75,
+    "holders_fetched": 667,
+    "transfers_fetched": 1774
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.2,
+      "organic_holders": 28,
+      "reported_holders": 667
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x7211356b65658ac1eDfFBCf46Ac406efE6E7E685",
+  "symbol": "HPS",
+  "name": "hasan parvez",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "HPS",
+    "name": "hasan parvez",
+    "address": "0x7211356b65658ac1eDfFBCf46Ac406efE6E7E685",
+    "raw_holders": 388,
+    "eoa_holders": 387,
+    "clone_wallets": 370,
+    "largest_cluster": 155,
+    "cross_token_wallets": 314,
+    "est_organic": 13,
+    "quality_pct": 3.4,
+    "pool_share_pct": 85.8,
+    "top_eoa_share_pct": 12.0,
+    "pool_buys_seen": 806,
+    "burst_6h_pct": 72.3,
+    "ladder_pct": 96.4,
+    "buy_only_pct": 99.0,
+    "farm_sample_pct": 6.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3475.55,
+    "holders_fetched": 388,
+    "transfers_fetched": 824
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.4,
+      "organic_holders": 13,
+      "reported_holders": 388
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

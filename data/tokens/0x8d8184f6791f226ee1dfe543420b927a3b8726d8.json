@@ -1,0 +1,43 @@
+{
+  "address": "0x8d8184F6791F226Ee1Dfe543420b927A3B8726D8",
+  "symbol": "TFROG",
+  "name": "TurboFrog",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "TFROG",
+    "name": "TurboFrog",
+    "address": "0x8d8184F6791F226Ee1Dfe543420b927A3B8726D8",
+    "raw_holders": 457,
+    "eoa_holders": 456,
+    "clone_wallets": 432,
+    "largest_cluster": 207,
+    "cross_token_wallets": 446,
+    "est_organic": 6,
+    "quality_pct": 1.3,
+    "pool_share_pct": 86.4,
+    "top_eoa_share_pct": 11.1,
+    "pool_buys_seen": 460,
+    "burst_6h_pct": 38.7,
+    "ladder_pct": 19.6,
+    "buy_only_pct": 99.6,
+    "farm_sample_pct": 6.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3425.18,
+    "holders_fetched": 457,
+    "transfers_fetched": 464
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.3,
+      "organic_holders": 6,
+      "reported_holders": 457
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

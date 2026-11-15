@@ -1,0 +1,43 @@
+{
+  "address": "0x31aE2913462ECe6f1e700b0DBFCaEE8ed0E3AcBd",
+  "symbol": "PEARL",
+  "name": "Pearl Research Labs",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "PEARL",
+    "name": "Pearl Research Labs",
+    "address": "0x31aE2913462ECe6f1e700b0DBFCaEE8ed0E3AcBd",
+    "raw_holders": 1707,
+    "eoa_holders": 1706,
+    "clone_wallets": 1375,
+    "largest_cluster": 878,
+    "cross_token_wallets": 1617,
+    "est_organic": 88,
+    "quality_pct": 5.2,
+    "pool_share_pct": 55.3,
+    "top_eoa_share_pct": 39.0,
+    "pool_buys_seen": 1464,
+    "burst_6h_pct": 44.1,
+    "ladder_pct": 74.4,
+    "buy_only_pct": 52.3,
+    "farm_sample_pct": 20.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 44296.06,
+    "holders_fetched": 1707,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.2,
+      "organic_holders": 88,
+      "reported_holders": 1707
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

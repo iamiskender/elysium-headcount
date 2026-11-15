@@ -1,0 +1,43 @@
+{
+  "address": "0xcb932318c2029055A24d805A65b51ABe36921B52",
+  "symbol": "QUADRILLIONS",
+  "name": "$QUADRILLIONS",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "QUADRILLIONS",
+    "name": "$QUADRILLIONS",
+    "address": "0xcb932318c2029055A24d805A65b51ABe36921B52",
+    "raw_holders": 278,
+    "eoa_holders": 277,
+    "clone_wallets": 209,
+    "largest_cluster": 88,
+    "cross_token_wallets": 244,
+    "est_organic": 33,
+    "quality_pct": 11.9,
+    "pool_share_pct": 7.1,
+    "top_eoa_share_pct": 90.8,
+    "pool_buys_seen": 758,
+    "burst_6h_pct": 50.9,
+    "ladder_pct": 90.9,
+    "buy_only_pct": 93.8,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 595479.5,
+    "holders_fetched": 278,
+    "transfers_fetched": 788
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 11.9,
+      "organic_holders": 33,
+      "reported_holders": 278
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x8bf7AeEd37bba4F195f36Eba47e06917202d6eEf",
+  "symbol": "AERIS",
+  "name": "LaFulanaDeMidgar",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F6",
+    "family_size": 11,
+    "symbol": "AERIS",
+    "name": "LaFulanaDeMidgar",
+    "address": "0x8bf7AeEd37bba4F195f36Eba47e06917202d6eEf",
+    "raw_holders": 6395,
+    "eoa_holders": 6394,
+    "clone_wallets": 5767,
+    "largest_cluster": 1358,
+    "cross_token_wallets": 6328,
+    "est_organic": 63,
+    "quality_pct": 1.0,
+    "pool_share_pct": 40.2,
+    "top_eoa_share_pct": 54.6,
+    "pool_buys_seen": 1025,
+    "burst_6h_pct": 58.7,
+    "ladder_pct": 89.7,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 33.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 97488.84,
+    "holders_fetched": 6395,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.0,
+      "organic_holders": 63,
+      "reported_holders": 6395
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

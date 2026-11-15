@@ -1,0 +1,43 @@
+{
+  "address": "0x92A0756933B710bA91ce07280fE7b474c59F5D7d",
+  "symbol": "GENZ",
+  "name": "GEN-Z",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "GENZ",
+    "name": "GEN-Z",
+    "address": "0x92A0756933B710bA91ce07280fE7b474c59F5D7d",
+    "raw_holders": 192,
+    "eoa_holders": 190,
+    "clone_wallets": 0,
+    "largest_cluster": 14,
+    "cross_token_wallets": 44,
+    "est_organic": 146,
+    "quality_pct": 76.8,
+    "pool_share_pct": 94.7,
+    "top_eoa_share_pct": 1.7,
+    "pool_buys_seen": 339,
+    "burst_6h_pct": 43.1,
+    "ladder_pct": 42.8,
+    "buy_only_pct": 99.5,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4417.11,
+    "holders_fetched": 192,
+    "transfers_fetched": 344
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 76.8,
+      "organic_holders": 146,
+      "reported_holders": 192
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

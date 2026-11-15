@@ -1,0 +1,43 @@
+{
+  "address": "0x784C85b6b861E22A470064F440Ad854e424Ae495",
+  "symbol": "Argo",
+  "name": "Elysian Argo",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "Argo",
+    "name": "Elysian Argo",
+    "address": "0x784C85b6b861E22A470064F440Ad854e424Ae495",
+    "raw_holders": 1147,
+    "eoa_holders": 1146,
+    "clone_wallets": 1128,
+    "largest_cluster": 322,
+    "cross_token_wallets": 1116,
+    "est_organic": 16,
+    "quality_pct": 1.4,
+    "pool_share_pct": 24.4,
+    "top_eoa_share_pct": 56.1,
+    "pool_buys_seen": 1152,
+    "burst_6h_pct": 13.5,
+    "ladder_pct": 21.4,
+    "buy_only_pct": 99.7,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 43083.45,
+    "holders_fetched": 1147,
+    "transfers_fetched": 1160
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.4,
+      "organic_holders": 16,
+      "reported_holders": 1147
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

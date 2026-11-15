@@ -1,0 +1,43 @@
+{
+  "address": "0x097195058B907195631Ec1ce9746E1e20C79618D",
+  "symbol": "Suno",
+  "name": "Suno",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Suno",
+    "name": "Suno",
+    "address": "0x097195058B907195631Ec1ce9746E1e20C79618D",
+    "raw_holders": 143,
+    "eoa_holders": 142,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 138,
+    "est_organic": 4,
+    "quality_pct": 2.8,
+    "pool_share_pct": 12.6,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 832,
+    "burst_6h_pct": 26.7,
+    "ladder_pct": 96.6,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 188988.85,
+    "holders_fetched": 143,
+    "transfers_fetched": 834
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.8,
+      "organic_holders": 4,
+      "reported_holders": 143
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

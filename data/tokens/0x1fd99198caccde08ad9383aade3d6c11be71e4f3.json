@@ -2,11 +2,11 @@
   "address": "0x1fd99198cAccDE08Ad9383aade3D6c11be71E4f3",
   "symbol": "TCT",
   "name": "thaocute1998",
-  "snapshot": "2026-10-20T10:30:48.386261+00:00",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
   "latest": {
     "status": "ok",
-    "family": "F1",
-    "family_size": 27,
+    "family": "F2",
+    "family_size": 26,
     "symbol": "TCT",
     "name": "thaocute1998",
     "address": "0x1fd99198cAccDE08Ad9383aade3D6c11be71E4f3",
@@ -21,12 +21,12 @@
     "top_eoa_share_pct": 0.6,
     "pool_buys_seen": 1998,
     "burst_6h_pct": 62.6,
-    "ladder_pct": 99.0,
+    "ladder_pct": 98.9,
     "buy_only_pct": 99.9,
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 0.0,
+    "market_cap_usd": 4955.1,
     "holders_fetched": 1273,
     "transfers_fetched": 2000
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-10-20",
+      "organic_share_pct": 0.9,
+      "organic_holders": 12,
+      "reported_holders": 1273
+    },
+    {
+      "date": "2026-11-15",
       "organic_share_pct": 0.9,
       "organic_holders": 12,
       "reported_holders": 1273

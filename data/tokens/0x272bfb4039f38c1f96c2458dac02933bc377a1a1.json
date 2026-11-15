@@ -1,0 +1,43 @@
+{
+  "address": "0x272bfB4039f38c1F96C2458DAc02933Bc377a1a1",
+  "symbol": "SpaceX",
+  "name": "SpaceX",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "SpaceX",
+    "name": "SpaceX",
+    "address": "0x272bfB4039f38c1F96C2458DAc02933Bc377a1a1",
+    "raw_holders": 157,
+    "eoa_holders": 156,
+    "clone_wallets": 15,
+    "largest_cluster": 15,
+    "cross_token_wallets": 149,
+    "est_organic": 7,
+    "quality_pct": 4.5,
+    "pool_share_pct": 8.2,
+    "top_eoa_share_pct": 38.6,
+    "pool_buys_seen": 900,
+    "burst_6h_pct": 24.7,
+    "ladder_pct": 96.2,
+    "buy_only_pct": 98.7,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 447977.93,
+    "holders_fetched": 157,
+    "transfers_fetched": 908
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.5,
+      "organic_holders": 7,
+      "reported_holders": 157
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

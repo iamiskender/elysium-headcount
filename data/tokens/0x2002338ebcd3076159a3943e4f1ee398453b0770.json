@@ -1,0 +1,43 @@
+{
+  "address": "0x2002338EBCD3076159a3943e4F1ee398453B0770",
+  "symbol": "MUx",
+  "name": "Micron Technology",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "MUx",
+    "name": "Micron Technology",
+    "address": "0x2002338EBCD3076159a3943e4F1ee398453B0770",
+    "raw_holders": 150,
+    "eoa_holders": 149,
+    "clone_wallets": 15,
+    "largest_cluster": 15,
+    "cross_token_wallets": 145,
+    "est_organic": 4,
+    "quality_pct": 2.7,
+    "pool_share_pct": 56.2,
+    "top_eoa_share_pct": 27.5,
+    "pool_buys_seen": 823,
+    "burst_6h_pct": 26.9,
+    "ladder_pct": 99.5,
+    "buy_only_pct": 99.3,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 9492.51,
+    "holders_fetched": 150,
+    "transfers_fetched": 828
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 150
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

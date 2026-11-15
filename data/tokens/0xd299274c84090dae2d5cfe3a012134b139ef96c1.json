@@ -1,0 +1,43 @@
+{
+  "address": "0xd299274c84090DAE2D5cfE3a012134b139Ef96C1",
+  "symbol": "PRAYCAT",
+  "name": "Pray Cat",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "PRAYCAT",
+    "name": "Pray Cat",
+    "address": "0xd299274c84090DAE2D5cfE3a012134b139Ef96C1",
+    "raw_holders": 172,
+    "eoa_holders": 170,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 53,
+    "est_organic": 117,
+    "quality_pct": 68.8,
+    "pool_share_pct": 83.0,
+    "top_eoa_share_pct": 15.2,
+    "pool_buys_seen": 171,
+    "burst_6h_pct": 21.6,
+    "ladder_pct": 3.5,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4456.03,
+    "holders_fetched": 172,
+    "transfers_fetched": 174
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 68.8,
+      "organic_holders": 117,
+      "reported_holders": 172
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

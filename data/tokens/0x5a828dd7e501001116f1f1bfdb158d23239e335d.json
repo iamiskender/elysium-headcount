@@ -1,0 +1,43 @@
+{
+  "address": "0x5A828dd7e501001116f1f1bFdB158d23239e335d",
+  "symbol": "CHIHUA",
+  "name": "Chihuahua",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "CHIHUA",
+    "name": "Chihuahua",
+    "address": "0x5A828dd7e501001116f1f1bFdB158d23239e335d",
+    "raw_holders": 153,
+    "eoa_holders": 152,
+    "clone_wallets": 0,
+    "largest_cluster": 13,
+    "cross_token_wallets": 144,
+    "est_organic": 8,
+    "quality_pct": 5.3,
+    "pool_share_pct": 9.8,
+    "top_eoa_share_pct": 24.1,
+    "pool_buys_seen": 901,
+    "burst_6h_pct": 24.6,
+    "ladder_pct": 95.6,
+    "buy_only_pct": 98.7,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 313260.61,
+    "holders_fetched": 153,
+    "transfers_fetched": 909
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.3,
+      "organic_holders": 8,
+      "reported_holders": 153
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

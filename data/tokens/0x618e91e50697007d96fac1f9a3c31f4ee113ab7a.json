@@ -1,0 +1,43 @@
+{
+  "address": "0x618e91E50697007d96FAC1f9a3C31f4ee113ab7A",
+  "symbol": "FUR",
+  "name": "f\u00fcr elysium",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F7",
+    "family_size": 7,
+    "symbol": "FUR",
+    "name": "f\u00fcr elysium",
+    "address": "0x618e91E50697007d96FAC1f9a3C31f4ee113ab7A",
+    "raw_holders": 1665,
+    "eoa_holders": 1664,
+    "clone_wallets": 1635,
+    "largest_cluster": 1431,
+    "cross_token_wallets": 1649,
+    "est_organic": 12,
+    "quality_pct": 0.7,
+    "pool_share_pct": 93.4,
+    "top_eoa_share_pct": 3.2,
+    "pool_buys_seen": 1999,
+    "burst_6h_pct": 92.8,
+    "ladder_pct": 93.5,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 26.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2930.44,
+    "holders_fetched": 1665,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.7,
+      "organic_holders": 12,
+      "reported_holders": 1665
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xff6EC0036e9C9D35eC4891F36bcC72Fe5Ef72F06",
+  "symbol": "CATINU",
+  "name": "CAT INU",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "CATINU",
+    "name": "CAT INU",
+    "address": "0xff6EC0036e9C9D35eC4891F36bcC72Fe5Ef72F06",
+    "raw_holders": 824,
+    "eoa_holders": 823,
+    "clone_wallets": 813,
+    "largest_cluster": 208,
+    "cross_token_wallets": 782,
+    "est_organic": 6,
+    "quality_pct": 0.7,
+    "pool_share_pct": 88.6,
+    "top_eoa_share_pct": 9.4,
+    "pool_buys_seen": 830,
+    "burst_6h_pct": 22.3,
+    "ladder_pct": 24.6,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 20.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3260.57,
+    "holders_fetched": 824,
+    "transfers_fetched": 832
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.7,
+      "organic_holders": 6,
+      "reported_holders": 824
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

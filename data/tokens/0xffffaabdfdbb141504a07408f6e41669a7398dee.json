@@ -1,0 +1,43 @@
+{
+  "address": "0xfFffAABdfdbB141504a07408f6e41669a7398dee",
+  "symbol": "MOLE",
+  "name": "Moon Mole",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "MOLE",
+    "name": "Moon Mole",
+    "address": "0xfFffAABdfdbB141504a07408f6e41669a7398dee",
+    "raw_holders": 992,
+    "eoa_holders": 990,
+    "clone_wallets": 541,
+    "largest_cluster": 57,
+    "cross_token_wallets": 890,
+    "est_organic": 64,
+    "quality_pct": 6.5,
+    "pool_share_pct": 83.6,
+    "top_eoa_share_pct": 15.2,
+    "pool_buys_seen": 991,
+    "burst_6h_pct": 25.1,
+    "ladder_pct": 0.8,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4595.35,
+    "holders_fetched": 992,
+    "transfers_fetched": 994
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 6.5,
+      "organic_holders": 64,
+      "reported_holders": 992
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

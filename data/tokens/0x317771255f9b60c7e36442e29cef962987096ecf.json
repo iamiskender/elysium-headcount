@@ -1,0 +1,43 @@
+{
+  "address": "0x317771255F9B60C7E36442E29cef962987096eCf",
+  "symbol": "Gomocat",
+  "name": "Gomocat",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Gomocat",
+    "name": "Gomocat",
+    "address": "0x317771255F9B60C7E36442E29cef962987096eCf",
+    "raw_holders": 149,
+    "eoa_holders": 148,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 142,
+    "est_organic": 6,
+    "quality_pct": 4.1,
+    "pool_share_pct": 2.1,
+    "top_eoa_share_pct": 24.5,
+    "pool_buys_seen": 848,
+    "burst_6h_pct": 26.2,
+    "ladder_pct": 95.8,
+    "buy_only_pct": 98.7,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 7112074.14,
+    "holders_fetched": 149,
+    "transfers_fetched": 852
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.1,
+      "organic_holders": 6,
+      "reported_holders": 149
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

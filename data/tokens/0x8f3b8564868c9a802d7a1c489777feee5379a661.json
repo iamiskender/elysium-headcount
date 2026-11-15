@@ -1,0 +1,43 @@
+{
+  "address": "0x8f3B8564868C9A802D7a1C489777FEEe5379A661",
+  "symbol": "sky",
+  "name": "sky",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "sky",
+    "name": "sky",
+    "address": "0x8f3B8564868C9A802D7a1C489777FEEe5379A661",
+    "raw_holders": 106,
+    "eoa_holders": 105,
+    "clone_wallets": 74,
+    "largest_cluster": 74,
+    "cross_token_wallets": 93,
+    "est_organic": 12,
+    "quality_pct": 11.4,
+    "pool_share_pct": 92.5,
+    "top_eoa_share_pct": 6.2,
+    "pool_buys_seen": 116,
+    "burst_6h_pct": 97.4,
+    "ladder_pct": 62.9,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2991.53,
+    "holders_fetched": 106,
+    "transfers_fetched": 118
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 11.4,
+      "organic_holders": 12,
+      "reported_holders": 106
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

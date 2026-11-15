@@ -1,0 +1,43 @@
+{
+  "address": "0x821b52c6a1c5494a383491CE6BE98Be9B8C8E96D",
+  "symbol": "oMC",
+  "name": "OmarLaeCoin",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "oMC",
+    "name": "OmarLaeCoin",
+    "address": "0x821b52c6a1c5494a383491CE6BE98Be9B8C8E96D",
+    "raw_holders": 632,
+    "eoa_holders": 631,
+    "clone_wallets": 537,
+    "largest_cluster": 152,
+    "cross_token_wallets": 484,
+    "est_organic": 57,
+    "quality_pct": 9.0,
+    "pool_share_pct": 89.8,
+    "top_eoa_share_pct": 4.2,
+    "pool_buys_seen": 1262,
+    "burst_6h_pct": 60.9,
+    "ladder_pct": 88.0,
+    "buy_only_pct": 88.6,
+    "farm_sample_pct": 33.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3040.85,
+    "holders_fetched": 632,
+    "transfers_fetched": 1350
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 9.0,
+      "organic_holders": 57,
+      "reported_holders": 632
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

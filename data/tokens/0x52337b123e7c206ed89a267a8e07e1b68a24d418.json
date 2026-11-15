@@ -1,0 +1,43 @@
+{
+  "address": "0x52337b123e7c206ED89a267a8e07E1b68A24D418",
+  "symbol": "FCAT",
+  "name": "Flying Cat",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "FCAT",
+    "name": "Flying Cat",
+    "address": "0x52337b123e7c206ED89a267a8e07E1b68A24D418",
+    "raw_holders": 725,
+    "eoa_holders": 724,
+    "clone_wallets": 468,
+    "largest_cluster": 177,
+    "cross_token_wallets": 364,
+    "est_organic": 245,
+    "quality_pct": 33.8,
+    "pool_share_pct": 91.6,
+    "top_eoa_share_pct": 0.3,
+    "pool_buys_seen": 1542,
+    "burst_6h_pct": 48.9,
+    "ladder_pct": 76.5,
+    "buy_only_pct": 74.1,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3047.61,
+    "holders_fetched": 725,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 33.8,
+      "organic_holders": 245,
+      "reported_holders": 725
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x9D1AC2Ce9f8d0CdBEcDf877ce1e7f3ddDf4a4E00",
+  "symbol": "ELX",
+  "name": "Elixir",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "ELX",
+    "name": "Elixir",
+    "address": "0x9D1AC2Ce9f8d0CdBEcDf877ce1e7f3ddDf4a4E00",
+    "raw_holders": 9116,
+    "eoa_holders": 9114,
+    "clone_wallets": 6801,
+    "largest_cluster": 2419,
+    "cross_token_wallets": 4737,
+    "est_organic": 795,
+    "quality_pct": 8.7,
+    "pool_share_pct": 33.3,
+    "top_eoa_share_pct": 32.1,
+    "pool_buys_seen": 1971,
+    "burst_6h_pct": 22.4,
+    "ladder_pct": 21.8,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 6.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 32250.46,
+    "holders_fetched": 9116,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 8.7,
+      "organic_holders": 795,
+      "reported_holders": 9116
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x845F655FAbb6D620Cd320455fFB284e1F44654f4",
+  "symbol": "PEMMA",
+  "name": "pemma",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "PEMMA",
+    "name": "pemma",
+    "address": "0x845F655FAbb6D620Cd320455fFB284e1F44654f4",
+    "raw_holders": 118,
+    "eoa_holders": 116,
+    "clone_wallets": 15,
+    "largest_cluster": 15,
+    "cross_token_wallets": 45,
+    "est_organic": 64,
+    "quality_pct": 55.2,
+    "pool_share_pct": 70.9,
+    "top_eoa_share_pct": 29.0,
+    "pool_buys_seen": 119,
+    "burst_6h_pct": 16.8,
+    "ladder_pct": 10.1,
+    "buy_only_pct": 99.1,
+    "farm_sample_pct": 73.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4441.4,
+    "holders_fetched": 118,
+    "transfers_fetched": 123
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 55.2,
+      "organic_holders": 64,
+      "reported_holders": 118
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

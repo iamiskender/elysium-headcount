@@ -1,0 +1,43 @@
+{
+  "address": "0xFfA96B707851E7E08894a7606cA1d4C7448142bC",
+  "symbol": "MEOW",
+  "name": "MEOWRISE",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "MEOW",
+    "name": "MEOWRISE",
+    "address": "0xFfA96B707851E7E08894a7606cA1d4C7448142bC",
+    "raw_holders": 429,
+    "eoa_holders": 428,
+    "clone_wallets": 386,
+    "largest_cluster": 129,
+    "cross_token_wallets": 405,
+    "est_organic": 19,
+    "quality_pct": 4.4,
+    "pool_share_pct": 76.4,
+    "top_eoa_share_pct": 14.7,
+    "pool_buys_seen": 445,
+    "burst_6h_pct": 41.3,
+    "ladder_pct": 12.1,
+    "buy_only_pct": 98.2,
+    "farm_sample_pct": 20.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4376.92,
+    "holders_fetched": 429,
+    "transfers_fetched": 459
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.4,
+      "organic_holders": 19,
+      "reported_holders": 429
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

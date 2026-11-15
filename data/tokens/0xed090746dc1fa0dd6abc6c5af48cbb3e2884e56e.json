@@ -1,0 +1,43 @@
+{
+  "address": "0xEd090746Dc1fA0Dd6abC6C5af48cBB3e2884E56E",
+  "symbol": "Frog",
+  "name": "BEATLES FROG",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "Frog",
+    "name": "BEATLES FROG",
+    "address": "0xEd090746Dc1fA0Dd6abC6C5af48cBB3e2884E56E",
+    "raw_holders": 130,
+    "eoa_holders": 129,
+    "clone_wallets": 120,
+    "largest_cluster": 50,
+    "cross_token_wallets": 124,
+    "est_organic": 5,
+    "quality_pct": 3.9,
+    "pool_share_pct": 88.5,
+    "top_eoa_share_pct": 10.2,
+    "pool_buys_seen": 155,
+    "burst_6h_pct": 99.4,
+    "ladder_pct": 85.8,
+    "buy_only_pct": 97.7,
+    "farm_sample_pct": 73.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3262.88,
+    "holders_fetched": 130,
+    "transfers_fetched": 160
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.9,
+      "organic_holders": 5,
+      "reported_holders": 130
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xf82800D0c4846289B1A580600f8D9cB4e7101FCd",
+  "symbol": "GRIND",
+  "name": "Grind",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "GRIND",
+    "name": "Grind",
+    "address": "0xf82800D0c4846289B1A580600f8D9cB4e7101FCd",
+    "raw_holders": 504,
+    "eoa_holders": 503,
+    "clone_wallets": 456,
+    "largest_cluster": 184,
+    "cross_token_wallets": 368,
+    "est_organic": 38,
+    "quality_pct": 7.6,
+    "pool_share_pct": 78.6,
+    "top_eoa_share_pct": 20.7,
+    "pool_buys_seen": 1107,
+    "burst_6h_pct": 68.6,
+    "ladder_pct": 96.2,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4135.73,
+    "holders_fetched": 504,
+    "transfers_fetched": 1119
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 7.6,
+      "organic_holders": 38,
+      "reported_holders": 504
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

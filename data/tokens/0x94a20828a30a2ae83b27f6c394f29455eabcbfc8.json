@@ -1,0 +1,43 @@
+{
+  "address": "0x94a20828A30A2ae83b27F6c394f29455EAbcbFC8",
+  "symbol": "kPurr",
+  "name": "kPurr",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "kPurr",
+    "name": "kPurr",
+    "address": "0x94a20828A30A2ae83b27F6c394f29455EAbcbFC8",
+    "raw_holders": 507,
+    "eoa_holders": 506,
+    "clone_wallets": 453,
+    "largest_cluster": 202,
+    "cross_token_wallets": 375,
+    "est_organic": 40,
+    "quality_pct": 7.9,
+    "pool_share_pct": 84.5,
+    "top_eoa_share_pct": 15.1,
+    "pool_buys_seen": 1186,
+    "burst_6h_pct": 61.3,
+    "ladder_pct": 94.7,
+    "buy_only_pct": 96.2,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3584.79,
+    "holders_fetched": 507,
+    "transfers_fetched": 1316
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 7.9,
+      "organic_holders": 40,
+      "reported_holders": 507
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

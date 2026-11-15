@@ -1,0 +1,43 @@
+{
+  "address": "0x7cc41cac5704E0E28aaF56844850955fa7c59E33",
+  "symbol": "HYGAARA",
+  "name": "Garra",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F6",
+    "family_size": 11,
+    "symbol": "HYGAARA",
+    "name": "Garra",
+    "address": "0x7cc41cac5704E0E28aaF56844850955fa7c59E33",
+    "raw_holders": 1667,
+    "eoa_holders": 1666,
+    "clone_wallets": 1356,
+    "largest_cluster": 1002,
+    "cross_token_wallets": 1561,
+    "est_organic": 82,
+    "quality_pct": 4.9,
+    "pool_share_pct": 82.9,
+    "top_eoa_share_pct": 2.0,
+    "pool_buys_seen": 1492,
+    "burst_6h_pct": 36.7,
+    "ladder_pct": 77.0,
+    "buy_only_pct": 56.5,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 8928.16,
+    "holders_fetched": 1667,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.9,
+      "organic_holders": 82,
+      "reported_holders": 1667
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

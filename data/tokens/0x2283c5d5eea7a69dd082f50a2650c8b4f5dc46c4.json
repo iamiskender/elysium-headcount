@@ -1,0 +1,43 @@
+{
+  "address": "0x2283C5d5eea7A69Dd082F50a2650C8b4F5dC46C4",
+  "symbol": "AMDx",
+  "name": "AMD",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "AMDx",
+    "name": "AMD",
+    "address": "0x2283C5d5eea7A69Dd082F50a2650C8b4F5dC46C4",
+    "raw_holders": 147,
+    "eoa_holders": 146,
+    "clone_wallets": 31,
+    "largest_cluster": 16,
+    "cross_token_wallets": 143,
+    "est_organic": 3,
+    "quality_pct": 2.1,
+    "pool_share_pct": 84.1,
+    "top_eoa_share_pct": 12.7,
+    "pool_buys_seen": 827,
+    "burst_6h_pct": 26.7,
+    "ladder_pct": 95.6,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 11082.97,
+    "holders_fetched": 147,
+    "transfers_fetched": 838
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.1,
+      "organic_holders": 3,
+      "reported_holders": 147
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

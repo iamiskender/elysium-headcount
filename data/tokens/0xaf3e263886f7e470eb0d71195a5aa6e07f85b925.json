@@ -1,0 +1,43 @@
+{
+  "address": "0xAF3E263886f7E470Eb0d71195a5Aa6E07F85b925",
+  "symbol": "gnh",
+  "name": "smiggle",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "gnh",
+    "name": "smiggle",
+    "address": "0xAF3E263886f7E470Eb0d71195a5Aa6E07F85b925",
+    "raw_holders": 569,
+    "eoa_holders": 568,
+    "clone_wallets": 550,
+    "largest_cluster": 249,
+    "cross_token_wallets": 545,
+    "est_organic": 15,
+    "quality_pct": 2.6,
+    "pool_share_pct": 23.8,
+    "top_eoa_share_pct": 57.0,
+    "pool_buys_seen": 575,
+    "burst_6h_pct": 36.3,
+    "ladder_pct": 19.7,
+    "buy_only_pct": 99.6,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 45259.38,
+    "holders_fetched": 569,
+    "transfers_fetched": 579
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 2.6,
+      "organic_holders": 15,
+      "reported_holders": 569
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

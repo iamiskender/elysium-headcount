@@ -1,0 +1,43 @@
+{
+  "address": "0xCC27867164961a8438A2be3d22bE2Df87b56F2C2",
+  "symbol": "LEGENDREHAN",
+  "name": "Alpha",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "LEGENDREHAN",
+    "name": "Alpha",
+    "address": "0xCC27867164961a8438A2be3d22bE2Df87b56F2C2",
+    "raw_holders": 463,
+    "eoa_holders": 461,
+    "clone_wallets": 273,
+    "largest_cluster": 93,
+    "cross_token_wallets": 406,
+    "est_organic": 27,
+    "quality_pct": 5.9,
+    "pool_share_pct": 89.9,
+    "top_eoa_share_pct": 5.1,
+    "pool_buys_seen": 491,
+    "burst_6h_pct": 47.5,
+    "ladder_pct": 15.1,
+    "buy_only_pct": 98.1,
+    "farm_sample_pct": 13.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4423.3,
+    "holders_fetched": 463,
+    "transfers_fetched": 503
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.9,
+      "organic_holders": 27,
+      "reported_holders": 463
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

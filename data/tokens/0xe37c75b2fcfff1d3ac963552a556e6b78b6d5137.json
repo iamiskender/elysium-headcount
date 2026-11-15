@@ -1,0 +1,43 @@
+{
+  "address": "0xE37c75b2FCFfF1d3Ac963552A556e6B78B6D5137",
+  "symbol": "VON_HL",
+  "name": "@von_hl",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F3",
+    "family_size": 24,
+    "symbol": "VON_HL",
+    "name": "@von_hl",
+    "address": "0xE37c75b2FCFfF1d3Ac963552A556e6B78B6D5137",
+    "raw_holders": 1004,
+    "eoa_holders": 1002,
+    "clone_wallets": 691,
+    "largest_cluster": 68,
+    "cross_token_wallets": 996,
+    "est_organic": 6,
+    "quality_pct": 0.6,
+    "pool_share_pct": 79.3,
+    "top_eoa_share_pct": 10.6,
+    "pool_buys_seen": 1999,
+    "burst_6h_pct": 9.9,
+    "ladder_pct": 99.3,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 72.78,
+    "holders_fetched": 1004,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 6,
+      "reported_holders": 1004
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

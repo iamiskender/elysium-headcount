@@ -1,0 +1,43 @@
+{
+  "address": "0x0e031768A71dfD1b97985384e5812a9003520b20",
+  "symbol": "Myro",
+  "name": "Myro",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "Myro",
+    "name": "Myro",
+    "address": "0x0e031768A71dfD1b97985384e5812a9003520b20",
+    "raw_holders": 177,
+    "eoa_holders": 176,
+    "clone_wallets": 71,
+    "largest_cluster": 37,
+    "cross_token_wallets": 153,
+    "est_organic": 23,
+    "quality_pct": 13.1,
+    "pool_share_pct": 3.1,
+    "top_eoa_share_pct": 57.6,
+    "pool_buys_seen": 929,
+    "burst_6h_pct": 24.3,
+    "ladder_pct": 87.4,
+    "buy_only_pct": 88.4,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3197038.68,
+    "holders_fetched": 177,
+    "transfers_fetched": 963
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 13.1,
+      "organic_holders": 23,
+      "reported_holders": 177
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

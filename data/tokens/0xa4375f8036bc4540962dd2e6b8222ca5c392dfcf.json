@@ -1,0 +1,43 @@
+{
+  "address": "0xA4375F8036bc4540962dD2E6b8222CA5C392DFCF",
+  "symbol": "SHOMOD",
+  "name": "SHOKUMODE",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "SHOMOD",
+    "name": "SHOKUMODE",
+    "address": "0xA4375F8036bc4540962dD2E6b8222CA5C392DFCF",
+    "raw_holders": 1628,
+    "eoa_holders": 1626,
+    "clone_wallets": 976,
+    "largest_cluster": 107,
+    "cross_token_wallets": 1312,
+    "est_organic": 167,
+    "quality_pct": 10.3,
+    "pool_share_pct": 66.8,
+    "top_eoa_share_pct": 25.4,
+    "pool_buys_seen": 1809,
+    "burst_6h_pct": 12.5,
+    "ladder_pct": 18.1,
+    "buy_only_pct": 99.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 8884.13,
+    "holders_fetched": 1628,
+    "transfers_fetched": 1829
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 10.3,
+      "organic_holders": 167,
+      "reported_holders": 1628
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

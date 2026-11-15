@@ -1,0 +1,43 @@
+{
+  "address": "0xE67927481C5F72ED0a7e47c4e064c3f784A40911",
+  "symbol": "HCAT",
+  "name": "HypeCat",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "HCAT",
+    "name": "HypeCat",
+    "address": "0xE67927481C5F72ED0a7e47c4e064c3f784A40911",
+    "raw_holders": 153,
+    "eoa_holders": 151,
+    "clone_wallets": 22,
+    "largest_cluster": 22,
+    "cross_token_wallets": 52,
+    "est_organic": 80,
+    "quality_pct": 53.0,
+    "pool_share_pct": 86.8,
+    "top_eoa_share_pct": 13.1,
+    "pool_buys_seen": 152,
+    "burst_6h_pct": 21.1,
+    "ladder_pct": 11.8,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5265.12,
+    "holders_fetched": 153,
+    "transfers_fetched": 154
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 53.0,
+      "organic_holders": 80,
+      "reported_holders": 153
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

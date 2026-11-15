@@ -1,0 +1,43 @@
+{
+  "address": "0x68Af17d4C19D0D1E311D2115c14BF0d4Ac19eb0F",
+  "symbol": "ELYZ",
+  "name": "Elyziuma",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "ELYZ",
+    "name": "Elyziuma",
+    "address": "0x68Af17d4C19D0D1E311D2115c14BF0d4Ac19eb0F",
+    "raw_holders": 680,
+    "eoa_holders": 678,
+    "clone_wallets": 366,
+    "largest_cluster": 53,
+    "cross_token_wallets": 574,
+    "est_organic": 68,
+    "quality_pct": 10.0,
+    "pool_share_pct": 83.4,
+    "top_eoa_share_pct": 14.3,
+    "pool_buys_seen": 687,
+    "burst_6h_pct": 21.7,
+    "ladder_pct": 0.7,
+    "buy_only_pct": 99.9,
+    "farm_sample_pct": 6.7,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5701.12,
+    "holders_fetched": 680,
+    "transfers_fetched": 693
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 10.0,
+      "organic_holders": 68,
+      "reported_holders": 680
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

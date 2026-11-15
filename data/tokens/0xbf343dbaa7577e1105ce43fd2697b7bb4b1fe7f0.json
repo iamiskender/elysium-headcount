@@ -1,0 +1,43 @@
+{
+  "address": "0xBF343DbAA7577e1105Ce43Fd2697B7BB4b1fe7F0",
+  "symbol": "$CRZR",
+  "name": "ttth",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "$CRZR",
+    "name": "ttth",
+    "address": "0xBF343DbAA7577e1105Ce43Fd2697B7BB4b1fe7F0",
+    "raw_holders": 841,
+    "eoa_holders": 840,
+    "clone_wallets": 832,
+    "largest_cluster": 228,
+    "cross_token_wallets": 817,
+    "est_organic": 5,
+    "quality_pct": 0.6,
+    "pool_share_pct": 61.4,
+    "top_eoa_share_pct": 37.8,
+    "pool_buys_seen": 848,
+    "burst_6h_pct": 27.6,
+    "ladder_pct": 26.2,
+    "buy_only_pct": 99.8,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 6786.23,
+    "holders_fetched": 841,
+    "transfers_fetched": 853
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 5,
+      "reported_holders": 841
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

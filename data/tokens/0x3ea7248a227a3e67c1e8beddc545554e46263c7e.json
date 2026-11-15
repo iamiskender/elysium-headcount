@@ -1,0 +1,43 @@
+{
+  "address": "0x3Ea7248a227a3E67C1E8bEDDc545554E46263c7E",
+  "symbol": "Xtopher",
+  "name": "Xtopher",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "Xtopher",
+    "name": "Xtopher",
+    "address": "0x3Ea7248a227a3E67C1E8bEDDc545554E46263c7E",
+    "raw_holders": 657,
+    "eoa_holders": 656,
+    "clone_wallets": 473,
+    "largest_cluster": 183,
+    "cross_token_wallets": 539,
+    "est_organic": 37,
+    "quality_pct": 5.6,
+    "pool_share_pct": 79.3,
+    "top_eoa_share_pct": 0.6,
+    "pool_buys_seen": 1860,
+    "burst_6h_pct": 40.1,
+    "ladder_pct": 97.6,
+    "buy_only_pct": 97.0,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4071.59,
+    "holders_fetched": 657,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.6,
+      "organic_holders": 37,
+      "reported_holders": 657
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

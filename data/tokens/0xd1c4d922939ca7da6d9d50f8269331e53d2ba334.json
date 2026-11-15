@@ -1,0 +1,43 @@
+{
+  "address": "0xD1c4d922939Ca7dA6d9D50F8269331E53D2Ba334",
+  "symbol": "FBYTE",
+  "name": "FireByte",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F5",
+    "family_size": 14,
+    "symbol": "FBYTE",
+    "name": "FireByte",
+    "address": "0xD1c4d922939Ca7dA6d9D50F8269331E53D2Ba334",
+    "raw_holders": 769,
+    "eoa_holders": 768,
+    "clone_wallets": 749,
+    "largest_cluster": 498,
+    "cross_token_wallets": 759,
+    "est_organic": 9,
+    "quality_pct": 1.2,
+    "pool_share_pct": 92.1,
+    "top_eoa_share_pct": 3.3,
+    "pool_buys_seen": 777,
+    "burst_6h_pct": 34.7,
+    "ladder_pct": 98.1,
+    "buy_only_pct": 99.6,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 5808.34,
+    "holders_fetched": 769,
+    "transfers_fetched": 783
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 1.2,
+      "organic_holders": 9,
+      "reported_holders": 769
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

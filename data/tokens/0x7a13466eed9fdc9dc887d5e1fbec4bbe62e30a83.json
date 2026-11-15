@@ -1,0 +1,43 @@
+{
+  "address": "0x7A13466eED9fDC9dC887D5E1fbeC4bbE62e30A83",
+  "symbol": "NUNET",
+  "name": "NUNET AI",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "NUNET",
+    "name": "NUNET AI",
+    "address": "0x7A13466eED9fDC9dC887D5E1fbeC4bbE62e30A83",
+    "raw_holders": 152,
+    "eoa_holders": 151,
+    "clone_wallets": 0,
+    "largest_cluster": 12,
+    "cross_token_wallets": 146,
+    "est_organic": 5,
+    "quality_pct": 3.3,
+    "pool_share_pct": 12.9,
+    "top_eoa_share_pct": 24.1,
+    "pool_buys_seen": 848,
+    "burst_6h_pct": 26.2,
+    "ladder_pct": 98.1,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": null,
+    "farm_sample_n": 0,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 179274.93,
+    "holders_fetched": 152,
+    "transfers_fetched": 849
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 152
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

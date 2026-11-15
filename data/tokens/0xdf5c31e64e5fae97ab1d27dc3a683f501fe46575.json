@@ -1,0 +1,43 @@
+{
+  "address": "0xdF5C31E64e5FAE97AB1D27dC3a683F501fe46575",
+  "symbol": "HOOT",
+  "name": "Athena's Owl",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "HOOT",
+    "name": "Athena's Owl",
+    "address": "0xdF5C31E64e5FAE97AB1D27dC3a683F501fe46575",
+    "raw_holders": 210,
+    "eoa_holders": 209,
+    "clone_wallets": 197,
+    "largest_cluster": 100,
+    "cross_token_wallets": 193,
+    "est_organic": 12,
+    "quality_pct": 5.7,
+    "pool_share_pct": 90.0,
+    "top_eoa_share_pct": 7.0,
+    "pool_buys_seen": 210,
+    "burst_6h_pct": 72.9,
+    "ladder_pct": 21.9,
+    "buy_only_pct": 98.6,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 3158.58,
+    "holders_fetched": 210,
+    "transfers_fetched": 214
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 5.7,
+      "organic_holders": 12,
+      "reported_holders": 210
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

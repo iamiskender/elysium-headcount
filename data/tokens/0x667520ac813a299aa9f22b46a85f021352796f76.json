@@ -1,0 +1,43 @@
+{
+  "address": "0x667520Ac813a299AA9f22B46a85F021352796f76",
+  "symbol": "elly",
+  "name": "elly/acc",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "elly",
+    "name": "elly/acc",
+    "address": "0x667520Ac813a299AA9f22B46a85F021352796f76",
+    "raw_holders": 1136,
+    "eoa_holders": 1135,
+    "clone_wallets": 1043,
+    "largest_cluster": 237,
+    "cross_token_wallets": 1028,
+    "est_organic": 53,
+    "quality_pct": 4.7,
+    "pool_share_pct": 77.8,
+    "top_eoa_share_pct": 20.9,
+    "pool_buys_seen": 1624,
+    "burst_6h_pct": 40.4,
+    "ladder_pct": 61.9,
+    "buy_only_pct": 99.6,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 4226.44,
+    "holders_fetched": 1136,
+    "transfers_fetched": 1639
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 4.7,
+      "organic_holders": 53,
+      "reported_holders": 1136
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

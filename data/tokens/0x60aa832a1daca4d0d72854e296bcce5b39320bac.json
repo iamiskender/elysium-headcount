@@ -1,0 +1,43 @@
+{
+  "address": "0x60aa832a1daca4d0d72854e296bcCe5B39320bAc",
+  "symbol": "pkn",
+  "name": "punk win",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "pkn",
+    "name": "punk win",
+    "address": "0x60aa832a1daca4d0d72854e296bcCe5B39320bAc",
+    "raw_holders": 629,
+    "eoa_holders": 628,
+    "clone_wallets": 617,
+    "largest_cluster": 206,
+    "cross_token_wallets": 613,
+    "est_organic": 4,
+    "quality_pct": 0.6,
+    "pool_share_pct": 29.3,
+    "top_eoa_share_pct": 62.3,
+    "pool_buys_seen": 649,
+    "burst_6h_pct": 40.2,
+    "ladder_pct": 34.5,
+    "buy_only_pct": 99.7,
+    "farm_sample_pct": 33.3,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 29820.09,
+    "holders_fetched": 629,
+    "transfers_fetched": 652
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 4,
+      "reported_holders": 629
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

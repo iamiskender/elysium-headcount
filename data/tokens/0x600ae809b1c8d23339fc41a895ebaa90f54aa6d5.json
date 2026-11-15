@@ -1,0 +1,43 @@
+{
+  "address": "0x600ae809b1c8d23339fC41a895eBaA90f54aA6d5",
+  "symbol": "MSTRx",
+  "name": "MicroStrategy",
+  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F1",
+    "family_size": 150,
+    "symbol": "MSTRx",
+    "name": "MicroStrategy",
+    "address": "0x600ae809b1c8d23339fC41a895eBaA90f54aA6d5",
+    "raw_holders": 152,
+    "eoa_holders": 151,
+    "clone_wallets": 59,
+    "largest_cluster": 25,
+    "cross_token_wallets": 146,
+    "est_organic": 5,
+    "quality_pct": 3.3,
+    "pool_share_pct": 59.2,
+    "top_eoa_share_pct": 39.2,
+    "pool_buys_seen": 826,
+    "burst_6h_pct": 26.9,
+    "ladder_pct": 98.8,
+    "buy_only_pct": 98.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 8535.36,
+    "holders_fetched": 152,
+    "transfers_fetched": 833
+  },
+  "history": [
+    {
+      "date": "2026-11-15",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 152
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}
