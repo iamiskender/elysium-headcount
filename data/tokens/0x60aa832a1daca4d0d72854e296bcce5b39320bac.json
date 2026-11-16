@@ -2,7 +2,7 @@
   "address": "0x60aa832a1daca4d0d72854e296bcCe5B39320bAc",
   "symbol": "pkn",
   "name": "punk win",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,13 +26,19 @@
     "farm_sample_pct": 33.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 29820.09,
+    "market_cap_usd": 29332.19,
     "holders_fetched": 629,
     "transfers_fetched": 652
   },
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 0.6,
+      "organic_holders": 4,
+      "reported_holders": 629
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 0.6,
       "organic_holders": 4,
       "reported_holders": 629

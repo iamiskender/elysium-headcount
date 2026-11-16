@@ -2,7 +2,7 @@
   "address": "0x86baADC644F68B9fE75DA2Ccbfc90Ef862Dedadd",
   "symbol": "FOME",
   "name": "Fear Of Missing Elysium",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,13 +26,19 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6502.51,
+    "market_cap_usd": 6396.12,
     "holders_fetched": 732,
     "transfers_fetched": 920
   },
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 16.0,
+      "organic_holders": 117,
+      "reported_holders": 732
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 16.0,
       "organic_holders": 117,
       "reported_holders": 732

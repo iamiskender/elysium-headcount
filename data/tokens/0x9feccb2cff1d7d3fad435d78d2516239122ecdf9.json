@@ -2,7 +2,7 @@
   "address": "0x9fecCB2cff1D7D3faD435D78D2516239122ecDf9",
   "symbol": "RWAF",
   "name": "RWA Foundation",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 6.3,
+      "organic_holders": 10,
+      "reported_holders": 160
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 6.3,
       "organic_holders": 10,
       "reported_holders": 160

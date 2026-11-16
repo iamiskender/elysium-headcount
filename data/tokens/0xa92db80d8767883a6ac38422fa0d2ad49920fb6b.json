@@ -2,7 +2,7 @@
   "address": "0xA92DB80D8767883A6Ac38422fa0d2AD49920fB6b",
   "symbol": "INTCx",
   "name": "Intel",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 146
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 1.4,
       "organic_holders": 2,
       "reported_holders": 146

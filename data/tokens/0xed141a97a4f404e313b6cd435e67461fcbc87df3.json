@@ -2,7 +2,7 @@
   "address": "0xeD141A97a4f404E313b6Cd435e67461FCBc87dF3",
   "symbol": "pvpfun",
   "name": "pvpfun",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 3.4,
+      "organic_holders": 5,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 3.4,
       "organic_holders": 5,
       "reported_holders": 150

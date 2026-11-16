@@ -2,7 +2,7 @@
   "address": "0x7666051F8F58Aa1Bc0dAD46A1B0ebf1F2584866A",
   "symbol": "ANGEL2",
   "name": "Angel2",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -14,9 +14,9 @@
     "eoa_holders": 852,
     "clone_wallets": 747,
     "largest_cluster": 389,
-    "cross_token_wallets": 821,
-    "est_organic": 31,
-    "quality_pct": 3.6,
+    "cross_token_wallets": 796,
+    "est_organic": 56,
+    "quality_pct": 6.6,
     "pool_share_pct": 93.1,
     "top_eoa_share_pct": 3.2,
     "pool_buys_seen": 881,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5428.22,
+    "market_cap_usd": 5339.4,
     "holders_fetched": 853,
     "transfers_fetched": 888
   },
@@ -35,6 +35,12 @@
       "date": "2026-11-15",
       "organic_share_pct": 3.6,
       "organic_holders": 31,
+      "reported_holders": 853
+    },
+    {
+      "date": "2026-11-16",
+      "organic_share_pct": 6.6,
+      "organic_holders": 56,
       "reported_holders": 853
     }
   ],

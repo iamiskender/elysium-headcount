@@ -2,7 +2,7 @@
   "address": "0x8Ff51F27bB056891a53084A3b0eE6427360d35CB",
   "symbol": "RAVE",
   "name": "RAVE",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 2.8,
+      "organic_holders": 4,
+      "reported_holders": 146
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 2.8,
       "organic_holders": 4,
       "reported_holders": 146

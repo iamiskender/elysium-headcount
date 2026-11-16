@@ -2,7 +2,7 @@
   "address": "0xAF3E263886f7E470Eb0d71195a5Aa6E07F85b925",
   "symbol": "gnh",
   "name": "smiggle",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,13 +26,19 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 45259.38,
+    "market_cap_usd": 44518.86,
     "holders_fetched": 569,
     "transfers_fetched": 579
   },
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 2.6,
+      "organic_holders": 15,
+      "reported_holders": 569
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 2.6,
       "organic_holders": 15,
       "reported_holders": 569

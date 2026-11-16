@@ -2,7 +2,7 @@
   "address": "0x065db3A82Ef20BfC91dfe7e4FaB68ceFB3A1470D",
   "symbol": "Omega",
   "name": "Omega",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 5.0,
+      "organic_holders": 8,
+      "reported_holders": 162
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 5.0,
       "organic_holders": 8,
       "reported_holders": 162

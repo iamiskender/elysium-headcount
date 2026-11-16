@@ -2,11 +2,11 @@
   "address": "0xCF81F8c46cA5fa52b91c65BfE36CbB6F172c8888",
   "symbol": "BLCOKY",
   "name": "blocky",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
-    "family_size": 24,
+    "family_size": 23,
     "symbol": "BLCOKY",
     "name": "blocky",
     "address": "0xCF81F8c46cA5fa52b91c65BfE36CbB6F172c8888",
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-15",
+      "organic_share_pct": 2.2,
+      "organic_holders": 44,
+      "reported_holders": 2044
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 2.2,
       "organic_holders": 44,
       "reported_holders": 2044

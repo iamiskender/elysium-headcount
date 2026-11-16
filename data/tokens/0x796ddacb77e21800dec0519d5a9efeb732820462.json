@@ -2,10 +2,10 @@
   "address": "0x796ddaCb77E21800dEC0519D5A9eFeB732820462",
   "symbol": "KHUTLA",
   "name": "KARHUTLA",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
-    "family": "F13",
+    "family": "F12",
     "family_size": 2,
     "symbol": "KHUTLA",
     "name": "KARHUTLA",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 0.4,
+      "organic_holders": 4,
+      "reported_holders": 1009
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 0.4,
       "organic_holders": 4,
       "reported_holders": 1009

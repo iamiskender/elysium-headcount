@@ -2,7 +2,7 @@
   "address": "0x272e249e2f2ec4f6BE5bC936c5000b65F309Dd22",
   "symbol": "primus",
   "name": "primus labs",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -14,9 +14,9 @@
     "eoa_holders": 1841,
     "clone_wallets": 1696,
     "largest_cluster": 389,
-    "cross_token_wallets": 1516,
-    "est_organic": 91,
-    "quality_pct": 4.9,
+    "cross_token_wallets": 1500,
+    "est_organic": 102,
+    "quality_pct": 5.5,
     "pool_share_pct": 77.8,
     "top_eoa_share_pct": 0.3,
     "pool_buys_seen": 1916,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4230.67,
+    "market_cap_usd": 4161.45,
     "holders_fetched": 1842,
     "transfers_fetched": 2000
   },
@@ -35,6 +35,12 @@
       "date": "2026-11-15",
       "organic_share_pct": 4.9,
       "organic_holders": 91,
+      "reported_holders": 1842
+    },
+    {
+      "date": "2026-11-16",
+      "organic_share_pct": 5.5,
+      "organic_holders": 102,
       "reported_holders": 1842
     }
   ],

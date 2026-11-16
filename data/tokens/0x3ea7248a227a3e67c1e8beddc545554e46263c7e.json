@@ -2,7 +2,7 @@
   "address": "0x3Ea7248a227a3E67C1E8bEDDc545554E46263c7E",
   "symbol": "Xtopher",
   "name": "Xtopher",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-16T17:04:29.753257+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 656,
     "clone_wallets": 473,
     "largest_cluster": 183,
-    "cross_token_wallets": 539,
+    "cross_token_wallets": 524,
     "est_organic": 37,
     "quality_pct": 5.6,
     "pool_share_pct": 79.3,
@@ -26,13 +26,19 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4071.59,
+    "market_cap_usd": 4004.97,
     "holders_fetched": 657,
     "transfers_fetched": 2000
   },
   "history": [
     {
       "date": "2026-11-15",
+      "organic_share_pct": 5.6,
+      "organic_holders": 37,
+      "reported_holders": 657
+    },
+    {
+      "date": "2026-11-16",
       "organic_share_pct": 5.6,
       "organic_holders": 37,
       "reported_holders": 657
