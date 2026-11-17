@@ -2,7 +2,7 @@
   "address": "0xCfF67dA32EB78f7A5eF0D2E15dB06bC39f6BF417",
   "symbol": "VOTE",
   "name": "Democracy Wins",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 33.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3262.5,
+    "market_cap_usd": 3369.89,
     "holders_fetched": 466,
     "transfers_fetched": 474
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 2.2,
+      "organic_holders": 10,
+      "reported_holders": 466
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 2.2,
       "organic_holders": 10,
       "reported_holders": 466

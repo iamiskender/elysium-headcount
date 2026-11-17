@@ -2,7 +2,7 @@
   "address": "0x3fe93e3423e1F4B0EAD285522f18bB520F41Bd38",
   "symbol": "Alpacas",
   "name": "Alpacas",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 5.1,
+      "organic_holders": 8,
+      "reported_holders": 157
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 5.1,
       "organic_holders": 8,
       "reported_holders": 157

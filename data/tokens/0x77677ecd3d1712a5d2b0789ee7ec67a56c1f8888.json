@@ -2,11 +2,11 @@
   "address": "0x77677Ecd3D1712a5D2B0789Ee7EC67A56c1f8888",
   "symbol": "ELYCAT",
   "name": "Elysium Cat",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
-    "family_size": 23,
+    "family_size": 24,
     "symbol": "ELYCAT",
     "name": "Elysium Cat",
     "address": "0x77677Ecd3D1712a5D2B0789Ee7EC67A56c1f8888",
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 2.2,
+      "organic_holders": 46,
+      "reported_holders": 2047
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 2.2,
       "organic_holders": 46,
       "reported_holders": 2047

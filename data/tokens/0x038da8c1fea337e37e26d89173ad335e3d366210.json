@@ -2,7 +2,7 @@
   "address": "0x038Da8C1Fea337E37E26D89173ad335E3D366210",
   "symbol": "XMilk",
   "name": "Xtra Milk Reserve \ud83e\udd5b",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 4.0,
+      "organic_holders": 6,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 4.0,
       "organic_holders": 6,
       "reported_holders": 152

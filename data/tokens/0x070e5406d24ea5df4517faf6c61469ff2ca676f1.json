@@ -2,7 +2,7 @@
   "address": "0x070e5406D24eA5df4517FAF6c61469ff2CA676f1",
   "symbol": "TCK",
   "name": "ticktock",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 4123,
     "clone_wallets": 2343,
     "largest_cluster": 798,
-    "cross_token_wallets": 3115,
-    "est_organic": 985,
-    "quality_pct": 23.9,
+    "cross_token_wallets": 3165,
+    "est_organic": 935,
+    "quality_pct": 22.7,
     "pool_share_pct": 83.2,
     "top_eoa_share_pct": 1.0,
     "pool_buys_seen": 1231,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8672.15,
+    "market_cap_usd": 8957.61,
     "holders_fetched": 4124,
     "transfers_fetched": 2000
   },
@@ -53,6 +53,12 @@
       "date": "2026-11-16",
       "organic_share_pct": 23.9,
       "organic_holders": 985,
+      "reported_holders": 4124
+    },
+    {
+      "date": "2026-11-17",
+      "organic_share_pct": 22.7,
+      "organic_holders": 935,
       "reported_holders": 4124
     }
   ],

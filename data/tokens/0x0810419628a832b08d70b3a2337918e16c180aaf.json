@@ -2,7 +2,7 @@
   "address": "0x0810419628A832B08D70B3a2337918E16C180Aaf",
   "symbol": "GAGA",
   "name": "GAGA BULLISH COIN",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4657.53,
+    "market_cap_usd": 4810.84,
     "holders_fetched": 2011,
     "transfers_fetched": 2000
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 0.3,
+      "organic_holders": 7,
+      "reported_holders": 2011
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 0.3,
       "organic_holders": 7,
       "reported_holders": 2011

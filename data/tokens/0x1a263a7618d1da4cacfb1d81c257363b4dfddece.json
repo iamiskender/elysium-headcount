@@ -2,7 +2,7 @@
   "address": "0x1A263a7618D1DA4Cacfb1D81C257363B4DFdDeCe",
   "symbol": "ORIOB",
   "name": "Orion Belt",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -14,9 +14,9 @@
     "eoa_holders": 2262,
     "clone_wallets": 2165,
     "largest_cluster": 752,
-    "cross_token_wallets": 2234,
-    "est_organic": 28,
-    "quality_pct": 1.2,
+    "cross_token_wallets": 2241,
+    "est_organic": 21,
+    "quality_pct": 0.9,
     "pool_share_pct": 88.4,
     "top_eoa_share_pct": 4.5,
     "pool_buys_seen": 1998,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6989.99,
+    "market_cap_usd": 7220.08,
     "holders_fetched": 2263,
     "transfers_fetched": 2000
   },
@@ -41,6 +41,12 @@
       "date": "2026-11-16",
       "organic_share_pct": 1.2,
       "organic_holders": 28,
+      "reported_holders": 2263
+    },
+    {
+      "date": "2026-11-17",
+      "organic_share_pct": 0.9,
+      "organic_holders": 21,
       "reported_holders": 2263
     }
   ],

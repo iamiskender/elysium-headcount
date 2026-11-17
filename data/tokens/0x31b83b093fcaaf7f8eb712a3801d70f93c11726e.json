@@ -2,7 +2,7 @@
   "address": "0x31B83B093fcAaf7F8eb712A3801D70F93C11726e",
   "symbol": "unigob",
   "name": "unicorn goblin",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 80.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4145.7,
+    "market_cap_usd": 4282.16,
     "holders_fetched": 117,
     "transfers_fetched": 133
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 8.6,
+      "organic_holders": 10,
+      "reported_holders": 117
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 8.6,
       "organic_holders": 10,
       "reported_holders": 117

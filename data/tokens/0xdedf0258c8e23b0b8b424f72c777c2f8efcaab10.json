@@ -2,7 +2,7 @@
   "address": "0xdEdF0258c8E23B0B8b424f72c777C2f8EfCaAB10",
   "symbol": "KGM",
   "name": "Kingsmen",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5949.72,
+    "market_cap_usd": 6145.56,
     "holders_fetched": 1127,
     "transfers_fetched": 1133
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 7.8,
+      "organic_holders": 88,
+      "reported_holders": 1127
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 7.8,
       "organic_holders": 88,
       "reported_holders": 1127

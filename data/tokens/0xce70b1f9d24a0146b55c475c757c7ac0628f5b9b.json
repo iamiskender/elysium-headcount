@@ -2,7 +2,7 @@
   "address": "0xCE70B1F9d24a0146B55C475c757c7ac0628f5b9B",
   "symbol": "METAx",
   "name": "Meta",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 2.1,
+      "organic_holders": 3,
+      "reported_holders": 147
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 2.1,
       "organic_holders": 3,
       "reported_holders": 147

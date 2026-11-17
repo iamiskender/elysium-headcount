@@ -2,11 +2,11 @@
   "address": "0x00dD90f9086905Acc44a2Ff36A5cc7ae03502470",
   "symbol": "BARA",
   "name": "Sleepy Capybara",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
-    "family_size": 6,
+    "family_size": 7,
     "symbol": "BARA",
     "name": "Sleepy Capybara",
     "address": "0x00dD90f9086905Acc44a2Ff36A5cc7ae03502470",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2861.74,
+    "market_cap_usd": 2955.94,
     "holders_fetched": 1770,
     "transfers_fetched": 2000
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 0.4,
+      "organic_holders": 7,
+      "reported_holders": 1770
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 0.4,
       "organic_holders": 7,
       "reported_holders": 1770

@@ -2,7 +2,7 @@
   "address": "0x7BD2C32aE1e2B5eAac5680093FdDB58b4bE215bD",
   "symbol": "Xeris",
   "name": "Xeris",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 2.0,
+      "organic_holders": 3,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 2.0,
       "organic_holders": 3,
       "reported_holders": 150

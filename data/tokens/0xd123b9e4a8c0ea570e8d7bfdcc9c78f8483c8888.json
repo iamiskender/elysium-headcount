@@ -2,11 +2,11 @@
   "address": "0xD123B9e4a8c0Ea570e8d7bfdCc9C78F8483c8888",
   "symbol": "TRUSTME",
   "name": "Omnia' Dog",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
-    "family_size": 23,
+    "family_size": 24,
     "symbol": "TRUSTME",
     "name": "Omnia' Dog",
     "address": "0xD123B9e4a8c0Ea570e8d7bfdCc9C78F8483c8888",
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 2.5,
+      "organic_holders": 52,
+      "reported_holders": 2041
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 2.5,
       "organic_holders": 52,
       "reported_holders": 2041

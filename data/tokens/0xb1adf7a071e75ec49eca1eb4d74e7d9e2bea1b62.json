@@ -2,7 +2,7 @@
   "address": "0xb1ADf7a071E75Ec49ECa1eb4D74e7d9e2bEA1b62",
   "symbol": "AKASIUM",
   "name": "AKASIUM",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 9998,
     "clone_wallets": 6626,
     "largest_cluster": 2145,
-    "cross_token_wallets": 5178,
+    "cross_token_wallets": 5181,
     "est_organic": 1112,
     "quality_pct": null,
     "pool_share_pct": 72.4,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 16709.46,
+    "market_cap_usd": 17259.48,
     "holders_fetched": 10000,
     "transfers_fetched": 2000
   },

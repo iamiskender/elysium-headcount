@@ -2,7 +2,7 @@
   "address": "0x1ebF81cf589f21f7D09d068826c35E4450959559",
   "symbol": "CHOCOBO",
   "name": "Chocobo Token",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5189.74,
+    "market_cap_usd": 5360.56,
     "holders_fetched": 193,
     "transfers_fetched": 2000
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 4.7,
+      "organic_holders": 9,
+      "reported_holders": 193
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 4.7,
       "organic_holders": 9,
       "reported_holders": 193

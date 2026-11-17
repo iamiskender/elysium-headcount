@@ -2,7 +2,7 @@
   "address": "0x2CF56107edbb9703F408f45ff5c155f5C1739E45",
   "symbol": "KIMCHI",
   "name": "KIMCHI",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 12.8,
+      "organic_holders": 23,
+      "reported_holders": 181
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 12.8,
       "organic_holders": 23,
       "reported_holders": 181

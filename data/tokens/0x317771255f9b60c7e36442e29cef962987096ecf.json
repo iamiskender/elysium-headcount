@@ -2,7 +2,7 @@
   "address": "0x317771255F9B60C7E36442E29cef962987096eCf",
   "symbol": "Gomocat",
   "name": "Gomocat",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 4.1,
+      "organic_holders": 6,
+      "reported_holders": 149
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 4.1,
       "organic_holders": 6,
       "reported_holders": 149

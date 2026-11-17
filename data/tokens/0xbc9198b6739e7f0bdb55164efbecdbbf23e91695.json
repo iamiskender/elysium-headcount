@@ -2,7 +2,7 @@
   "address": "0xbc9198b6739e7F0bDB55164EFBecdBbF23e91695",
   "symbol": "9X",
   "name": "XXX XXX XXX",
-  "snapshot": "2026-11-15T15:50:22.725290+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F10",
@@ -14,9 +14,9 @@
     "eoa_holders": 289,
     "clone_wallets": 236,
     "largest_cluster": 52,
-    "cross_token_wallets": 257,
-    "est_organic": 19,
-    "quality_pct": 6.6,
+    "cross_token_wallets": 240,
+    "est_organic": 24,
+    "quality_pct": 8.3,
     "pool_share_pct": 96.2,
     "top_eoa_share_pct": 2.2,
     "pool_buys_seen": 595,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4521.71,
+    "market_cap_usd": 4594.13,
     "holders_fetched": 290,
     "transfers_fetched": 599
   },
@@ -35,6 +35,12 @@
       "date": "2026-11-15",
       "organic_share_pct": 6.6,
       "organic_holders": 19,
+      "reported_holders": 290
+    },
+    {
+      "date": "2026-11-17",
+      "organic_share_pct": 8.3,
+      "organic_holders": 24,
       "reported_holders": 290
     }
   ],

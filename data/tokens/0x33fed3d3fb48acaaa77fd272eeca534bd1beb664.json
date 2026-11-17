@@ -2,7 +2,7 @@
   "address": "0x33fed3D3FB48aCaaa77fD272eecA534Bd1bEB664",
   "symbol": "JBTO",
   "name": "JABATO",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -14,9 +14,9 @@
     "eoa_holders": 806,
     "clone_wallets": 757,
     "largest_cluster": 432,
-    "cross_token_wallets": 772,
-    "est_organic": 34,
-    "quality_pct": 4.2,
+    "cross_token_wallets": 778,
+    "est_organic": 28,
+    "quality_pct": 3.5,
     "pool_share_pct": 92.3,
     "top_eoa_share_pct": 5.9,
     "pool_buys_seen": 810,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5634.07,
+    "market_cap_usd": 5819.52,
     "holders_fetched": 807,
     "transfers_fetched": 814
   },
@@ -41,6 +41,12 @@
       "date": "2026-11-16",
       "organic_share_pct": 4.2,
       "organic_holders": 34,
+      "reported_holders": 807
+    },
+    {
+      "date": "2026-11-17",
+      "organic_share_pct": 3.5,
+      "organic_holders": 28,
       "reported_holders": 807
     }
   ],

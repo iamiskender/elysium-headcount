@@ -2,7 +2,7 @@
   "address": "0x1Db9E12c443e743f3e823819Cc66d05E80319f4d",
   "symbol": "LOLA",
   "name": "Lola",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -19,16 +19,16 @@
     "quality_pct": 6.8,
     "pool_share_pct": 95.2,
     "top_eoa_share_pct": 2.8,
-    "pool_buys_seen": 225,
-    "burst_6h_pct": 72.4,
-    "ladder_pct": 85.8,
+    "pool_buys_seen": 226,
+    "burst_6h_pct": 72.1,
+    "ladder_pct": 85.4,
     "buy_only_pct": 96.9,
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.0,
-    "market_cap_usd": 3228.75,
+    "volume_24h_usd": 0.28,
+    "market_cap_usd": 3336.69,
     "holders_fetched": 191,
-    "transfers_fetched": 242
+    "transfers_fetched": 243
   },
   "history": [
     {
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 6.8,
+      "organic_holders": 13,
+      "reported_holders": 191
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 6.8,
       "organic_holders": 13,
       "reported_holders": 191

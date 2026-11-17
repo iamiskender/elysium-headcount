@@ -2,7 +2,7 @@
   "address": "0x37c9257A6BAa1779d56A7BEbD93FadD1a463893A",
   "symbol": "ABY",
   "name": "Astrorabby",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -14,9 +14,9 @@
     "eoa_holders": 2341,
     "clone_wallets": 2114,
     "largest_cluster": 916,
-    "cross_token_wallets": 2128,
-    "est_organic": 159,
-    "quality_pct": 6.8,
+    "cross_token_wallets": 2141,
+    "est_organic": 146,
+    "quality_pct": 6.2,
     "pool_share_pct": 53.0,
     "top_eoa_share_pct": 45.4,
     "pool_buys_seen": 1495,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 48166.96,
+    "market_cap_usd": 49772.46,
     "holders_fetched": 2342,
     "transfers_fetched": 2000
   },
@@ -41,6 +41,12 @@
       "date": "2026-11-16",
       "organic_share_pct": 6.8,
       "organic_holders": 159,
+      "reported_holders": 2342
+    },
+    {
+      "date": "2026-11-17",
+      "organic_share_pct": 6.2,
+      "organic_holders": 146,
       "reported_holders": 2342
     }
   ],

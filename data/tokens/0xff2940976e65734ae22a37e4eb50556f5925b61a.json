@@ -2,7 +2,7 @@
   "address": "0xFF2940976E65734ae22A37E4eB50556f5925b61a",
   "symbol": "HUNT",
   "name": "HUNTERS",
-  "snapshot": "2026-11-16T17:04:29.753257+00:00",
+  "snapshot": "2026-11-17T17:34:37.663311+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4787.01,
+    "market_cap_usd": 4944.58,
     "holders_fetched": 1132,
     "transfers_fetched": 1157
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-16",
+      "organic_share_pct": 8.3,
+      "organic_holders": 94,
+      "reported_holders": 1132
+    },
+    {
+      "date": "2026-11-17",
       "organic_share_pct": 8.3,
       "organic_holders": 94,
       "reported_holders": 1132
