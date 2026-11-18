@@ -2,7 +2,7 @@
   "address": "0xE082277cdBa7979C4d225eeC152f14B04302cC6c",
   "symbol": "Peeps",
   "name": "Peculiar Peeps",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 4.0,
+      "organic_holders": 6,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 4.0,
       "organic_holders": 6,
       "reported_holders": 150

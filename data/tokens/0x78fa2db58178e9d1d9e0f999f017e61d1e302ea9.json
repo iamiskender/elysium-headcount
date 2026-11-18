@@ -2,7 +2,7 @@
   "address": "0x78Fa2dB58178e9d1D9e0f999F017E61D1E302eA9",
   "symbol": "DELLx",
   "name": "Dell Technologies Inc.",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 141
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 1.4,
       "organic_holders": 2,
       "reported_holders": 141

@@ -2,7 +2,7 @@
   "address": "0xbA37E7cEA47295A0846E5BF2aC266bCa022B97E3",
   "symbol": "els",
   "name": "Dead Pixels",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 4.5,
+      "organic_holders": 7,
+      "reported_holders": 157
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 4.5,
       "organic_holders": 7,
       "reported_holders": 157

@@ -2,7 +2,7 @@
   "address": "0x52337b123e7c206ED89a267a8e07E1b68A24D418",
   "symbol": "FCAT",
   "name": "Flying Cat",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3096.42,
+    "market_cap_usd": 3063.11,
     "holders_fetched": 725,
     "transfers_fetched": 2000
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 33.8,
+      "organic_holders": 245,
+      "reported_holders": 725
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 33.8,
       "organic_holders": 245,
       "reported_holders": 725

@@ -2,7 +2,7 @@
   "address": "0xE35b71218797F415F002e24ed52c9d307341D286",
   "symbol": "FRONK",
   "name": "FRONK",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 1999,
     "clone_wallets": 828,
     "largest_cluster": 683,
-    "cross_token_wallets": 1092,
-    "est_organic": 879,
-    "quality_pct": 44.0,
+    "cross_token_wallets": 1093,
+    "est_organic": 878,
+    "quality_pct": 43.9,
     "pool_share_pct": 65.2,
     "top_eoa_share_pct": 19.6,
     "pool_buys_seen": 1994,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 24423.2,
+    "market_cap_usd": 24150.77,
     "holders_fetched": 2000,
     "transfers_fetched": 2000
   },
@@ -59,6 +59,12 @@
       "date": "2026-11-17",
       "organic_share_pct": 44.0,
       "organic_holders": 879,
+      "reported_holders": 2000
+    },
+    {
+      "date": "2026-11-18",
+      "organic_share_pct": 43.9,
+      "organic_holders": 878,
       "reported_holders": 2000
     }
   ],

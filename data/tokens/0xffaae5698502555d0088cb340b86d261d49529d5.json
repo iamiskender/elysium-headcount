@@ -2,7 +2,7 @@
   "address": "0xFFAaE5698502555d0088cb340b86d261D49529D5",
   "symbol": "Woodie",
   "name": "Woodie",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3208.12,
+    "market_cap_usd": 3173.61,
     "holders_fetched": 400,
     "transfers_fetched": 405
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 1.8,
+      "organic_holders": 7,
+      "reported_holders": 400
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 1.8,
       "organic_holders": 7,
       "reported_holders": 400

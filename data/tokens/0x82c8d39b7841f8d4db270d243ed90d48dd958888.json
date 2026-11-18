@@ -2,7 +2,7 @@
   "address": "0x82C8d39B7841f8d4db270d243Ed90d48DD958888",
   "symbol": "KM",
   "name": "Kinetiq Morning",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 2.1,
+      "organic_holders": 42,
+      "reported_holders": 2025
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 2.1,
       "organic_holders": 42,
       "reported_holders": 2025

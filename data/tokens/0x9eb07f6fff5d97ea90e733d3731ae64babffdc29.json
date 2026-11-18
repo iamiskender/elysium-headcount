@@ -2,7 +2,7 @@
   "address": "0x9eB07F6Fff5d97ea90e733d3731Ae64BaBFfDc29",
   "symbol": "RING",
   "name": "ring",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F10",
@@ -14,9 +14,9 @@
     "eoa_holders": 297,
     "clone_wallets": 147,
     "largest_cluster": 54,
-    "cross_token_wallets": 244,
-    "est_organic": 52,
-    "quality_pct": 17.5,
+    "cross_token_wallets": 258,
+    "est_organic": 38,
+    "quality_pct": 12.8,
     "pool_share_pct": 94.4,
     "top_eoa_share_pct": 2.1,
     "pool_buys_seen": 795,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5113.22,
+    "market_cap_usd": 5058.22,
     "holders_fetched": 298,
     "transfers_fetched": 808
   },
@@ -53,6 +53,12 @@
       "date": "2026-11-17",
       "organic_share_pct": 17.5,
       "organic_holders": 52,
+      "reported_holders": 298
+    },
+    {
+      "date": "2026-11-18",
+      "organic_share_pct": 12.8,
+      "organic_holders": 38,
       "reported_holders": 298
     }
   ],

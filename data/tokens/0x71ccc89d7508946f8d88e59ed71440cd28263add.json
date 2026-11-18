@@ -2,7 +2,7 @@
   "address": "0x71cCc89D7508946f8D88e59Ed71440cd28263ADD",
   "symbol": "VEL",
   "name": "Velusia",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 3533,
     "clone_wallets": 2102,
     "largest_cluster": 872,
-    "cross_token_wallets": 2605,
-    "est_organic": 908,
-    "quality_pct": 25.7,
+    "cross_token_wallets": 2607,
+    "est_organic": 906,
+    "quality_pct": 25.6,
     "pool_share_pct": 57.3,
     "top_eoa_share_pct": 37.1,
     "pool_buys_seen": 1487,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 41349.48,
+    "market_cap_usd": 40888.25,
     "holders_fetched": 3534,
     "transfers_fetched": 2000
   },
@@ -59,6 +59,12 @@
       "date": "2026-11-17",
       "organic_share_pct": 25.7,
       "organic_holders": 908,
+      "reported_holders": 3534
+    },
+    {
+      "date": "2026-11-18",
+      "organic_share_pct": 25.6,
+      "organic_holders": 906,
       "reported_holders": 3534
     }
   ],

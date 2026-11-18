@@ -2,7 +2,7 @@
   "address": "0x02ff6d91382dE1a2622A2398a635D027fab9d927",
   "symbol": "dwt",
   "name": "Dark Wallet",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 148
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 2.7,
       "organic_holders": 4,
       "reported_holders": 148

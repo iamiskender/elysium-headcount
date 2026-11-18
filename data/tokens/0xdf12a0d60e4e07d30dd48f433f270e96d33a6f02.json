@@ -2,7 +2,7 @@
   "address": "0xDF12a0d60E4e07D30dD48F433f270e96d33a6f02",
   "symbol": "JESS",
   "name": "JESSICA",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": null,
     "farm_sample_n": 0,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4841.02,
+    "market_cap_usd": 4788.95,
     "holders_fetched": 131,
     "transfers_fetched": 134
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 50.4,
+      "organic_holders": 65,
+      "reported_holders": 131
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 50.4,
       "organic_holders": 65,
       "reported_holders": 131

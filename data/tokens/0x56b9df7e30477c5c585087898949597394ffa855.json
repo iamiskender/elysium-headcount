@@ -2,7 +2,7 @@
   "address": "0x56B9DF7e30477C5C585087898949597394Ffa855",
   "symbol": "GIVE",
   "name": "Giveme",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4592.09,
+    "market_cap_usd": 4542.7,
     "holders_fetched": 640,
     "transfers_fetched": 641
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 8.2,
+      "organic_holders": 52,
+      "reported_holders": 640
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 8.2,
       "organic_holders": 52,
       "reported_holders": 640

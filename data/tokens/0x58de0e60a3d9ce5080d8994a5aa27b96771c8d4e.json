@@ -2,7 +2,7 @@
   "address": "0x58DE0e60a3d9ce5080D8994a5Aa27b96771C8D4e",
   "symbol": "bunnyhood",
   "name": "Bunny  Hood",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3168.43,
+    "market_cap_usd": 3134.35,
     "holders_fetched": 712,
     "transfers_fetched": 754
   },
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 4.1,
+      "organic_holders": 29,
+      "reported_holders": 712
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 4.1,
       "organic_holders": 29,
       "reported_holders": 712

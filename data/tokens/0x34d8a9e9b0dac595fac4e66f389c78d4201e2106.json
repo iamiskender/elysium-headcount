@@ -2,7 +2,7 @@
   "address": "0x34d8a9E9b0Dac595fAC4E66F389c78D4201e2106",
   "symbol": "mingos",
   "name": "mingos",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 5.5,
+      "organic_holders": 9,
+      "reported_holders": 164
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 5.5,
       "organic_holders": 9,
       "reported_holders": 164

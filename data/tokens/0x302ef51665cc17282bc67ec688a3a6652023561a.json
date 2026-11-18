@@ -2,7 +2,7 @@
   "address": "0x302EF51665Cc17282BC67eC688A3a6652023561a",
   "symbol": "WFELY",
   "name": "Waterfallsyum",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 3472,
     "clone_wallets": 2012,
     "largest_cluster": 874,
-    "cross_token_wallets": 2536,
-    "est_organic": 926,
-    "quality_pct": 26.7,
+    "cross_token_wallets": 2539,
+    "est_organic": 923,
+    "quality_pct": 26.6,
     "pool_share_pct": 84.8,
     "top_eoa_share_pct": 1.7,
     "pool_buys_seen": 1111,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8377.92,
+    "market_cap_usd": 8287.8,
     "holders_fetched": 3473,
     "transfers_fetched": 2000
   },
@@ -59,6 +59,12 @@
       "date": "2026-11-17",
       "organic_share_pct": 26.7,
       "organic_holders": 926,
+      "reported_holders": 3473
+    },
+    {
+      "date": "2026-11-18",
+      "organic_share_pct": 26.6,
+      "organic_holders": 923,
       "reported_holders": 3473
     }
   ],

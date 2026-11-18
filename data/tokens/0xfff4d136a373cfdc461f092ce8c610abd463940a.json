@@ -2,7 +2,7 @@
   "address": "0xFFF4D136a373cfDC461f092cE8C610aBD463940a",
   "symbol": "MetaDAO",
   "name": "MetaDAO",
-  "snapshot": "2026-11-17T17:34:37.663311+00:00",
+  "snapshot": "2026-11-18T17:35:57.685496+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2026-11-17",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 146
+    },
+    {
+      "date": "2026-11-18",
       "organic_share_pct": 1.4,
       "organic_holders": 2,
       "reported_holders": 146
