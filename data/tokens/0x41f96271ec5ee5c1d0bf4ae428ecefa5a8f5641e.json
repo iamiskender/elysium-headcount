@@ -2,7 +2,7 @@
   "address": "0x41f96271Ec5Ee5C1d0Bf4Ae428ECEfa5a8f5641E",
   "symbol": "tty",
   "name": "teet",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 21412.84,
+    "market_cap_usd": 21496.01,
     "holders_fetched": 543,
     "transfers_fetched": 550
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 3.7,
+      "organic_holders": 20,
+      "reported_holders": 543
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 3.7,
       "organic_holders": 20,
       "reported_holders": 543

@@ -2,7 +2,7 @@
   "address": "0x8bf7AeEd37bba4F195f36Eba47e06917202d6eEf",
   "symbol": "AERIS",
   "name": "LaFulanaDeMidgar",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 33.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 97984.79,
+    "market_cap_usd": 98365.4,
     "holders_fetched": 6395,
     "transfers_fetched": 2000
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 1.0,
+      "organic_holders": 63,
+      "reported_holders": 6395
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 1.0,
       "organic_holders": 63,
       "reported_holders": 6395

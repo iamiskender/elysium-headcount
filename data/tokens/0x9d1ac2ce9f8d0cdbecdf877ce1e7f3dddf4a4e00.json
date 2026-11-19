@@ -2,7 +2,7 @@
   "address": "0x9D1AC2Ce9f8d0CdBEcDf877ce1e7f3ddDf4a4E00",
   "symbol": "ELX",
   "name": "Elixir",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 32414.52,
+    "market_cap_usd": 32540.43,
     "holders_fetched": 9116,
     "transfers_fetched": 2000
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 8.7,
+      "organic_holders": 795,
+      "reported_holders": 9116
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 8.7,
       "organic_holders": 795,
       "reported_holders": 9116

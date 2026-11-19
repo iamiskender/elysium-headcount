@@ -2,7 +2,7 @@
   "address": "0xeF8B748aFFb6F3EC9e9030b612Fd3Ae86b59A489",
   "symbol": "Trump",
   "name": "TRUMP",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8546.11,
+    "market_cap_usd": 8579.31,
     "holders_fetched": 414,
     "transfers_fetched": 418
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 1.2,
+      "organic_holders": 5,
+      "reported_holders": 414
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 1.2,
       "organic_holders": 5,
       "reported_holders": 414

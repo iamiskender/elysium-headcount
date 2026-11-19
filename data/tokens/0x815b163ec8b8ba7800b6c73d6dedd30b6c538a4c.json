@@ -2,7 +2,7 @@
   "address": "0x815b163Ec8B8bA7800B6C73D6dEdD30b6C538A4c",
   "symbol": "CWIF",
   "name": "Cat Wif Hat",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 9935.18,
+    "market_cap_usd": 9973.77,
     "holders_fetched": 3993,
     "transfers_fetched": 2000
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 24.7,
+      "organic_holders": 988,
+      "reported_holders": 3993
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 24.7,
       "organic_holders": 988,
       "reported_holders": 3993

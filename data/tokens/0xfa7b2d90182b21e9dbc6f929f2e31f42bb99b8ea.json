@@ -2,7 +2,7 @@
   "address": "0xfA7B2d90182B21e9dbc6F929F2e31f42BB99B8EA",
   "symbol": "CPR",
   "name": "Copyright",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 11163.62,
+    "market_cap_usd": 11206.98,
     "holders_fetched": 2211,
     "transfers_fetched": 2000
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 42.8,
+      "organic_holders": 946,
+      "reported_holders": 2211
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 42.8,
       "organic_holders": 946,
       "reported_holders": 2211

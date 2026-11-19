@@ -2,7 +2,7 @@
   "address": "0xD1b09903c0C920f9b914192Ffe75e90124C43B85",
   "symbol": "AMZNx",
   "name": "Amazon.com",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 2.2,
+      "organic_holders": 3,
+      "reported_holders": 140
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 2.2,
       "organic_holders": 3,
       "reported_holders": 140

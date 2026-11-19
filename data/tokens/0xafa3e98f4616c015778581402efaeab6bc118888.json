@@ -2,7 +2,7 @@
   "address": "0xAfA3e98f4616C015778581402eFaeAb6BC118888",
   "symbol": "ELYSIUM",
   "name": "Elysium",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 2.1,
+      "organic_holders": 42,
+      "reported_holders": 2046
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 2.1,
       "organic_holders": 42,
       "reported_holders": 2046

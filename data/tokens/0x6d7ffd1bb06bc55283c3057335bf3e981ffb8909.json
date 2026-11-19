@@ -2,7 +2,7 @@
   "address": "0x6D7fFd1bB06bC55283c3057335bf3E981FFb8909",
   "symbol": "3L3Phants",
   "name": "3L3Phants",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 5.7,
+      "organic_holders": 9,
+      "reported_holders": 160
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 5.7,
       "organic_holders": 9,
       "reported_holders": 160

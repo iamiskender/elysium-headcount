@@ -2,7 +2,7 @@
   "address": "0x19e4f5A0F79d866E0c3843EF3186384D84f5a027",
   "symbol": "BEAUTY",
   "name": "Beauty",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4769.04,
+    "market_cap_usd": 4787.56,
     "holders_fetched": 816,
     "transfers_fetched": 835
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 0.9,
+      "organic_holders": 7,
+      "reported_holders": 816
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 0.9,
       "organic_holders": 7,
       "reported_holders": 816

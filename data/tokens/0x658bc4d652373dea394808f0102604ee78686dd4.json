@@ -2,7 +2,7 @@
   "address": "0x658Bc4d652373dEa394808f0102604EE78686Dd4",
   "symbol": "JUIA",
   "name": "juia",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4940.75,
+    "market_cap_usd": 4959.94,
     "holders_fetched": 1262,
     "transfers_fetched": 2000
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 0.3,
+      "organic_holders": 4,
+      "reported_holders": 1262
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 0.3,
       "organic_holders": 4,
       "reported_holders": 1262

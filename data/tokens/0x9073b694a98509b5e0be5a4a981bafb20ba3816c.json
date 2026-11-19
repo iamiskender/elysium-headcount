@@ -2,7 +2,7 @@
   "address": "0x9073B694a98509b5e0be5A4a981BaFb20ba3816C",
   "symbol": "BOMBO",
   "name": "Bombocat",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 47720.66,
+    "market_cap_usd": 47906.03,
     "holders_fetched": 1491,
     "transfers_fetched": 2000
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 0.6,
+      "organic_holders": 9,
+      "reported_holders": 1491
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 0.6,
       "organic_holders": 9,
       "reported_holders": 1491

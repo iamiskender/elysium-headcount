@@ -2,7 +2,7 @@
   "address": "0x2b2e2EB8eff425bF54e0b498A1dCCb863b60319d",
   "symbol": "CHA",
   "name": "Charango",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 46.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6389.0,
+    "market_cap_usd": 6413.82,
     "holders_fetched": 3743,
     "transfers_fetched": 2000
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 24.8,
+      "organic_holders": 928,
+      "reported_holders": 3743
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 24.8,
       "organic_holders": 928,
       "reported_holders": 3743

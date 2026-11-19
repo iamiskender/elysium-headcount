@@ -2,7 +2,7 @@
   "address": "0xfFffAABdfdbB141504a07408f6e41669a7398dee",
   "symbol": "MOLE",
   "name": "Moon Mole",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4618.73,
+    "market_cap_usd": 4636.67,
     "holders_fetched": 992,
     "transfers_fetched": 994
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 6.5,
+      "organic_holders": 64,
+      "reported_holders": 992
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 6.5,
       "organic_holders": 64,
       "reported_holders": 992

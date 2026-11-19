@@ -2,7 +2,7 @@
   "address": "0x283cF9550a5af5E20C7109192E5bc6720f636410",
   "symbol": "BOOMER",
   "name": "BOOMER",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 4.0,
+      "organic_holders": 6,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 4.0,
       "organic_holders": 6,
       "reported_holders": 152

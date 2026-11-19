@@ -2,7 +2,7 @@
   "address": "0x627916743fd0bfbC8f4f1E064cB137Fc73Dc9Eb4",
   "symbol": "cutebunny",
   "name": "Cute Bunny",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4200.94,
+    "market_cap_usd": 4217.26,
     "holders_fetched": 643,
     "transfers_fetched": 687
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 2.6,
+      "organic_holders": 17,
+      "reported_holders": 643
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 2.6,
       "organic_holders": 17,
       "reported_holders": 643

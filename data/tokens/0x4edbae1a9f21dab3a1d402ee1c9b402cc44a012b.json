@@ -2,7 +2,7 @@
   "address": "0x4edBAE1A9F21Dab3a1d402Ee1C9B402Cc44a012b",
   "symbol": "TFLAME",
   "name": "Test Flame",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 113982.89,
+    "market_cap_usd": 114425.65,
     "holders_fetched": 3268,
     "transfers_fetched": 2000
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 3.4,
+      "organic_holders": 110,
+      "reported_holders": 3268
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 3.4,
       "organic_holders": 110,
       "reported_holders": 3268

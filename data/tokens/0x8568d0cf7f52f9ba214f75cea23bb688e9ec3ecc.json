@@ -2,7 +2,7 @@
   "address": "0x8568D0Cf7f52f9ba214f75cEA23BB688e9Ec3Ecc",
   "symbol": "EM",
   "name": "ElyMfers",
-  "snapshot": "2026-11-18T17:35:57.685496+00:00",
+  "snapshot": "2026-11-19T17:23:08.005092+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3230.31,
+    "market_cap_usd": 3242.86,
     "holders_fetched": 1756,
     "transfers_fetched": 2000
   },
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-11-18",
+      "organic_share_pct": 0.7,
+      "organic_holders": 12,
+      "reported_holders": 1756
+    },
+    {
+      "date": "2026-11-19",
       "organic_share_pct": 0.7,
       "organic_holders": 12,
       "reported_holders": 1756
