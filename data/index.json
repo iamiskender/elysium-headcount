@@ -1,18 +1,18 @@
 {
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "totals": {
-    "tokens": 476,
-    "raw": 433155,
-    "eoa": 432526,
-    "organic": 51497
+    "tokens": 469,
+    "raw": 427183,
+    "eoa": 426562,
+    "organic": 52112
   },
-  "days_recorded": 12,
+  "days_recorded": 13,
   "tokens": [
     {
       "address": "0x5a5F20682B20A06aD81e840c85773Ea823624637",
       "symbol": "$ASC2E",
       "status": "ok",
-      "organic_share_pct": 4.2,
+      "organic_share_pct": 4.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x5a5f20682b20a06ad81e840c85773ea823624637.json"
     },
     {
@@ -47,7 +47,7 @@
       "address": "0x6571D199bad7eB702526c4777e7Ba1d14852F5b1",
       "symbol": "101025",
       "status": "ok",
-      "organic_share_pct": 27.6,
+      "organic_share_pct": 27.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x6571d199bad7eb702526c4777e7ba1d14852f5b1.json"
     },
     {
@@ -70,13 +70,6 @@
       "status": "ok",
       "organic_share_pct": 5.3,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xf5fd88def3a137fdbc37233ad85d3d9edb2eab40.json"
-    },
-    {
-      "address": "0xbc9198b6739e7F0bDB55164EFBecdBbF23e91695",
-      "symbol": "9X",
-      "status": "ok",
-      "organic_share_pct": 6.6,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0xbc9198b6739e7f0bdb55164efbecdbbf23e91695.json"
     },
     {
       "address": "0xF4666b2fdbAB2743b158F29eB2A3818Ff222Ed4E",
@@ -103,7 +96,7 @@
       "address": "0x37c9257A6BAa1779d56A7BEbD93FadD1a463893A",
       "symbol": "ABY",
       "status": "ok",
-      "organic_share_pct": 5.7,
+      "organic_share_pct": 6.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x37c9257a6baa1779d56a7bebd93fadd1a463893a.json"
     },
     {
@@ -124,7 +117,7 @@
       "address": "0x8bf7AeEd37bba4F195f36Eba47e06917202d6eEf",
       "symbol": "AERIS",
       "status": "ok",
-      "organic_share_pct": 1.0,
+      "organic_share_pct": 1.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x8bf7aeed37bba4f195f36eba47e06917202d6eef.json"
     },
     {
@@ -201,14 +194,14 @@
       "address": "0x52f7448D79f04F881Edd1E112236005B68B846B5",
       "symbol": "ANGEL",
       "status": "ok",
-      "organic_share_pct": 4.2,
+      "organic_share_pct": 6.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x52f7448d79f04f881edd1e112236005b68b846b5.json"
     },
     {
       "address": "0x7666051F8F58Aa1Bc0dAD46A1B0ebf1F2584866A",
       "symbol": "ANGEL2",
       "status": "ok",
-      "organic_share_pct": 3.6,
+      "organic_share_pct": 6.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x7666051f8f58aa1bc0dad46a1b0ebf1f2584866a.json"
     },
     {
@@ -250,7 +243,7 @@
       "address": "0x46287fA33De3CEA03D87a347Eb52F398b86f71b1",
       "symbol": "Asc",
       "status": "ok",
-      "organic_share_pct": 3.7,
+      "organic_share_pct": 3.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x46287fa33de3cea03d87a347eb52f398b86f71b1.json"
     },
     {
@@ -271,14 +264,14 @@
       "address": "0x8215C28be8A3Be795E24099BBE527BEE47193e8f",
       "symbol": "ATLSP",
       "status": "ok",
-      "organic_share_pct": 1.5,
+      "organic_share_pct": 2.3,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x8215c28be8a3be795e24099bbe527bee47193e8f.json"
     },
     {
       "address": "0x6AC18f55dfbFD83B85B75a66bcE575e609bAd593",
       "symbol": "AUTOMATIC",
       "status": "ok",
-      "organic_share_pct": 21.4,
+      "organic_share_pct": 24.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x6ac18f55dfbfd83b85b75a66bce575e609bad593.json"
     },
     {
@@ -327,7 +320,7 @@
       "address": "0x19e4f5A0F79d866E0c3843EF3186384D84f5a027",
       "symbol": "BEAUTY",
       "status": "ok",
-      "organic_share_pct": 0.9,
+      "organic_share_pct": 1.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x19e4f5a0f79d866e0c3843ef3186384d84f5a027.json"
     },
     {
@@ -341,7 +334,7 @@
       "address": "0x4C839015D58e9D8936a68c0E6f1d87a718D4160D",
       "symbol": "BIRDS",
       "status": "ok",
-      "organic_share_pct": 42.0,
+      "organic_share_pct": 43.3,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x4c839015d58e9d8936a68c0e6f1d87a718d4160d.json"
     },
     {
@@ -355,7 +348,7 @@
       "address": "0x321CCD0f1c8Bb743625dF4CdB0DDA60820079265",
       "symbol": "BLOB",
       "status": "ok",
-      "organic_share_pct": 5.5,
+      "organic_share_pct": 5.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x321ccd0f1c8bb743625df4cdb0dda60820079265.json"
     },
     {
@@ -411,7 +404,7 @@
       "address": "0xB7a4187595f57E430eDf7f1aCb8A8F83661a67F5",
       "symbol": "Bonk",
       "status": "ok",
-      "organic_share_pct": 15.3,
+      "organic_share_pct": 15.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xb7a4187595f57e430edf7f1acb8a8f83661a67f5.json"
     },
     {
@@ -432,7 +425,7 @@
       "address": "0xC04f285F7C97a3929E440dB2c7aD677017A3fC70",
       "symbol": "BOZO",
       "status": "ok",
-      "organic_share_pct": 30.4,
+      "organic_share_pct": 30.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xc04f285f7c97a3929e440db2c7ad677017a3fc70.json"
     },
     {
@@ -460,7 +453,7 @@
       "address": "0xd4a3b414DFa1744c8ebFBac775f2F3C89692Aea2",
       "symbol": "BUNNY",
       "status": "ok",
-      "organic_share_pct": 23.8,
+      "organic_share_pct": 23.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xd4a3b414dfa1744c8ebfbac775f2f3c89692aea2.json"
     },
     {
@@ -516,7 +509,7 @@
       "address": "0x9e2Bdcb52b2F3047BD047Cb490431D4297432717",
       "symbol": "CATE",
       "status": "ok",
-      "organic_share_pct": 6.0,
+      "organic_share_pct": 6.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x9e2bdcb52b2f3047bd047cb490431d4297432717.json"
     },
     {
@@ -548,13 +541,6 @@
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x5a1f5abd971feb32bb82056e39cbda395803deb8.json"
     },
     {
-      "address": "0xcB47022ce7Ea68a225F8E8c125c26B680DE4199d",
-      "symbol": "CENA",
-      "status": "ok",
-      "organic_share_pct": 96.2,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0xcb47022ce7ea68a225f8e8c125c26b680de4199d.json"
-    },
-    {
       "address": "0xb071B7d72Fb059CF2B0458EcE7392510A806e556",
       "symbol": "CEO",
       "status": "ok",
@@ -572,14 +558,14 @@
       "address": "0x2b2e2EB8eff425bF54e0b498A1dCCb863b60319d",
       "symbol": "CHA",
       "status": "ok",
-      "organic_share_pct": 24.8,
+      "organic_share_pct": 24.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x2b2e2eb8eff425bf54e0b498a1dccb863b60319d.json"
     },
     {
       "address": "0xc29EedbB36aB9E2B94642BDe8f4C1a24863302cD",
       "symbol": "CHAMELEON",
       "status": "ok",
-      "organic_share_pct": 35.1,
+      "organic_share_pct": 36.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xc29eedbb36ab9e2b94642bde8f4c1a24863302cd.json"
     },
     {
@@ -670,7 +656,7 @@
       "address": "0xfA7B2d90182B21e9dbc6F929F2e31f42BB99B8EA",
       "symbol": "CPR",
       "status": "ok",
-      "organic_share_pct": 42.8,
+      "organic_share_pct": 42.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xfa7b2d90182b21e9dbc6f929f2e31f42bb99b8ea.json"
     },
     {
@@ -719,7 +705,7 @@
       "address": "0x815b163Ec8B8bA7800B6C73D6dEdD30b6C538A4c",
       "symbol": "CWIF",
       "status": "ok",
-      "organic_share_pct": 24.7,
+      "organic_share_pct": 26.3,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x815b163ec8b8ba7800b6c73d6dedd30b6c538a4c.json"
     },
     {
@@ -740,7 +726,7 @@
       "address": "0x31580692d59Ecb62b1ab640d0e91087191EC6cA8",
       "symbol": "DAPHL",
       "status": "ok",
-      "organic_share_pct": 0.9,
+      "organic_share_pct": 1.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x31580692d59ecb62b1ab640d0e91087191ec6ca8.json"
     },
     {
@@ -845,7 +831,7 @@
       "address": "0x20Fe685c8d0966510Caf0d16156057B5CF6b54a3",
       "symbol": "DORAEMON",
       "status": "ok",
-      "organic_share_pct": 7.3,
+      "organic_share_pct": 13.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x20fe685c8d0966510caf0d16156057b5cf6b54a3.json"
     },
     {
@@ -905,17 +891,10 @@
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x482e8e803daa74816f9d76c24f5c39b29973f745.json"
     },
     {
-      "address": "0x4C3C09106baEfD8Da3635e0138CaCaFC3F639f0D",
-      "symbol": "eacc",
-      "status": "ok",
-      "organic_share_pct": 7.2,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0x4c3c09106baefd8da3635e0138cacafc3f639f0d.json"
-    },
-    {
       "address": "0x75849689F82162b49359965BE13dBE27Dd5a59f8",
       "symbol": "EACC",
       "status": "ok",
-      "organic_share_pct": 4.0,
+      "organic_share_pct": 4.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x75849689f82162b49359965be13dbe27dd5a59f8.json"
     },
     {
@@ -978,7 +957,7 @@
       "address": "0x109aC6299f7a24c13Cd35d3e3433E23DeF35274D",
       "symbol": "ELASIA",
       "status": "ok",
-      "organic_share_pct": 1.3,
+      "organic_share_pct": 1.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x109ac6299f7a24c13cd35d3e3433e23def35274d.json"
     },
     {
@@ -992,7 +971,7 @@
       "address": "0x667520Ac813a299AA9f22B46a85F021352796f76",
       "symbol": "elly",
       "status": "ok",
-      "organic_share_pct": 4.7,
+      "organic_share_pct": 4.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x667520ac813a299aa9f22b46a85f021352796f76.json"
     },
     {
@@ -1055,7 +1034,7 @@
       "address": "0x9Af86D3C07F2C58cfD8AD7abC6F8B94666c51338",
       "symbol": "ELYPUNK",
       "status": "ok",
-      "organic_share_pct": 7.7,
+      "organic_share_pct": 7.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x9af86d3c07f2c58cfd8ad7abc6f8b94666c51338.json"
     },
     {
@@ -1181,7 +1160,7 @@
       "address": "0x52337b123e7c206ED89a267a8e07E1b68A24D418",
       "symbol": "FCAT",
       "status": "ok",
-      "organic_share_pct": 33.8,
+      "organic_share_pct": 34.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x52337b123e7c206ed89a267a8e07e1b68a24d418.json"
     },
     {
@@ -1195,14 +1174,14 @@
       "address": "0x35A0893b7B2cDdd04F9eFc9F3B9faa949aA79Cf0",
       "symbol": "FEO",
       "status": "ok",
-      "organic_share_pct": 24.5,
+      "organic_share_pct": 25.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x35a0893b7b2cddd04f9efc9f3b9faa949aa79cf0.json"
     },
     {
       "address": "0x366daaB038CD5f293e107a01E152531F7f415Cd4",
       "symbol": "FGFDGFD",
       "status": "ok",
-      "organic_share_pct": 0.6,
+      "organic_share_pct": 0.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x366daab038cd5f293e107a01e152531f7f415cd4.json"
     },
     {
@@ -1279,7 +1258,7 @@
       "address": "0xE35b71218797F415F002e24ed52c9d307341D286",
       "symbol": "FRONK",
       "status": "ok",
-      "organic_share_pct": 43.9,
+      "organic_share_pct": 43.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xe35b71218797f415f002e24ed52c9d307341d286.json"
     },
     {
@@ -1594,7 +1573,7 @@
       "address": "0x20dB2acb5A8575604078b5815e95f3e126272025",
       "symbol": "HRMS",
       "status": "ok",
-      "organic_share_pct": 5.6,
+      "organic_share_pct": 6.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x20db2acb5a8575604078b5815e95f3e126272025.json"
     },
     {
@@ -1622,7 +1601,7 @@
       "address": "0x7cc41cac5704E0E28aaF56844850955fa7c59E33",
       "symbol": "HYGAARA",
       "status": "ok",
-      "organic_share_pct": 4.9,
+      "organic_share_pct": 6.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x7cc41cac5704e0e28aaf56844850955fa7c59e33.json"
     },
     {
@@ -1664,7 +1643,7 @@
       "address": "0x27Aa83bfFF7B2540802270F499033dF6fa88567F",
       "symbol": "ICH",
       "status": "ok",
-      "organic_share_pct": 36.2,
+      "organic_share_pct": 37.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x27aa83bfff7b2540802270f499033df6fa88567f.json"
     },
     {
@@ -1720,7 +1699,7 @@
       "address": "0x4ec9971241CEc36b14e358328407AE0C165312bb",
       "symbol": "IVBIS",
       "status": "ok",
-      "organic_share_pct": 14.0,
+      "organic_share_pct": 23.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x4ec9971241cec36b14e358328407ae0c165312bb.json"
     },
     {
@@ -1734,21 +1713,14 @@
       "address": "0x33fed3D3FB48aCaaa77fD272eecA534Bd1bEB664",
       "symbol": "JBTO",
       "status": "ok",
-      "organic_share_pct": 2.5,
+      "organic_share_pct": 4.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x33fed3d3fb48acaaa77fd272eeca534bd1beb664.json"
-    },
-    {
-      "address": "0x9A3cb4153fF52279B759a87A3aa4c3E3fb88C2b2",
-      "symbol": "JEFF",
-      "status": "ok",
-      "organic_share_pct": 0.2,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0x9a3cb4153ff52279b759a87a3aa4c3e3fb88c2b2.json"
     },
     {
       "address": "0xDb18514962929998D900968Cf0AC1d4681c80b20",
       "symbol": "JELLYJELLY",
       "status": "ok",
-      "organic_share_pct": 1.6,
+      "organic_share_pct": 1.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xdb18514962929998d900968cf0ac1d4681c80b20.json"
     },
     {
@@ -1783,7 +1755,7 @@
       "address": "0x658Bc4d652373dEa394808f0102604EE78686Dd4",
       "symbol": "JUIA",
       "status": "ok",
-      "organic_share_pct": 0.3,
+      "organic_share_pct": 0.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x658bc4d652373dea394808f0102604ee78686dd4.json"
     },
     {
@@ -1867,7 +1839,7 @@
       "address": "0xf5F33b0Bf839cb84D932dF796d3b955653a46797",
       "symbol": "KPURR",
       "status": "ok",
-      "organic_share_pct": 40.8,
+      "organic_share_pct": 42.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xf5f33b0bf839cb84d932df796d3b955653a46797.json"
     },
     {
@@ -1902,14 +1874,14 @@
       "address": "0xFC0b8e787e12Bd6279A9179Ac2a893BE1194fa8A",
       "symbol": "LAPEACE",
       "status": "ok",
-      "organic_share_pct": 0.9,
+      "organic_share_pct": 1.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xfc0b8e787e12bd6279a9179ac2a893be1194fa8a.json"
     },
     {
       "address": "0xfdbA113b9a230af653FA4562Efa7b6317A59A3Ac",
       "symbol": "LAURC",
       "status": "ok",
-      "organic_share_pct": 38.5,
+      "organic_share_pct": 39.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xfdba113b9a230af653fa4562efa7b6317a59a3ac.json"
     },
     {
@@ -1923,7 +1895,7 @@
       "address": "0x7C2577824F92d518c130723A181C711e70eE8Fc0",
       "symbol": "LEGENDES",
       "status": "ok",
-      "organic_share_pct": 0.5,
+      "organic_share_pct": 0.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x7c2577824f92d518c130723a181c711e70ee8fc0.json"
     },
     {
@@ -1958,14 +1930,14 @@
       "address": "0x90Bb636A66772F57d938701326d27cd8133a1cbE",
       "symbol": "MAD",
       "status": "ok",
-      "organic_share_pct": 5.1,
+      "organic_share_pct": 5.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x90bb636a66772f57d938701326d27cd8133a1cbe.json"
     },
     {
       "address": "0x598be4FDeE6bbFc963fc2e2E4E51B8Ea0ea9E56f",
       "symbol": "MAD",
       "status": "ok",
-      "organic_share_pct": 7.5,
+      "organic_share_pct": 7.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x598be4fdee6bbfc963fc2e2e4e51b8ea0ea9e56f.json"
     },
     {
@@ -2063,7 +2035,7 @@
       "address": "0xA5692D47Fc9989e18b320Df46C2304be955192F7",
       "symbol": "MFERS",
       "status": "ok",
-      "organic_share_pct": 0.7,
+      "organic_share_pct": 0.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xa5692d47fc9989e18b320df46c2304be955192f7.json"
     },
     {
@@ -2119,14 +2091,14 @@
       "address": "0xD27Fe7B07437603CA5032737dD5Ac7727247039E",
       "symbol": "MNC",
       "status": "ok",
-      "organic_share_pct": 19.7,
+      "organic_share_pct": 19.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xd27fe7b07437603ca5032737dd5ac7727247039e.json"
     },
     {
       "address": "0x0c05d0aC285eB29D3949b27e21cBef5894e30f48",
       "symbol": "MNC",
       "status": "ok",
-      "organic_share_pct": 27.0,
+      "organic_share_pct": 27.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x0c05d0ac285eb29d3949b27e21cbef5894e30f48.json"
     },
     {
@@ -2154,7 +2126,7 @@
       "address": "0x13332d75Ce78358A60Bc31E99f1e26d1a433d006",
       "symbol": "MONALYSIUM",
       "status": "ok",
-      "organic_share_pct": 0.8,
+      "organic_share_pct": 0.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x13332d75ce78358a60bc31e99f1e26d1a433d006.json"
     },
     {
@@ -2168,14 +2140,14 @@
       "address": "0x005dE535415C2ed23ab0714FEED1dFA32E9FDf03",
       "symbol": "MOON",
       "status": "ok",
-      "organic_share_pct": 0.5,
+      "organic_share_pct": 1.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x005de535415c2ed23ab0714feed1dfa32e9fdf03.json"
     },
     {
       "address": "0x2b43Ce3D4b5DEc16210Cc3c4a273e3ef4727C970",
       "symbol": "MOON",
       "status": "ok",
-      "organic_share_pct": 10.9,
+      "organic_share_pct": 11.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x2b43ce3d4b5dec16210cc3c4a273e3ef4727c970.json"
     },
     {
@@ -2198,13 +2170,6 @@
       "status": "ok",
       "organic_share_pct": 4.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x21d10aa16365d1cc7a3eba678a2b4042c4c8c408.json"
-    },
-    {
-      "address": "0x3700f36c7c5Ce4b8aEff5De30CaFB3cBf58fe0D4",
-      "symbol": "MUISYLE",
-      "status": "ok",
-      "organic_share_pct": 7.0,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0x3700f36c7c5ce4b8aeff5de30cafb3cbf58fe0d4.json"
     },
     {
       "address": "0x0F3806cb1e08b4ad5717e3ee5616193CDE6c124C",
@@ -2252,14 +2217,14 @@
       "address": "0x6A8990f45EC505129468f97De02cA3C4259d039B",
       "symbol": "NEMO",
       "status": "ok",
-      "organic_share_pct": 41.2,
+      "organic_share_pct": 41.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x6a8990f45ec505129468f97de02ca3c4259d039b.json"
     },
     {
       "address": "0xc7e585380adBaAfE7bae2F81Cec628538Bf06e46",
       "symbol": "NEW$WAVE",
       "status": "ok",
-      "organic_share_pct": 12.0,
+      "organic_share_pct": 15.9,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xc7e585380adbaafe7bae2f81cec628538bf06e46.json"
     },
     {
@@ -2280,7 +2245,7 @@
       "address": "0x17BF4650634b172aDBC08326e3C516D2fa15A75F",
       "symbol": "NIKEW",
       "status": "ok",
-      "organic_share_pct": 0.5,
+      "organic_share_pct": 1.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x17bf4650634b172adbc08326e3c516d2fa15a75f.json"
     },
     {
@@ -2301,7 +2266,7 @@
       "address": "0xA46D6Baa76B6F57e4b20ff267E50f86A94848416",
       "symbol": "NUN",
       "status": "ok",
-      "organic_share_pct": 2.1,
+      "organic_share_pct": 3.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xa46d6baa76b6f57e4b20ff267e50f86a94848416.json"
     },
     {
@@ -2343,7 +2308,7 @@
       "address": "0x821b52c6a1c5494a383491CE6BE98Be9B8C8E96D",
       "symbol": "oMC",
       "status": "ok",
-      "organic_share_pct": 9.0,
+      "organic_share_pct": 9.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x821b52c6a1c5494a383491ce6be98be9b8c8e96d.json"
     },
     {
@@ -2364,7 +2329,7 @@
       "address": "0x667B3011Ad23effbd88f6f6bB9B038fC90EA03AC",
       "symbol": "ORC",
       "status": "ok",
-      "organic_share_pct": 1.0,
+      "organic_share_pct": 1.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x667b3011ad23effbd88f6f6bb9b038fc90ea03ac.json"
     },
     {
@@ -2378,7 +2343,7 @@
       "address": "0x1A263a7618D1DA4Cacfb1D81C257363B4DFdDeCe",
       "symbol": "ORIOB",
       "status": "ok",
-      "organic_share_pct": 0.6,
+      "organic_share_pct": 1.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x1a263a7618d1da4cacfb1d81c257363b4dfddece.json"
     },
     {
@@ -2399,7 +2364,7 @@
       "address": "0xc9e3C415e6A64eF6376c62555CB22286922b65DF",
       "symbol": "PAIN",
       "status": "ok",
-      "organic_share_pct": 3.8,
+      "organic_share_pct": 5.4,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xc9e3c415e6a64ef6376c62555cb22286922b65df.json"
     },
     {
@@ -2476,7 +2441,7 @@
       "address": "0x3dE0D16032A1b21Ac42D9032006e68088654616C",
       "symbol": "PHLOW",
       "status": "ok",
-      "organic_share_pct": 0.4,
+      "organic_share_pct": 0.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x3de0d16032a1b21ac42d9032006e68088654616c.json"
     },
     {
@@ -2536,13 +2501,6 @@
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xbbcba9ea171314c0f322686739da95af68efd12d.json"
     },
     {
-      "address": "0x9f984242236F8BA50dfee9Cf9C277d148cC8e77D",
-      "symbol": "PPM",
-      "status": "ok",
-      "organic_share_pct": 6.6,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0x9f984242236f8ba50dfee9cf9c277d148cc8e77d.json"
-    },
-    {
       "address": "0xf301eeB38F3Fc5fc85847Ad74157755B2aad32bA",
       "symbol": "PRAADICT",
       "status": "ok",
@@ -2560,14 +2518,14 @@
       "address": "0xa15c32524B99F6134A61cBE8F2b60b471841CE07",
       "symbol": "PRBS",
       "status": "ok",
-      "organic_share_pct": 9.2,
+      "organic_share_pct": 9.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xa15c32524b99f6134a61cbe8f2b60b471841ce07.json"
     },
     {
       "address": "0x272e249e2f2ec4f6BE5bC936c5000b65F309Dd22",
       "symbol": "primus",
       "status": "ok",
-      "organic_share_pct": 4.9,
+      "organic_share_pct": 5.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x272e249e2f2ec4f6be5bc936c5000b65f309dd22.json"
     },
     {
@@ -2679,7 +2637,7 @@
       "address": "0x9eB07F6Fff5d97ea90e733d3731Ae64BaBFfDc29",
       "symbol": "RING",
       "status": "ok",
-      "organic_share_pct": 12.8,
+      "organic_share_pct": 28.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x9eb07f6fff5d97ea90e733d3731ae64babffdc29.json"
     },
     {
@@ -2760,13 +2718,6 @@
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x0b8e741321d801f4135cfb2a7aee16a805a16d29.json"
     },
     {
-      "address": "0xA6af6AeC6b5BCc032546F6a051A679c6ce4dF8De",
-      "symbol": "SIGNAL",
-      "status": "ok",
-      "organic_share_pct": 3.4,
-      "url": "https://elysium-headcount.vercel.app/data/tokens/0xa6af6aec6b5bcc032546f6a051a679c6ce4df8de.json"
-    },
-    {
       "address": "0xCBbA6A12B2b4044849d36C3e39c92c13bc903a75",
       "symbol": "Siomay",
       "status": "ok",
@@ -2791,7 +2742,7 @@
       "address": "0xe5aE27b11c90f4C9b072805e8e5d2298432d69C8",
       "symbol": "SLIVE",
       "status": "ok",
-      "organic_share_pct": 42.8,
+      "organic_share_pct": 43.7,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xe5ae27b11c90f4c9b072805e8e5d2298432d69c8.json"
     },
     {
@@ -2910,7 +2861,7 @@
       "address": "0x4c6F7543BF9094f7a6f9958F2E7e60F7f256BA02",
       "symbol": "STIO_BIGGY",
       "status": "ok",
-      "organic_share_pct": 0.2,
+      "organic_share_pct": 0.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x4c6f7543bf9094f7a6f9958f2e7e60f7f256ba02.json"
     },
     {
@@ -2959,7 +2910,7 @@
       "address": "0xaAA8Ab38039e8bf4548A16656193C1f7c196dF3B",
       "symbol": "Sunny",
       "status": "ok",
-      "organic_share_pct": 4.0,
+      "organic_share_pct": 4.2,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xaaa8ab38039e8bf4548a16656193c1f7c196df3b.json"
     },
     {
@@ -2973,14 +2924,14 @@
       "address": "0x370cB0386B72c84D7314644982D3A76F9ee39732",
       "symbol": "SW",
       "status": "ok",
-      "organic_share_pct": 6.8,
+      "organic_share_pct": 7.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x370cb0386b72c84d7314644982d3a76f9ee39732.json"
     },
     {
       "address": "0x4554B4D6d517894783aA118739A0E64DEa563Cd3",
       "symbol": "SWEEB",
       "status": "ok",
-      "organic_share_pct": 7.1,
+      "organic_share_pct": 10.1,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x4554b4d6d517894783aa118739a0e64dea563cd3.json"
     },
     {
@@ -3015,7 +2966,7 @@
       "address": "0x070e5406D24eA5df4517FAF6c61469ff2CA676f1",
       "symbol": "TCK",
       "status": "ok",
-      "organic_share_pct": 22.1,
+      "organic_share_pct": 23.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x070e5406d24ea5df4517faf6c61469ff2ca676f1.json"
     },
     {
@@ -3043,7 +2994,7 @@
       "address": "0x4edBAE1A9F21Dab3a1d402Ee1C9B402Cc44a012b",
       "symbol": "TFLAME",
       "status": "ok",
-      "organic_share_pct": 3.4,
+      "organic_share_pct": 4.3,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x4edbae1a9f21dab3a1d402ee1c9b402cc44a012b.json"
     },
     {
@@ -3071,7 +3022,7 @@
       "address": "0xA75BeEB2Cc2aE14522dA3BfAb29B9C976F405549",
       "symbol": "TJEA",
       "status": "ok",
-      "organic_share_pct": 0.4,
+      "organic_share_pct": 0.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0xa75beeb2cc2ae14522da3bfab29b9c976f405549.json"
     },
     {
@@ -3106,21 +3057,21 @@
       "address": "0x9DD317bC3482f097c2c1f6aE95D2b655d6Dd87c1",
       "symbol": "TOTEM",
       "status": "ok",
-      "organic_share_pct": 3.9,
+      "organic_share_pct": 5.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x9dd317bc3482f097c2c1f6ae95d2b655d6dd87c1.json"
     },
     {
       "address": "0x48EC4b75857Fe42f5E39335e46Aa4db29E017D9F",
       "symbol": "TPHT",
       "status": "ok",
-      "organic_share_pct": 3.8,
+      "organic_share_pct": 5.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x48ec4b75857fe42f5e39335e46aa4db29e017d9f.json"
     },
     {
       "address": "0x3724d4d48336ed56B5829902d56cB00da478E877",
       "symbol": "TRA",
       "status": "ok",
-      "organic_share_pct": 30.0,
+      "organic_share_pct": 31.6,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x3724d4d48336ed56b5829902d56cb00da478e877.json"
     },
     {
@@ -3232,7 +3183,7 @@
       "address": "0x09255A10a775E50D6daF3EdCA934007e8A530937",
       "symbol": "VISA",
       "status": "ok",
-      "organic_share_pct": 0.6,
+      "organic_share_pct": 0.8,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x09255a10a775e50d6daf3edca934007e8a530937.json"
     },
     {
@@ -3309,7 +3260,7 @@
       "address": "0x2D1CAFA3751cAAe3F5a08878D921bD1636cDf9DA",
       "symbol": "wut",
       "status": "ok",
-      "organic_share_pct": 39.4,
+      "organic_share_pct": 41.0,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x2d1cafa3751caae3f5a08878d921bd1636cdf9da.json"
     },
     {
@@ -3330,7 +3281,7 @@
       "address": "0x0105b17e633440a5d3a0EBD52857B48a82aF8323",
       "symbol": "XFLOW",
       "status": "ok",
-      "organic_share_pct": 1.4,
+      "organic_share_pct": 1.5,
       "url": "https://elysium-headcount.vercel.app/data/tokens/0x0105b17e633440a5d3a0ebd52857b48a82af8323.json"
     },
     {

@@ -2,7 +2,7 @@
   "address": "0x272bfB4039f38c1F96C2458DAc02933Bc377a1a1",
   "symbol": "SpaceX",
   "name": "SpaceX",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 4.5,
+      "organic_holders": 7,
+      "reported_holders": 157
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 4.5,
       "organic_holders": 7,
       "reported_holders": 157

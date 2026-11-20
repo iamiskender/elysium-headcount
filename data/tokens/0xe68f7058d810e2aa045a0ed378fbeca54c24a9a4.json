@@ -2,7 +2,7 @@
   "address": "0xe68F7058d810e2AA045a0Ed378FBeca54c24a9a4",
   "symbol": "aori",
   "name": "aori",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 153
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 3.3,
       "organic_holders": 5,
       "reported_holders": 153

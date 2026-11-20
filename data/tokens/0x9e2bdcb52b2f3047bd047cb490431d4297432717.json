@@ -2,7 +2,7 @@
   "address": "0x9e2Bdcb52b2F3047BD047Cb490431D4297432717",
   "symbol": "CATE",
   "name": "CATE COIN",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 433,
     "clone_wallets": 403,
     "largest_cluster": 156,
-    "cross_token_wallets": 316,
-    "est_organic": 26,
-    "quality_pct": 6.0,
+    "cross_token_wallets": 310,
+    "est_organic": 27,
+    "quality_pct": 6.2,
     "pool_share_pct": 92.9,
     "top_eoa_share_pct": 6.7,
     "pool_buys_seen": 951,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2987.63,
+    "market_cap_usd": 2779.18,
     "holders_fetched": 434,
     "transfers_fetched": 954
   },
@@ -59,6 +59,12 @@
       "date": "2026-11-19",
       "organic_share_pct": 6.0,
       "organic_holders": 26,
+      "reported_holders": 434
+    },
+    {
+      "date": "2026-11-20",
+      "organic_share_pct": 6.2,
+      "organic_holders": 27,
       "reported_holders": 434
     }
   ],

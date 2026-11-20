@@ -2,7 +2,7 @@
   "address": "0xae551bb1107Dc4F4a214C7aB282e7e90F97aB3EA",
   "symbol": "nico",
   "name": "nico",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 5.9,
+      "organic_holders": 9,
+      "reported_holders": 154
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 5.9,
       "organic_holders": 9,
       "reported_holders": 154

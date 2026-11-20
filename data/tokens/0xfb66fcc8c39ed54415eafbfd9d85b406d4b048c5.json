@@ -2,7 +2,7 @@
   "address": "0xFB66Fcc8c39Ed54415eAFBFD9d85B406D4b048c5",
   "symbol": "DarkFi",
   "name": "DarkFi",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5919.13,
+    "market_cap_usd": 5506.15,
     "holders_fetched": 986,
     "transfers_fetched": 997
   },
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 2.1,
+      "organic_holders": 21,
+      "reported_holders": 986
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 2.1,
       "organic_holders": 21,
       "reported_holders": 986

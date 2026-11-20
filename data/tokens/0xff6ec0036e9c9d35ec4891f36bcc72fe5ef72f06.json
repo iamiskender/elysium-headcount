@@ -2,7 +2,7 @@
   "address": "0xff6EC0036e9C9D35eC4891F36bcC72Fe5Ef72F06",
   "symbol": "CATINU",
   "name": "CAT INU",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3289.88,
+    "market_cap_usd": 3060.34,
     "holders_fetched": 824,
     "transfers_fetched": 832
   },
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 0.7,
+      "organic_holders": 6,
+      "reported_holders": 824
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 0.7,
       "organic_holders": 6,
       "reported_holders": 824

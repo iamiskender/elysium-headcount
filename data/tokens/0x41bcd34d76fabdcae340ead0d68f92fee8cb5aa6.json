@@ -2,7 +2,7 @@
   "address": "0x41Bcd34D76faBdcae340eaD0D68f92Fee8CB5aa6",
   "symbol": "Sauce",
   "name": "Sauce Labs",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 3.2,
+      "organic_holders": 5,
+      "reported_holders": 156
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 3.2,
       "organic_holders": 5,
       "reported_holders": 156

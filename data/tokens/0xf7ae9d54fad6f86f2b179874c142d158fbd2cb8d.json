@@ -2,11 +2,11 @@
   "address": "0xF7aE9d54fAd6F86F2b179874c142D158FBD2cB8d",
   "symbol": "SUICA",
   "name": "SUICA RABBIT",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-20T17:30:08.964817+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
-    "family_size": 7,
+    "family_size": 6,
     "symbol": "SUICA",
     "name": "SUICA RABBIT",
     "address": "0xF7aE9d54fAd6F86F2b179874c142D158FBD2cB8d",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3158.38,
+    "market_cap_usd": 2938.01,
     "holders_fetched": 1693,
     "transfers_fetched": 2000
   },
@@ -57,6 +57,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 0.3,
+      "organic_holders": 5,
+      "reported_holders": 1693
+    },
+    {
+      "date": "2026-11-20",
       "organic_share_pct": 0.3,
       "organic_holders": 5,
       "reported_holders": 1693
