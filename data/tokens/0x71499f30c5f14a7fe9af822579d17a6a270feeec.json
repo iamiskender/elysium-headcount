@@ -1,0 +1,43 @@
+{
+  "address": "0x71499F30C5f14A7FE9aF822579d17A6a270FeEeC",
+  "symbol": "APUX",
+  "name": "APUX",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "",
+    "family_size": 1,
+    "symbol": "APUX",
+    "name": "APUX",
+    "address": "0x71499F30C5f14A7FE9aF822579d17A6a270FeEeC",
+    "raw_holders": 329,
+    "eoa_holders": 328,
+    "clone_wallets": 299,
+    "largest_cluster": 162,
+    "cross_token_wallets": 303,
+    "est_organic": 25,
+    "quality_pct": 7.6,
+    "pool_share_pct": 94.6,
+    "top_eoa_share_pct": 5.0,
+    "pool_buys_seen": 334,
+    "burst_6h_pct": 48.5,
+    "ladder_pct": 16.2,
+    "buy_only_pct": 99.4,
+    "farm_sample_pct": 0.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2458.83,
+    "holders_fetched": 329,
+    "transfers_fetched": 341
+  },
+  "history": [
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 7.6,
+      "organic_holders": 25,
+      "reported_holders": 329
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

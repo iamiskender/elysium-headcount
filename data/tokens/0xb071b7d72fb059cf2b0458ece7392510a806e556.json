@@ -2,11 +2,11 @@
   "address": "0xb071B7d72Fb059CF2B0458EcE7392510A806e556",
   "symbol": "CEO",
   "name": "CEO",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 23,
+    "family": "F2",
+    "family_size": 27,
     "symbol": "CEO",
     "name": "CEO",
     "address": "0xb071B7d72Fb059CF2B0458EcE7392510A806e556",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4674.6,
+    "market_cap_usd": 4280.79,
     "holders_fetched": 1235,
     "transfers_fetched": 2000
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.5,
+      "organic_holders": 19,
+      "reported_holders": 1235
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.5,
       "organic_holders": 19,
       "reported_holders": 1235

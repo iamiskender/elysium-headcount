@@ -2,11 +2,11 @@
   "address": "0xcBFE40Badd9472761eBC5FB5b230C5c56E2aC84c",
   "symbol": "GVT",
   "name": "girlvn2006",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 25,
+    "family": "F3",
+    "family_size": 26,
     "symbol": "GVT",
     "name": "girlvn2006",
     "address": "0xcBFE40Badd9472761eBC5FB5b230C5c56E2aC84c",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4405.31,
+    "market_cap_usd": 4034.18,
     "holders_fetched": 1260,
     "transfers_fetched": 2000
   },
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 0.9,
+      "organic_holders": 11,
+      "reported_holders": 1260
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 0.9,
       "organic_holders": 11,
       "reported_holders": 1260

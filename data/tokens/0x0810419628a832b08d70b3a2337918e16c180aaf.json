@@ -2,11 +2,11 @@
   "address": "0x0810419628A832B08D70B3a2337918E16C180Aaf",
   "symbol": "GAGA",
   "name": "GAGA BULLISH COIN",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 25,
+    "family": "F3",
+    "family_size": 26,
     "symbol": "GAGA",
     "name": "GAGA BULLISH COIN",
     "address": "0x0810419628A832B08D70B3a2337918E16C180Aaf",
@@ -14,8 +14,8 @@
     "eoa_holders": 2010,
     "clone_wallets": 1931,
     "largest_cluster": 640,
-    "cross_token_wallets": 2003,
-    "est_organic": 7,
+    "cross_token_wallets": 2004,
+    "est_organic": 6,
     "quality_pct": 0.3,
     "pool_share_pct": 95.4,
     "top_eoa_share_pct": 0.2,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4444.24,
+    "market_cap_usd": 4069.83,
     "holders_fetched": 2011,
     "transfers_fetched": 2000
   },
@@ -101,6 +101,12 @@
       "date": "2026-11-20",
       "organic_share_pct": 0.3,
       "organic_holders": 7,
+      "reported_holders": 2011
+    },
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 0.3,
+      "organic_holders": 6,
       "reported_holders": 2011
     }
   ],

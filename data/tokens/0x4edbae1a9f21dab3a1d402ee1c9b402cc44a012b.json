@@ -2,7 +2,7 @@
   "address": "0x4edBAE1A9F21Dab3a1d402Ee1C9B402Cc44a012b",
   "symbol": "TFLAME",
   "name": "Test Flame",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -14,9 +14,9 @@
     "eoa_holders": 3267,
     "clone_wallets": 2758,
     "largest_cluster": 673,
-    "cross_token_wallets": 3126,
-    "est_organic": 141,
-    "quality_pct": 4.3,
+    "cross_token_wallets": 3157,
+    "est_organic": 110,
+    "quality_pct": 3.4,
     "pool_share_pct": 37.8,
     "top_eoa_share_pct": 51.6,
     "pool_buys_seen": 1498,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 106442.03,
+    "market_cap_usd": 97474.75,
     "holders_fetched": 3268,
     "transfers_fetched": 2000
   },
@@ -65,6 +65,12 @@
       "date": "2026-11-20",
       "organic_share_pct": 4.3,
       "organic_holders": 141,
+      "reported_holders": 3268
+    },
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 3.4,
+      "organic_holders": 110,
       "reported_holders": 3268
     }
   ],

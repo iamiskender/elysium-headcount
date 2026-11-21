@@ -1,0 +1,43 @@
+{
+  "address": "0xaB1EE2dEd50410988921566C724F957a6B96AEf3",
+  "symbol": "TEST_2727525035",
+  "name": "@test_2727525035",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F2",
+    "family_size": 27,
+    "symbol": "TEST_2727525035",
+    "name": "@test_2727525035",
+    "address": "0xaB1EE2dEd50410988921566C724F957a6B96AEf3",
+    "raw_holders": 1001,
+    "eoa_holders": 1000,
+    "clone_wallets": 477,
+    "largest_cluster": 57,
+    "cross_token_wallets": 997,
+    "est_organic": 3,
+    "quality_pct": 0.3,
+    "pool_share_pct": 12.8,
+    "top_eoa_share_pct": 2.9,
+    "pool_buys_seen": 2000,
+    "burst_6h_pct": 11.3,
+    "ladder_pct": 99.2,
+    "buy_only_pct": 100.0,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 25.76,
+    "holders_fetched": 1001,
+    "transfers_fetched": 2000
+  },
+  "history": [
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 0.3,
+      "organic_holders": 3,
+      "reported_holders": 1001
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

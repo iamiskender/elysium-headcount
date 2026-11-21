@@ -2,7 +2,7 @@
   "address": "0xA4375F8036bc4540962dD2E6b8222CA5C392DFCF",
   "symbol": "SHOMOD",
   "name": "SHOKUMODE",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1626,
     "clone_wallets": 976,
     "largest_cluster": 107,
-    "cross_token_wallets": 1312,
-    "est_organic": 167,
-    "quality_pct": 10.3,
+    "cross_token_wallets": 1317,
+    "est_organic": 163,
+    "quality_pct": 10.0,
     "pool_share_pct": 66.8,
     "top_eoa_share_pct": 25.4,
     "pool_buys_seen": 1809,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8338.58,
+    "market_cap_usd": 7636.1,
     "holders_fetched": 1628,
     "transfers_fetched": 1829
   },
@@ -65,6 +65,12 @@
       "date": "2026-11-20",
       "organic_share_pct": 10.3,
       "organic_holders": 167,
+      "reported_holders": 1628
+    },
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 10.0,
+      "organic_holders": 163,
       "reported_holders": 1628
     }
   ],

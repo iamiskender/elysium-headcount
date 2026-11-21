@@ -2,7 +2,7 @@
   "address": "0x75849689F82162b49359965BE13dBE27Dd5a59f8",
   "symbol": "EACC",
   "name": "hear me out",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 303,
     "clone_wallets": 278,
     "largest_cluster": 144,
-    "cross_token_wallets": 262,
-    "est_organic": 14,
-    "quality_pct": 4.6,
+    "cross_token_wallets": 278,
+    "est_organic": 12,
+    "quality_pct": 4.0,
     "pool_share_pct": 93.3,
     "top_eoa_share_pct": 3.4,
     "pool_buys_seen": 1059,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4878.51,
+    "market_cap_usd": 4467.52,
     "holders_fetched": 304,
     "transfers_fetched": 1572
   },
@@ -65,6 +65,12 @@
       "date": "2026-11-20",
       "organic_share_pct": 4.6,
       "organic_holders": 14,
+      "reported_holders": 304
+    },
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 4.0,
+      "organic_holders": 12,
       "reported_holders": 304
     }
   ],

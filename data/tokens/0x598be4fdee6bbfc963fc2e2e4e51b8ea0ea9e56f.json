@@ -2,7 +2,7 @@
   "address": "0x598be4FDeE6bbFc963fc2e2E4E51B8Ea0ea9E56f",
   "symbol": "MAD",
   "name": "MaD",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1258,
     "clone_wallets": 1132,
     "largest_cluster": 522,
-    "cross_token_wallets": 1085,
-    "est_organic": 97,
-    "quality_pct": 7.7,
+    "cross_token_wallets": 1101,
+    "est_organic": 92,
+    "quality_pct": 7.3,
     "pool_share_pct": 21.0,
     "top_eoa_share_pct": 72.5,
     "pool_buys_seen": 1900,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 51472.23,
+    "market_cap_usd": 47135.91,
     "holders_fetched": 1259,
     "transfers_fetched": 2000
   },
@@ -65,6 +65,12 @@
       "date": "2026-11-20",
       "organic_share_pct": 7.7,
       "organic_holders": 97,
+      "reported_holders": 1259
+    },
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 7.3,
+      "organic_holders": 92,
       "reported_holders": 1259
     }
   ],

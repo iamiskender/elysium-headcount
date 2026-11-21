@@ -2,7 +2,7 @@
   "address": "0xB5ce7c1462cAe20F57E57A6326a46Da18455dE83",
   "symbol": "THINK",
   "name": "Think",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4695.87,
+    "market_cap_usd": 4300.26,
     "holders_fetched": 128,
     "transfers_fetched": 132
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 36.5,
+      "organic_holders": 46,
+      "reported_holders": 128
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 36.5,
       "organic_holders": 46,
       "reported_holders": 128

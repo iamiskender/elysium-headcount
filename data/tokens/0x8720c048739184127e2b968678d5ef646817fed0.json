@@ -2,7 +2,7 @@
   "address": "0x8720c048739184127E2b968678D5eF646817feD0",
   "symbol": "Tucana",
   "name": "Tucana",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 3.3,
       "organic_holders": 5,
       "reported_holders": 152

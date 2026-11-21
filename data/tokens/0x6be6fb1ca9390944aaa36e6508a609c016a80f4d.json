@@ -2,7 +2,7 @@
   "address": "0x6be6fb1ca9390944aAA36e6508A609C016A80F4D",
   "symbol": "GRL",
   "name": "Girl",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 931,
     "clone_wallets": 564,
     "largest_cluster": 70,
-    "cross_token_wallets": 879,
+    "cross_token_wallets": 880,
     "est_organic": 29,
     "quality_pct": 3.1,
     "pool_share_pct": 85.7,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4106.69,
+    "market_cap_usd": 3760.72,
     "holders_fetched": 933,
     "transfers_fetched": 937
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 3.1,
+      "organic_holders": 29,
+      "reported_holders": 933
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 3.1,
       "organic_holders": 29,
       "reported_holders": 933

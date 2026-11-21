@@ -2,7 +2,7 @@
   "address": "0xA0a50B1ac6141320c9b42bDDaA467449e4CC3E30",
   "symbol": "WOLF",
   "name": "WOLFHYPE",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 692,
     "clone_wallets": 665,
     "largest_cluster": 245,
-    "cross_token_wallets": 674,
+    "cross_token_wallets": 675,
     "est_organic": 11,
     "quality_pct": 1.6,
     "pool_share_pct": 93.2,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2763.53,
+    "market_cap_usd": 2530.72,
     "holders_fetched": 693,
     "transfers_fetched": 749
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.6,
+      "organic_holders": 11,
+      "reported_holders": 693
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.6,
       "organic_holders": 11,
       "reported_holders": 693

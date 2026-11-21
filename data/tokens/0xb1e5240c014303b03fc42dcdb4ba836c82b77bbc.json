@@ -2,10 +2,10 @@
   "address": "0xb1e5240C014303b03FC42Dcdb4bA836C82B77BbC",
   "symbol": "HOPE",
   "name": "HOPE",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
-    "family": "F13",
+    "family": "F14",
     "family_size": 2,
     "symbol": "HOPE",
     "name": "HOPE",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 66.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 9925.18,
+    "market_cap_usd": 9089.02,
     "holders_fetched": 422,
     "transfers_fetched": 879
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.2,
+      "organic_holders": 5,
+      "reported_holders": 422
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.2,
       "organic_holders": 5,
       "reported_holders": 422

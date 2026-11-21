@@ -2,7 +2,7 @@
   "address": "0x1C3782D56Cd3DF5B69158c92021C4F9B94711c32",
   "symbol": "$DRB",
   "name": "DRUNKBUNNY",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 607,
     "clone_wallets": 575,
     "largest_cluster": 106,
-    "cross_token_wallets": 591,
+    "cross_token_wallets": 594,
     "est_organic": 11,
     "quality_pct": 1.8,
     "pool_share_pct": 42.8,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 13096.14,
+    "market_cap_usd": 11992.85,
     "holders_fetched": 608,
     "transfers_fetched": 624
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.8,
+      "organic_holders": 11,
+      "reported_holders": 608
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.8,
       "organic_holders": 11,
       "reported_holders": 608

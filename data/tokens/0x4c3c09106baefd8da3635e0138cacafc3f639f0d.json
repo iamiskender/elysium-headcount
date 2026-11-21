@@ -2,7 +2,7 @@
   "address": "0x4C3C09106baEfD8Da3635e0138CaCaFC3F639f0D",
   "symbol": "eacc",
   "name": "e/acc",
-  "snapshot": "2026-11-19T17:23:08.005092+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 472,
     "clone_wallets": 433,
     "largest_cluster": 176,
-    "cross_token_wallets": 357,
+    "cross_token_wallets": 363,
     "est_organic": 34,
     "quality_pct": 7.2,
     "pool_share_pct": 94.3,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2898.78,
+    "market_cap_usd": 2469.36,
     "holders_fetched": 473,
     "transfers_fetched": 1586
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-19",
+      "organic_share_pct": 7.2,
+      "organic_holders": 34,
+      "reported_holders": 473
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 7.2,
       "organic_holders": 34,
       "reported_holders": 473

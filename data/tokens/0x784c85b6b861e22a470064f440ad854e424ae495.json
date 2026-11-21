@@ -2,7 +2,7 @@
   "address": "0x784C85b6b861E22A470064F440Ad854e424Ae495",
   "symbol": "Argo",
   "name": "Elysian Argo",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 1146,
     "clone_wallets": 1128,
     "largest_cluster": 322,
-    "cross_token_wallets": 1116,
+    "cross_token_wallets": 1120,
     "est_organic": 16,
     "quality_pct": 1.4,
     "pool_share_pct": 24.4,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 40437.82,
+    "market_cap_usd": 37031.1,
     "holders_fetched": 1147,
     "transfers_fetched": 1160
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.4,
+      "organic_holders": 16,
+      "reported_holders": 1147
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.4,
       "organic_holders": 16,
       "reported_holders": 1147

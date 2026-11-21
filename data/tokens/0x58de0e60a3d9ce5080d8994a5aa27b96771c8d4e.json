@@ -2,7 +2,7 @@
   "address": "0x58DE0e60a3d9ce5080D8994a5Aa27b96771C8D4e",
   "symbol": "bunnyhood",
   "name": "Bunny  Hood",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 711,
     "clone_wallets": 679,
     "largest_cluster": 263,
-    "cross_token_wallets": 672,
+    "cross_token_wallets": 674,
     "est_organic": 29,
     "quality_pct": 4.1,
     "pool_share_pct": 90.6,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2926.99,
+    "market_cap_usd": 2680.4,
     "holders_fetched": 712,
     "transfers_fetched": 754
   },
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 4.1,
+      "organic_holders": 29,
+      "reported_holders": 712
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 4.1,
       "organic_holders": 29,
       "reported_holders": 712

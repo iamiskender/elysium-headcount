@@ -1,0 +1,43 @@
+{
+  "address": "0x35864179A647E32865c4FB2647dE95D1F57FA4C3",
+  "symbol": "F1X3834",
+  "name": "Farmer F1 F1X3834",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "latest": {
+    "status": "ok",
+    "family": "F9",
+    "family_size": 5,
+    "symbol": "F1X3834",
+    "name": "Farmer F1 F1X3834",
+    "address": "0x35864179A647E32865c4FB2647dE95D1F57FA4C3",
+    "raw_holders": 308,
+    "eoa_holders": 306,
+    "clone_wallets": 279,
+    "largest_cluster": 68,
+    "cross_token_wallets": 295,
+    "est_organic": 10,
+    "quality_pct": 3.3,
+    "pool_share_pct": 95.1,
+    "top_eoa_share_pct": 0.6,
+    "pool_buys_seen": 845,
+    "burst_6h_pct": 19.1,
+    "ladder_pct": 99.1,
+    "buy_only_pct": 99.7,
+    "farm_sample_pct": 100.0,
+    "farm_sample_n": 15,
+    "volume_24h_usd": 0.0,
+    "market_cap_usd": 2948.12,
+    "holders_fetched": 308,
+    "transfers_fetched": 848
+  },
+  "history": [
+    {
+      "date": "2026-11-21",
+      "organic_share_pct": 3.3,
+      "organic_holders": 10,
+      "reported_holders": 308
+    }
+  ],
+  "method": "https://elysium-headcount.vercel.app/#m-h",
+  "note": "Estimates from public testnet data. Flags describe on-chain patterns, not identity or intent."
+}

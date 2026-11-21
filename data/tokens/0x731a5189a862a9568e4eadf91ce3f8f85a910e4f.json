@@ -2,7 +2,7 @@
   "address": "0x731a5189A862a9568e4eAdf91CE3f8F85a910e4F",
   "symbol": "TSLAx",
   "name": "Tesla",
-  "snapshot": "2026-11-20T17:30:08.964817+00:00",
+  "snapshot": "2026-11-21T16:57:31.796205+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -63,6 +63,12 @@
     },
     {
       "date": "2026-11-20",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 142
+    },
+    {
+      "date": "2026-11-21",
       "organic_share_pct": 1.4,
       "organic_holders": 2,
       "reported_holders": 142
