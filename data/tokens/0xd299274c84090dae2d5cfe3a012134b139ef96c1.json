@@ -2,7 +2,7 @@
   "address": "0xd299274c84090DAE2D5cfE3a012134b139Ef96C1",
   "symbol": "PRAYCAT",
   "name": "Pray Cat",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": null,
     "farm_sample_n": 0,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3830.05,
+    "market_cap_usd": 4075.25,
     "holders_fetched": 172,
     "transfers_fetched": 174
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 68.8,
+      "organic_holders": 117,
+      "reported_holders": 172
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 68.8,
       "organic_holders": 117,
       "reported_holders": 172

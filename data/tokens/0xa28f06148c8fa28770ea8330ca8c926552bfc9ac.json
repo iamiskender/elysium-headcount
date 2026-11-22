@@ -2,7 +2,7 @@
   "address": "0xA28F06148C8fA28770Ea8330cA8c926552bfC9ac",
   "symbol": "dacosta",
   "name": "da costa",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 435,
     "clone_wallets": 400,
     "largest_cluster": 156,
-    "cross_token_wallets": 328,
+    "cross_token_wallets": 304,
     "est_organic": 29,
     "quality_pct": 6.7,
     "pool_share_pct": 93.1,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2537.18,
+    "market_cap_usd": 2699.62,
     "holders_fetched": 436,
     "transfers_fetched": 1099
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 6.7,
+      "organic_holders": 29,
+      "reported_holders": 436
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 6.7,
       "organic_holders": 29,
       "reported_holders": 436

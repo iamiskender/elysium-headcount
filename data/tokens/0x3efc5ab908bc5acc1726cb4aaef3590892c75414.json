@@ -2,11 +2,11 @@
   "address": "0x3EFc5Ab908Bc5ACC1726CB4AAef3590892c75414",
   "symbol": "Bunny",
   "name": "Inkbunny",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
-    "family_size": 7,
+    "family_size": 6,
     "symbol": "Bunny",
     "name": "Inkbunny",
     "address": "0x3EFc5Ab908Bc5ACC1726CB4AAef3590892c75414",
@@ -14,7 +14,7 @@
     "eoa_holders": 1826,
     "clone_wallets": 1792,
     "largest_cluster": 1488,
-    "cross_token_wallets": 1810,
+    "cross_token_wallets": 1809,
     "est_organic": 14,
     "quality_pct": 0.8,
     "pool_share_pct": 84.9,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3050.9,
+    "market_cap_usd": 3246.22,
     "holders_fetched": 1827,
     "transfers_fetched": 2000
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 0.8,
+      "organic_holders": 14,
+      "reported_holders": 1827
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 0.8,
       "organic_holders": 14,
       "reported_holders": 1827

@@ -2,11 +2,11 @@
   "address": "0xAB368c5363c2fbc02460301cC70297addf2673c1",
   "symbol": "PURR",
   "name": "PURR",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 26,
+    "family": "F2",
+    "family_size": 24,
     "symbol": "PURR",
     "name": "PURR",
     "address": "0xAB368c5363c2fbc02460301cC70297addf2673c1",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3927.37,
+    "market_cap_usd": 4178.81,
     "holders_fetched": 1249,
     "transfers_fetched": 1322
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 0.2,
+      "organic_holders": 3,
+      "reported_holders": 1249
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 0.2,
       "organic_holders": 3,
       "reported_holders": 1249

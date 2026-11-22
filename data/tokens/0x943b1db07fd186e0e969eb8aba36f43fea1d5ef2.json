@@ -2,7 +2,7 @@
   "address": "0x943B1dB07FD186E0E969eB8AbA36F43Fea1d5ef2",
   "symbol": "tKORA",
   "name": "Kora Testnet Token",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1414,
     "clone_wallets": 1338,
     "largest_cluster": 305,
-    "cross_token_wallets": 1354,
-    "est_organic": 37,
-    "quality_pct": 2.6,
+    "cross_token_wallets": 1349,
+    "est_organic": 38,
+    "quality_pct": 2.7,
     "pool_share_pct": 9.9,
     "top_eoa_share_pct": 59.8,
     "pool_buys_seen": 1446,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 224866.36,
+    "market_cap_usd": 239262.75,
     "holders_fetched": 1415,
     "transfers_fetched": 1476
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 2.6,
       "organic_holders": 37,
+      "reported_holders": 1415
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 2.7,
+      "organic_holders": 38,
       "reported_holders": 1415
     }
   ],

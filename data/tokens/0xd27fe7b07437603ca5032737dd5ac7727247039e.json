@@ -2,10 +2,10 @@
   "address": "0xD27Fe7B07437603CA5032737dD5Ac7727247039E",
   "symbol": "MNC",
   "name": "MNC",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F11",
+    "family": "F10",
     "family_size": 2,
     "symbol": "MNC",
     "name": "MNC",
@@ -14,8 +14,8 @@
     "eoa_holders": 5168,
     "clone_wallets": 3302,
     "largest_cluster": 1210,
-    "cross_token_wallets": 4108,
-    "est_organic": 1014,
+    "cross_token_wallets": 4107,
+    "est_organic": 1015,
     "quality_pct": 19.6,
     "pool_share_pct": 33.3,
     "top_eoa_share_pct": 61.0,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 26.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 136733.96,
+    "market_cap_usd": 145487.94,
     "holders_fetched": 5169,
     "transfers_fetched": 2000
   },
@@ -113,6 +113,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 19.6,
       "organic_holders": 1014,
+      "reported_holders": 5169
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 19.6,
+      "organic_holders": 1015,
       "reported_holders": 5169
     }
   ],

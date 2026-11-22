@@ -2,11 +2,11 @@
   "address": "0x8568D0Cf7f52f9ba214f75cEA23BB688e9Ec3Ecc",
   "symbol": "EM",
   "name": "ElyMfers",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
-    "family_size": 7,
+    "family_size": 6,
     "symbol": "EM",
     "name": "ElyMfers",
     "address": "0x8568D0Cf7f52f9ba214f75cEA23BB688e9Ec3Ecc",
@@ -14,8 +14,8 @@
     "eoa_holders": 1755,
     "clone_wallets": 1684,
     "largest_cluster": 1201,
-    "cross_token_wallets": 1738,
-    "est_organic": 12,
+    "cross_token_wallets": 1737,
+    "est_organic": 13,
     "quality_pct": 0.7,
     "pool_share_pct": 89.2,
     "top_eoa_share_pct": 6.6,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2762.46,
+    "market_cap_usd": 2939.32,
     "holders_fetched": 1756,
     "transfers_fetched": 2000
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 0.7,
       "organic_holders": 12,
+      "reported_holders": 1756
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 0.7,
+      "organic_holders": 13,
       "reported_holders": 1756
     }
   ],

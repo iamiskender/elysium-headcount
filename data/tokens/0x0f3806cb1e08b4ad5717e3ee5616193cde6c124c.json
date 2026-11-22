@@ -2,7 +2,7 @@
   "address": "0x0F3806cb1e08b4ad5717e3ee5616193CDE6c124C",
   "symbol": "mule",
   "name": "dj yk",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 543,
     "clone_wallets": 523,
     "largest_cluster": 246,
-    "cross_token_wallets": 534,
+    "cross_token_wallets": 531,
     "est_organic": 6,
     "quality_pct": 1.1,
     "pool_share_pct": 20.8,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 50930.31,
+    "market_cap_usd": 54190.97,
     "holders_fetched": 544,
     "transfers_fetched": 553
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 1.1,
+      "organic_holders": 6,
+      "reported_holders": 544
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 1.1,
       "organic_holders": 6,
       "reported_holders": 544

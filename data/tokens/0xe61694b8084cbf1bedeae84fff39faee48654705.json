@@ -2,7 +2,7 @@
   "address": "0xe61694B8084cbF1BeDEAE84fff39fAEe48654705",
   "symbol": "SKHYx",
   "name": "SK hynix",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 0.7,
+      "organic_holders": 1,
+      "reported_holders": 142
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 0.7,
       "organic_holders": 1,
       "reported_holders": 142

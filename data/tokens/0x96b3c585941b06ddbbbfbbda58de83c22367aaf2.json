@@ -2,7 +2,7 @@
   "address": "0x96B3c585941B06DdBBbfbbDA58DE83c22367Aaf2",
   "symbol": "VIC",
   "name": "VicButcher",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 786,
     "clone_wallets": 418,
     "largest_cluster": 46,
-    "cross_token_wallets": 627,
-    "est_organic": 106,
-    "quality_pct": 13.5,
+    "cross_token_wallets": 624,
+    "est_organic": 109,
+    "quality_pct": 13.9,
     "pool_share_pct": 21.5,
     "top_eoa_share_pct": 77.7,
     "pool_buys_seen": 949,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6663.76,
+    "market_cap_usd": 7090.39,
     "holders_fetched": 788,
     "transfers_fetched": 952
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 13.5,
       "organic_holders": 106,
+      "reported_holders": 788
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 13.9,
+      "organic_holders": 109,
       "reported_holders": 788
     }
   ],

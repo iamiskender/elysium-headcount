@@ -2,11 +2,11 @@
   "address": "0xb071B7d72Fb059CF2B0458EcE7392510A806e556",
   "symbol": "CEO",
   "name": "CEO",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 27,
+    "family": "F3",
+    "family_size": 22,
     "symbol": "CEO",
     "name": "CEO",
     "address": "0xb071B7d72Fb059CF2B0458EcE7392510A806e556",
@@ -14,9 +14,9 @@
     "eoa_holders": 1233,
     "clone_wallets": 1024,
     "largest_cluster": 146,
-    "cross_token_wallets": 1207,
-    "est_organic": 19,
-    "quality_pct": 1.5,
+    "cross_token_wallets": 1206,
+    "est_organic": 20,
+    "quality_pct": 1.6,
     "pool_share_pct": 18.1,
     "top_eoa_share_pct": 21.2,
     "pool_buys_seen": 2000,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4280.79,
+    "market_cap_usd": 4554.85,
     "holders_fetched": 1235,
     "transfers_fetched": 2000
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 1.5,
       "organic_holders": 19,
+      "reported_holders": 1235
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 1.6,
+      "organic_holders": 20,
       "reported_holders": 1235
     }
   ],

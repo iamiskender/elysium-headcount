@@ -2,7 +2,7 @@
   "address": "0xF08C775CA4A8813719fCC6f774E239E287E45F57",
   "symbol": "Es",
   "name": "Elysiuen",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 534,
     "clone_wallets": 516,
     "largest_cluster": 158,
-    "cross_token_wallets": 516,
+    "cross_token_wallets": 513,
     "est_organic": 2,
     "quality_pct": 0.4,
     "pool_share_pct": 87.3,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2883.02,
+    "market_cap_usd": 3067.6,
     "holders_fetched": 535,
     "transfers_fetched": 545
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 0.4,
+      "organic_holders": 2,
+      "reported_holders": 535
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 0.4,
       "organic_holders": 2,
       "reported_holders": 535

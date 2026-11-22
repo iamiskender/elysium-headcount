@@ -2,7 +2,7 @@
   "address": "0x723b8dFc34B38C022aE49283688415D34aC5D23A",
   "symbol": "TATOS",
   "name": "PAWTATO",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4982.89,
+    "market_cap_usd": 5301.9,
     "holders_fetched": 269,
     "transfers_fetched": 281
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 62.2,
+      "organic_holders": 166,
+      "reported_holders": 269
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 62.2,
       "organic_holders": 166,
       "reported_holders": 269

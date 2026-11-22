@@ -2,7 +2,7 @@
   "address": "0xEf130fcD1F66D4661E835e20e186127B92bC7ad6",
   "symbol": "CHAMELEON",
   "name": "Chameleon",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 203,
     "clone_wallets": 44,
     "largest_cluster": 18,
-    "cross_token_wallets": 56,
-    "est_organic": 125,
-    "quality_pct": 61.6,
+    "cross_token_wallets": 54,
+    "est_organic": 127,
+    "quality_pct": 62.6,
     "pool_share_pct": 91.6,
     "top_eoa_share_pct": 7.8,
     "pool_buys_seen": 341,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4060.3,
+    "market_cap_usd": 4320.24,
     "holders_fetched": 205,
     "transfers_fetched": 343
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 61.6,
       "organic_holders": 125,
+      "reported_holders": 205
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 62.6,
+      "organic_holders": 127,
       "reported_holders": 205
     }
   ],

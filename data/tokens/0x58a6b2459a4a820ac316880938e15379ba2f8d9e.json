@@ -2,10 +2,10 @@
   "address": "0x58A6b2459a4A820AC316880938e15379Ba2f8d9e",
   "symbol": "SIERRA",
   "name": "JAVIER",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F11",
+    "family": "F10",
     "family_size": 2,
     "symbol": "SIERRA",
     "name": "JAVIER",
@@ -14,9 +14,9 @@
     "eoa_holders": 6275,
     "clone_wallets": 4787,
     "largest_cluster": 1748,
-    "cross_token_wallets": 5207,
-    "est_organic": 1017,
-    "quality_pct": 16.2,
+    "cross_token_wallets": 5198,
+    "est_organic": 1026,
+    "quality_pct": 16.4,
     "pool_share_pct": 53.5,
     "top_eoa_share_pct": 39.6,
     "pool_buys_seen": 1419,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 40804.1,
+    "market_cap_usd": 43416.46,
     "holders_fetched": 6276,
     "transfers_fetched": 2000
   },
@@ -83,6 +83,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 16.2,
       "organic_holders": 1017,
+      "reported_holders": 6276
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 16.4,
+      "organic_holders": 1026,
       "reported_holders": 6276
     }
   ],

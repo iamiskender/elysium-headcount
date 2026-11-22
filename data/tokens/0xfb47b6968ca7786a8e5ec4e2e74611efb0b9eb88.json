@@ -2,11 +2,11 @@
   "address": "0xFB47b6968cA7786a8E5ec4E2E74611EfB0B9EB88",
   "symbol": "EHYPE",
   "name": "eHYPE",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 26,
+    "family": "F2",
+    "family_size": 24,
     "symbol": "EHYPE",
     "name": "eHYPE",
     "address": "0xFB47b6968cA7786a8E5ec4E2E74611EfB0B9EB88",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 42784.63,
+    "market_cap_usd": 45523.78,
     "holders_fetched": 1264,
     "transfers_fetched": 1379
   },
@@ -111,6 +111,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 1.1,
+      "organic_holders": 14,
+      "reported_holders": 1264
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 1.1,
       "organic_holders": 14,
       "reported_holders": 1264

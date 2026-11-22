@@ -2,11 +2,11 @@
   "address": "0x6367eeD5F5D247422d9282D5a3865230c18f8888",
   "symbol": "EVRT",
   "name": "Elysium Verified Release Test",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 27,
+    "family": "F3",
+    "family_size": 22,
     "symbol": "EVRT",
     "name": "Elysium Verified Release Test",
     "address": "0x6367eeD5F5D247422d9282D5a3865230c18f8888",
@@ -14,8 +14,8 @@
     "eoa_holders": 2052,
     "clone_wallets": 1230,
     "largest_cluster": 848,
-    "cross_token_wallets": 1979,
-    "est_organic": 41,
+    "cross_token_wallets": 1978,
+    "est_organic": 42,
     "quality_pct": 2.0,
     "pool_share_pct": 81.0,
     "top_eoa_share_pct": 1.9,
@@ -107,6 +107,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 2.0,
       "organic_holders": 41,
+      "reported_holders": 2053
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 2.0,
+      "organic_holders": 42,
       "reported_holders": 2053
     }
   ],

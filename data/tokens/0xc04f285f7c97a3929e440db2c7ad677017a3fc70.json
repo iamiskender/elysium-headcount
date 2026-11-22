@@ -2,7 +2,7 @@
   "address": "0xC04f285F7C97a3929E440dB2c7aD677017A3fC70",
   "symbol": "BOZO",
   "name": "BOZOS",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 2702,
     "clone_wallets": 928,
     "largest_cluster": 209,
-    "cross_token_wallets": 1692,
-    "est_organic": 814,
-    "quality_pct": 30.1,
+    "cross_token_wallets": 1682,
+    "est_organic": 824,
+    "quality_pct": 30.5,
     "pool_share_pct": 6.8,
     "top_eoa_share_pct": 53.1,
     "pool_buys_seen": 1896,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 418443.87,
+    "market_cap_usd": 445233.48,
     "holders_fetched": 2705,
     "transfers_fetched": 2000
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 30.1,
       "organic_holders": 814,
+      "reported_holders": 2705
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 30.5,
+      "organic_holders": 824,
       "reported_holders": 2705
     }
   ],

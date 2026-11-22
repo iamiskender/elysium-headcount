@@ -2,7 +2,7 @@
   "address": "0xf5F33b0Bf839cb84D932dF796d3b955653a46797",
   "symbol": "KPURR",
   "name": "kPurr",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 2135,
     "clone_wallets": 752,
     "largest_cluster": 625,
-    "cross_token_wallets": 1263,
-    "est_organic": 866,
-    "quality_pct": 40.6,
+    "cross_token_wallets": 1223,
+    "est_organic": 906,
+    "quality_pct": 42.4,
     "pool_share_pct": 78.7,
     "top_eoa_share_pct": 0.3,
     "pool_buys_seen": 1996,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 9329.74,
+    "market_cap_usd": 9927.05,
     "holders_fetched": 2136,
     "transfers_fetched": 2000
   },
@@ -83,6 +83,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 40.6,
       "organic_holders": 866,
+      "reported_holders": 2136
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 42.4,
+      "organic_holders": 906,
       "reported_holders": 2136
     }
   ],

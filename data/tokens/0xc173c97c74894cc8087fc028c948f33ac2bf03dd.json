@@ -2,7 +2,7 @@
   "address": "0xc173C97C74894Cc8087fc028c948f33AC2bf03DD",
   "symbol": "DOGE",
   "name": "dogecoin",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5866.22,
+    "market_cap_usd": 6241.79,
     "holders_fetched": 236,
     "transfers_fetched": 2000
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 8.1,
+      "organic_holders": 19,
+      "reported_holders": 236
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 8.1,
       "organic_holders": 19,
       "reported_holders": 236

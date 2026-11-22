@@ -2,7 +2,7 @@
   "address": "0x5146bf948795A6b9780e13709C148dd7784d603C",
   "symbol": "$ORVX",
   "name": "ORVEX",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 311,
     "clone_wallets": 298,
     "largest_cluster": 160,
-    "cross_token_wallets": 295,
+    "cross_token_wallets": 294,
     "est_organic": 13,
     "quality_pct": 4.2,
     "pool_share_pct": 93.9,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2493.57,
+    "market_cap_usd": 2653.21,
     "holders_fetched": 312,
     "transfers_fetched": 370
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 4.2,
+      "organic_holders": 13,
+      "reported_holders": 312
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 4.2,
       "organic_holders": 13,
       "reported_holders": 312

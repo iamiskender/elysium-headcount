@@ -2,7 +2,7 @@
   "address": "0x6a7CF3fFb57AC7450fa90c218b5B16a183104109",
   "symbol": "PUP",
   "name": "MOONPUP",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 2175,
     "clone_wallets": 1800,
     "largest_cluster": 205,
-    "cross_token_wallets": 2126,
-    "est_organic": 17,
-    "quality_pct": 0.8,
+    "cross_token_wallets": 2120,
+    "est_organic": 19,
+    "quality_pct": 0.9,
     "pool_share_pct": 64.7,
     "top_eoa_share_pct": 1.8,
     "pool_buys_seen": 1995,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 40.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5246.66,
+    "market_cap_usd": 5582.56,
     "holders_fetched": 2176,
     "transfers_fetched": 2000
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 0.8,
       "organic_holders": 17,
+      "reported_holders": 2176
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 0.9,
+      "organic_holders": 19,
       "reported_holders": 2176
     }
   ],

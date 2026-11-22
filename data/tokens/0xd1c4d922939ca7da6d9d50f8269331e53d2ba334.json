@@ -2,7 +2,7 @@
   "address": "0xD1c4d922939Ca7dA6d9D50F8269331E53D2Ba334",
   "symbol": "FBYTE",
   "name": "FireByte",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4992.39,
+    "market_cap_usd": 5312.01,
     "holders_fetched": 769,
     "transfers_fetched": 783
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 1.2,
+      "organic_holders": 9,
+      "reported_holders": 769
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 1.2,
       "organic_holders": 9,
       "reported_holders": 769

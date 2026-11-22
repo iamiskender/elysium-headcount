@@ -2,7 +2,7 @@
   "address": "0xFAaFEee83F92aF4dAd491018E515105773dcC1D3",
   "symbol": "BNN",
   "name": "Banana",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1188,
     "clone_wallets": 779,
     "largest_cluster": 77,
-    "cross_token_wallets": 1082,
-    "est_organic": 52,
-    "quality_pct": 4.4,
+    "cross_token_wallets": 1076,
+    "est_organic": 55,
+    "quality_pct": 4.6,
     "pool_share_pct": 67.5,
     "top_eoa_share_pct": 25.8,
     "pool_buys_seen": 1214,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4550.68,
+    "market_cap_usd": 4842.02,
     "holders_fetched": 1190,
     "transfers_fetched": 1218
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 4.4,
       "organic_holders": 52,
+      "reported_holders": 1190
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 4.6,
+      "organic_holders": 55,
       "reported_holders": 1190
     }
   ],

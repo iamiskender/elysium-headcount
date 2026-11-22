@@ -2,7 +2,7 @@
   "address": "0xfF5681eB95bBaCfbB334F80fCDBc31fB59F22332",
   "symbol": "WETH",
   "name": "Wrapped Ether",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,19 +14,19 @@
     "eoa_holders": 2352,
     "clone_wallets": 2273,
     "largest_cluster": 1096,
-    "cross_token_wallets": 1002,
+    "cross_token_wallets": 1001,
     "est_organic": 76,
     "quality_pct": 3.2,
     "pool_share_pct": 83.5,
     "top_eoa_share_pct": 0.1,
-    "pool_buys_seen": 91,
-    "burst_6h_pct": 20.9,
+    "pool_buys_seen": 120,
+    "burst_6h_pct": 15.8,
     "ladder_pct": 0.0,
     "buy_only_pct": 0.0,
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 3.18,
-    "market_cap_usd": 9384.03,
+    "volume_24h_usd": 4.6,
+    "market_cap_usd": 9995.06,
     "holders_fetched": 2360,
     "transfers_fetched": 2000
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 3.2,
+      "organic_holders": 76,
+      "reported_holders": 2360
+    },
+    {
+      "date": "2026-11-22",
       "organic_share_pct": 3.2,
       "organic_holders": 76,
       "reported_holders": 2360

@@ -2,7 +2,7 @@
   "address": "0x821b52c6a1c5494a383491CE6BE98Be9B8C8E96D",
   "symbol": "oMC",
   "name": "OmarLaeCoin",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 631,
     "clone_wallets": 537,
     "largest_cluster": 152,
-    "cross_token_wallets": 491,
-    "est_organic": 55,
-    "quality_pct": 8.7,
+    "cross_token_wallets": 472,
+    "est_organic": 58,
+    "quality_pct": 9.2,
     "pool_share_pct": 89.8,
     "top_eoa_share_pct": 4.2,
     "pool_buys_seen": 1262,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 33.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2721.01,
+    "market_cap_usd": 2895.22,
     "holders_fetched": 632,
     "transfers_fetched": 1350
   },
@@ -71,6 +71,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 8.7,
       "organic_holders": 55,
+      "reported_holders": 632
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 9.2,
+      "organic_holders": 58,
       "reported_holders": 632
     }
   ],

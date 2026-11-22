@@ -2,11 +2,11 @@
   "address": "0x3dE0D16032A1b21Ac42D9032006e68088654616C",
   "symbol": "PHLOW",
   "name": "Hyperphlow",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 26,
+    "family": "F2",
+    "family_size": 24,
     "symbol": "PHLOW",
     "name": "Hyperphlow",
     "address": "0x3dE0D16032A1b21Ac42D9032006e68088654616C",
@@ -14,9 +14,9 @@
     "eoa_holders": 1257,
     "clone_wallets": 1239,
     "largest_cluster": 1206,
-    "cross_token_wallets": 1252,
-    "est_organic": 5,
-    "quality_pct": 0.4,
+    "cross_token_wallets": 1251,
+    "est_organic": 6,
+    "quality_pct": 0.5,
     "pool_share_pct": 88.1,
     "top_eoa_share_pct": 10.7,
     "pool_buys_seen": 1271,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6191.22,
+    "market_cap_usd": 6587.59,
     "holders_fetched": 1258,
     "transfers_fetched": 1277
   },
@@ -107,6 +107,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 0.4,
       "organic_holders": 5,
+      "reported_holders": 1258
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 0.5,
+      "organic_holders": 6,
       "reported_holders": 1258
     }
   ],

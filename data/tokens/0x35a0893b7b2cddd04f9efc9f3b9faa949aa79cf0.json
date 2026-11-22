@@ -2,7 +2,7 @@
   "address": "0x35A0893b7B2cDdd04F9eFc9F3B9faa949aA79Cf0",
   "symbol": "FEO",
   "name": "ELFEO",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-22T17:08:09.554800+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 3887,
     "clone_wallets": 2071,
     "largest_cluster": 761,
-    "cross_token_wallets": 2934,
-    "est_organic": 946,
-    "quality_pct": 24.3,
+    "cross_token_wallets": 2883,
+    "est_organic": 996,
+    "quality_pct": 25.6,
     "pool_share_pct": 68.0,
     "top_eoa_share_pct": 17.0,
     "pool_buys_seen": 1246,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 17083.72,
+    "market_cap_usd": 18177.45,
     "holders_fetched": 3888,
     "transfers_fetched": 2000
   },
@@ -83,6 +83,12 @@
       "date": "2026-11-21",
       "organic_share_pct": 24.3,
       "organic_holders": 946,
+      "reported_holders": 3888
+    },
+    {
+      "date": "2026-11-22",
+      "organic_share_pct": 25.6,
+      "organic_holders": 996,
       "reported_holders": 3888
     }
   ],
