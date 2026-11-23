@@ -2,11 +2,11 @@
   "address": "0xE37c75b2FCFfF1d3Ac963552A556e6B78B6D5137",
   "symbol": "VON_HL",
   "name": "@von_hl",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 22,
+    "family": "F2",
+    "family_size": 27,
     "symbol": "VON_HL",
     "name": "@von_hl",
     "address": "0xE37c75b2FCFfF1d3Ac963552A556e6B78B6D5137",
@@ -14,9 +14,9 @@
     "eoa_holders": 1002,
     "clone_wallets": 691,
     "largest_cluster": 68,
-    "cross_token_wallets": 995,
-    "est_organic": 7,
-    "quality_pct": 0.7,
+    "cross_token_wallets": 996,
+    "est_organic": 6,
+    "quality_pct": 0.6,
     "pool_share_pct": 79.3,
     "top_eoa_share_pct": 10.6,
     "pool_buys_seen": 1999,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 66.56,
+    "market_cap_usd": 67.76,
     "holders_fetched": 1004,
     "transfers_fetched": 2000
   },
@@ -77,6 +77,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 0.7,
       "organic_holders": 7,
+      "reported_holders": 1004
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 0.6,
+      "organic_holders": 6,
       "reported_holders": 1004
     }
   ],

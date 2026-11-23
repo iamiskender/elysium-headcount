@@ -2,11 +2,11 @@
   "address": "0x7C2577824F92d518c130723A181C711e70eE8Fc0",
   "symbol": "LEGENDES",
   "name": "Legends of Atlas",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
-    "family": "F2",
-    "family_size": 24,
+    "family": "F3",
+    "family_size": 26,
     "symbol": "LEGENDES",
     "name": "Legends of Atlas",
     "address": "0x7C2577824F92d518c130723A181C711e70eE8Fc0",
@@ -14,9 +14,9 @@
     "eoa_holders": 1257,
     "clone_wallets": 1238,
     "largest_cluster": 1183,
-    "cross_token_wallets": 1250,
-    "est_organic": 7,
-    "quality_pct": 0.6,
+    "cross_token_wallets": 1251,
+    "est_organic": 6,
+    "quality_pct": 0.5,
     "pool_share_pct": 78.5,
     "top_eoa_share_pct": 14.8,
     "pool_buys_seen": 1392,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 10047.03,
+    "market_cap_usd": 10238.89,
     "holders_fetched": 1258,
     "transfers_fetched": 1399
   },
@@ -119,6 +119,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 0.6,
       "organic_holders": 7,
+      "reported_holders": 1258
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 0.5,
+      "organic_holders": 6,
       "reported_holders": 1258
     }
   ],

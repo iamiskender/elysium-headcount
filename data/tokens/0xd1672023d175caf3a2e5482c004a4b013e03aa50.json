@@ -2,7 +2,7 @@
   "address": "0xD1672023D175CAf3a2E5482c004a4b013e03aA50",
   "symbol": "BLOB",
   "name": "BlobElysium",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3331.76,
+    "market_cap_usd": 3392.03,
     "holders_fetched": 134,
     "transfers_fetched": 160
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 12.8,
+      "organic_holders": 17,
+      "reported_holders": 134
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 12.8,
       "organic_holders": 17,
       "reported_holders": 134

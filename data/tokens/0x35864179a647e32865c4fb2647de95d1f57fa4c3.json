@@ -2,7 +2,7 @@
   "address": "0x35864179A647E32865c4FB2647dE95D1F57FA4C3",
   "symbol": "F1X3834",
   "name": "Farmer F1 F1X3834",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
@@ -33,6 +33,12 @@
   "history": [
     {
       "date": "2026-11-21",
+      "organic_share_pct": 3.3,
+      "organic_holders": 10,
+      "reported_holders": 308
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 3.3,
       "organic_holders": 10,
       "reported_holders": 308

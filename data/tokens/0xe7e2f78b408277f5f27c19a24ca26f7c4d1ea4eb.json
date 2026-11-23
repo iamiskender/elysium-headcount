@@ -2,10 +2,10 @@
   "address": "0xE7e2F78B408277f5F27C19A24ca26F7c4d1ea4eb",
   "symbol": "hgelo",
   "name": "Hyip GelO",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
-    "family": "F12",
+    "family": "F14",
     "family_size": 2,
     "symbol": "hgelo",
     "name": "Hyip GelO",
@@ -14,7 +14,7 @@
     "eoa_holders": 1007,
     "clone_wallets": 1003,
     "largest_cluster": 1003,
-    "cross_token_wallets": 354,
+    "cross_token_wallets": 355,
     "est_organic": 2,
     "quality_pct": 0.2,
     "pool_share_pct": 86.1,
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 0.2,
+      "organic_holders": 2,
+      "reported_holders": 1008
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 0.2,
       "organic_holders": 2,
       "reported_holders": 1008

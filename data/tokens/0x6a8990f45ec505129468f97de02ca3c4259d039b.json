@@ -2,7 +2,7 @@
   "address": "0x6A8990f45EC505129468f97De02cA3C4259d039B",
   "symbol": "NEMO",
   "name": "Nemo",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 2190,
     "clone_wallets": 831,
     "largest_cluster": 561,
-    "cross_token_wallets": 1278,
-    "est_organic": 901,
-    "quality_pct": 41.1,
+    "cross_token_wallets": 1281,
+    "est_organic": 898,
+    "quality_pct": 41.0,
     "pool_share_pct": 73.0,
     "top_eoa_share_pct": 18.7,
     "pool_buys_seen": 1239,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 13401.32,
+    "market_cap_usd": 13657.23,
     "holders_fetched": 2191,
     "transfers_fetched": 2000
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 41.1,
       "organic_holders": 901,
+      "reported_holders": 2191
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 41.0,
+      "organic_holders": 898,
       "reported_holders": 2191
     }
   ],

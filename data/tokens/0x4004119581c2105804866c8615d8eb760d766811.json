@@ -2,7 +2,7 @@
   "address": "0x4004119581c2105804866C8615d8eb760D766811",
   "symbol": "DRIP",
   "name": "HyperDrip",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 416,
     "clone_wallets": 407,
     "largest_cluster": 205,
-    "cross_token_wallets": 402,
+    "cross_token_wallets": 405,
     "est_organic": 8,
     "quality_pct": 1.9,
     "pool_share_pct": 85.6,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3189.05,
+    "market_cap_usd": 3246.74,
     "holders_fetched": 417,
     "transfers_fetched": 418
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 1.9,
+      "organic_holders": 8,
+      "reported_holders": 417
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 1.9,
       "organic_holders": 8,
       "reported_holders": 417

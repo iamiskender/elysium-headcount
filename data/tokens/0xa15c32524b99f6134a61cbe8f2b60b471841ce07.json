@@ -2,7 +2,7 @@
   "address": "0xa15c32524B99F6134A61cBE8F2b60b471841CE07",
   "symbol": "PRBS",
   "name": "Prueba Bot Signal",
-  "snapshot": "2026-11-21T16:57:31.796205+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3812.32,
+    "market_cap_usd": 4129.77,
     "holders_fetched": 1211,
     "transfers_fetched": 2000
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-21",
+      "organic_share_pct": 9.2,
+      "organic_holders": 111,
+      "reported_holders": 1211
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 9.2,
       "organic_holders": 111,
       "reported_holders": 1211

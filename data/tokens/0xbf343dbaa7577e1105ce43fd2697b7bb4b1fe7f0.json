@@ -2,7 +2,7 @@
   "address": "0xBF343DbAA7577e1105Ce43Fd2697B7BB4b1fe7F0",
   "symbol": "$CRZR",
   "name": "ttth",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 840,
     "clone_wallets": 832,
     "largest_cluster": 228,
-    "cross_token_wallets": 817,
+    "cross_token_wallets": 821,
     "est_organic": 5,
     "quality_pct": 0.6,
     "pool_share_pct": 61.4,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6206.34,
+    "market_cap_usd": 6324.86,
     "holders_fetched": 841,
     "transfers_fetched": 853
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 0.6,
+      "organic_holders": 5,
+      "reported_holders": 841
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 0.6,
       "organic_holders": 5,
       "reported_holders": 841

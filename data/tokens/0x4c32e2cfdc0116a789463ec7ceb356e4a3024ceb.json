@@ -2,7 +2,7 @@
   "address": "0x4C32E2cfdC0116A789463EC7cEB356E4A3024CeB",
   "symbol": "Minity",
   "name": "Minity",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 5.2,
+      "organic_holders": 8,
+      "reported_holders": 155
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 5.2,
       "organic_holders": 8,
       "reported_holders": 155

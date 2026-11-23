@@ -2,11 +2,11 @@
   "address": "0x82C8d39B7841f8d4db270d243Ed90d48DD958888",
   "symbol": "KM",
   "name": "Kinetiq Morning",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 22,
+    "family": "F2",
+    "family_size": 27,
     "symbol": "KM",
     "name": "Kinetiq Morning",
     "address": "0x82C8d39B7841f8d4db270d243Ed90d48DD958888",
@@ -14,8 +14,8 @@
     "eoa_holders": 2024,
     "clone_wallets": 1611,
     "largest_cluster": 821,
-    "cross_token_wallets": 1968,
-    "est_organic": 43,
+    "cross_token_wallets": 1969,
+    "est_organic": 42,
     "quality_pct": 2.1,
     "pool_share_pct": 76.0,
     "top_eoa_share_pct": 9.7,
@@ -113,6 +113,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 2.1,
       "organic_holders": 43,
+      "reported_holders": 2025
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 2.1,
+      "organic_holders": 42,
       "reported_holders": 2025
     }
   ],

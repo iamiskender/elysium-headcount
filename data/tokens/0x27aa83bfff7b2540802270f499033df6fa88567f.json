@@ -2,7 +2,7 @@
   "address": "0x27Aa83bfFF7B2540802270F499033dF6fa88567F",
   "symbol": "ICH",
   "name": "Ichihype",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 2904,
     "clone_wallets": 1118,
     "largest_cluster": 478,
-    "cross_token_wallets": 1789,
-    "est_organic": 1102,
-    "quality_pct": 37.9,
+    "cross_token_wallets": 1846,
+    "est_organic": 1045,
+    "quality_pct": 36.0,
     "pool_share_pct": 85.6,
     "top_eoa_share_pct": 1.7,
     "pool_buys_seen": 1192,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 7293.79,
+    "market_cap_usd": 7433.08,
     "holders_fetched": 2905,
     "transfers_fetched": 2000
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 37.9,
       "organic_holders": 1102,
+      "reported_holders": 2905
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 36.0,
+      "organic_holders": 1045,
       "reported_holders": 2905
     }
   ],

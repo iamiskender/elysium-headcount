@@ -2,11 +2,11 @@
   "address": "0x95f37F906114D5B7ED7f2690784a154Fd0B5c29A",
   "symbol": "ECOSIG4",
   "name": "EcoSig4356",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
-    "family_size": 4,
+    "family_size": 5,
     "symbol": "ECOSIG4",
     "name": "EcoSig4356",
     "address": "0x95f37F906114D5B7ED7f2690784a154Fd0B5c29A",
@@ -14,9 +14,9 @@
     "eoa_holders": 598,
     "clone_wallets": 324,
     "largest_cluster": 62,
-    "cross_token_wallets": 487,
-    "est_organic": 103,
-    "quality_pct": 17.2,
+    "cross_token_wallets": 493,
+    "est_organic": 99,
+    "quality_pct": 16.6,
     "pool_share_pct": 84.6,
     "top_eoa_share_pct": 0.2,
     "pool_buys_seen": 1986,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3693.41,
+    "market_cap_usd": 3760.22,
     "holders_fetched": 599,
     "transfers_fetched": 2000
   },
@@ -119,6 +119,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 17.2,
       "organic_holders": 103,
+      "reported_holders": 599
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 16.6,
+      "organic_holders": 99,
       "reported_holders": 599
     }
   ],

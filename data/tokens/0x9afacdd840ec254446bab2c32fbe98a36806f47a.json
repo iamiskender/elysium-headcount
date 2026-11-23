@@ -2,7 +2,7 @@
   "address": "0x9AfACdD840ec254446bAB2C32fBe98A36806f47A",
   "symbol": "talarico",
   "name": "James Dell Talarico",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 381,
     "clone_wallets": 376,
     "largest_cluster": 142,
-    "cross_token_wallets": 368,
+    "cross_token_wallets": 369,
     "est_organic": 4,
     "quality_pct": 1.0,
     "pool_share_pct": 59.1,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 40.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6693.8,
+    "market_cap_usd": 6821.62,
     "holders_fetched": 382,
     "transfers_fetched": 393
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 1.0,
+      "organic_holders": 4,
+      "reported_holders": 382
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 1.0,
       "organic_holders": 4,
       "reported_holders": 382

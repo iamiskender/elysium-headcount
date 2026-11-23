@@ -2,11 +2,11 @@
   "address": "0x6fDCf8Cf8Fa801c912Ec55665b511FBd4B867938",
   "symbol": "JOHNPORK",
   "name": "JOHN PORK",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
-    "family_size": 4,
+    "family_size": 5,
     "symbol": "JOHNPORK",
     "name": "JOHN PORK",
     "address": "0x6fDCf8Cf8Fa801c912Ec55665b511FBd4B867938",
@@ -14,9 +14,9 @@
     "eoa_holders": 500,
     "clone_wallets": 287,
     "largest_cluster": 101,
-    "cross_token_wallets": 365,
-    "est_organic": 125,
-    "quality_pct": 25.0,
+    "cross_token_wallets": 366,
+    "est_organic": 124,
+    "quality_pct": 24.8,
     "pool_share_pct": 58.9,
     "top_eoa_share_pct": 13.7,
     "pool_buys_seen": 965,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6827.99,
+    "market_cap_usd": 6958.38,
     "holders_fetched": 501,
     "transfers_fetched": 1082
   },
@@ -113,6 +113,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 25.0,
       "organic_holders": 125,
+      "reported_holders": 501
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 24.8,
+      "organic_holders": 124,
       "reported_holders": 501
     }
   ],

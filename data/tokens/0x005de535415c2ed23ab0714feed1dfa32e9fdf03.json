@@ -2,7 +2,7 @@
   "address": "0x005dE535415C2ed23ab0714FEED1dFA32E9FDf03",
   "symbol": "MOON",
   "name": "MOON BOY",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1689,
     "clone_wallets": 1654,
     "largest_cluster": 796,
-    "cross_token_wallets": 1666,
-    "est_organic": 17,
-    "quality_pct": 1.0,
+    "cross_token_wallets": 1675,
+    "est_organic": 8,
+    "quality_pct": 0.5,
     "pool_share_pct": 96.0,
     "top_eoa_share_pct": 1.7,
     "pool_buys_seen": 1807,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4176.07,
+    "market_cap_usd": 4251.61,
     "holders_fetched": 1690,
     "transfers_fetched": 1812
   },
@@ -77,6 +77,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 1.0,
       "organic_holders": 17,
+      "reported_holders": 1690
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 0.5,
+      "organic_holders": 8,
       "reported_holders": 1690
     }
   ],

@@ -2,11 +2,11 @@
   "address": "0x9073B694a98509b5e0be5A4a981BaFb20ba3816C",
   "symbol": "BOMBO",
   "name": "Bombocat",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
-    "family": "F3",
-    "family_size": 22,
+    "family": "F2",
+    "family_size": 27,
     "symbol": "BOMBO",
     "name": "Bombocat",
     "address": "0x9073B694a98509b5e0be5A4a981BaFb20ba3816C",
@@ -14,9 +14,9 @@
     "eoa_holders": 1489,
     "clone_wallets": 1384,
     "largest_cluster": 451,
-    "cross_token_wallets": 1308,
-    "est_organic": 10,
-    "quality_pct": 0.7,
+    "cross_token_wallets": 1309,
+    "est_organic": 9,
+    "quality_pct": 0.6,
     "pool_share_pct": 24.5,
     "top_eoa_share_pct": 75.0,
     "pool_buys_seen": 2000,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 43421.97,
+    "market_cap_usd": 44251.18,
     "holders_fetched": 1491,
     "transfers_fetched": 2000
   },
@@ -77,6 +77,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 0.7,
       "organic_holders": 10,
+      "reported_holders": 1491
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 0.6,
+      "organic_holders": 9,
       "reported_holders": 1491
     }
   ],

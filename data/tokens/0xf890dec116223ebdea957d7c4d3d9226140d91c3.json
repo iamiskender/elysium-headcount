@@ -2,7 +2,7 @@
   "address": "0xf890dEC116223EbdeA957d7c4d3d9226140D91C3",
   "symbol": "HAZELS",
   "name": "hazels",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4172.06,
+    "market_cap_usd": 4247.53,
     "holders_fetched": 203,
     "transfers_fetched": 215
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 2.0,
+      "organic_holders": 4,
+      "reported_holders": 203
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 2.0,
       "organic_holders": 4,
       "reported_holders": 203

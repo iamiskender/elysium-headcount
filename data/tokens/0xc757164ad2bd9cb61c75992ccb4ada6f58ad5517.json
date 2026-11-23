@@ -2,7 +2,7 @@
   "address": "0xc757164Ad2Bd9Cb61C75992cCB4aDA6f58aD5517",
   "symbol": "RDOGE",
   "name": "ROCKETDOGE",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 296,
     "clone_wallets": 284,
     "largest_cluster": 120,
-    "cross_token_wallets": 287,
+    "cross_token_wallets": 289,
     "est_organic": 4,
     "quality_pct": 1.4,
     "pool_share_pct": 64.5,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 26.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5631.16,
+    "market_cap_usd": 5738.7,
     "holders_fetched": 297,
     "transfers_fetched": 310
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 1.4,
+      "organic_holders": 4,
+      "reported_holders": 297
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 1.4,
       "organic_holders": 4,
       "reported_holders": 297

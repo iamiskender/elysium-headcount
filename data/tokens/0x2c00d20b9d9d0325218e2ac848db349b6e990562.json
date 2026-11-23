@@ -2,7 +2,7 @@
   "address": "0x2c00D20B9D9D0325218e2AC848db349b6E990562",
   "symbol": "FUGAKU",
   "name": "Elysium Alien",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1088,
     "clone_wallets": 628,
     "largest_cluster": 70,
-    "cross_token_wallets": 978,
-    "est_organic": 74,
-    "quality_pct": 6.8,
+    "cross_token_wallets": 982,
+    "est_organic": 71,
+    "quality_pct": 6.5,
     "pool_share_pct": 94.9,
     "top_eoa_share_pct": 2.3,
     "pool_buys_seen": 1091,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4025.98,
+    "market_cap_usd": 4098.81,
     "holders_fetched": 1090,
     "transfers_fetched": 1097
   },
@@ -77,6 +77,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 6.8,
       "organic_holders": 74,
+      "reported_holders": 1090
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 6.5,
+      "organic_holders": 71,
       "reported_holders": 1090
     }
   ],

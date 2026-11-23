@@ -2,7 +2,7 @@
   "address": "0x2b2e2EB8eff425bF54e0b498A1dCCb863b60319d",
   "symbol": "CHA",
   "name": "Charango",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 3742,
     "clone_wallets": 2285,
     "largest_cluster": 886,
-    "cross_token_wallets": 2755,
-    "est_organic": 933,
-    "quality_pct": 24.9,
+    "cross_token_wallets": 2765,
+    "est_organic": 923,
+    "quality_pct": 24.7,
     "pool_share_pct": 90.7,
     "top_eoa_share_pct": 1.8,
     "pool_buys_seen": 907,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 46.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5813.48,
+    "market_cap_usd": 5918.64,
     "holders_fetched": 3743,
     "transfers_fetched": 2000
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 24.9,
       "organic_holders": 933,
+      "reported_holders": 3743
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 24.7,
+      "organic_holders": 923,
       "reported_holders": 3743
     }
   ],

@@ -2,7 +2,7 @@
   "address": "0xDA25763Cd0383E453347911ee728bC12E85a8639",
   "symbol": "Imperator",
   "name": "Imperator",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 5.6,
+      "organic_holders": 9,
+      "reported_holders": 162
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 5.6,
       "organic_holders": 9,
       "reported_holders": 162

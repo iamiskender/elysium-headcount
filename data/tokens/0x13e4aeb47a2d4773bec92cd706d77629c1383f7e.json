@@ -2,7 +2,7 @@
   "address": "0x13E4aeb47a2d4773BEc92cD706D77629c1383f7E",
   "symbol": "PEARL",
   "name": "pearl",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 304,
     "clone_wallets": 52,
     "largest_cluster": 34,
-    "cross_token_wallets": 123,
-    "est_organic": 159,
-    "quality_pct": 52.3,
+    "cross_token_wallets": 125,
+    "est_organic": 157,
+    "quality_pct": 51.6,
     "pool_share_pct": 79.2,
     "top_eoa_share_pct": 4.2,
     "pool_buys_seen": 311,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5779.98,
+    "market_cap_usd": 5890.35,
     "holders_fetched": 306,
     "transfers_fetched": 316
   },
@@ -77,6 +77,12 @@
       "date": "2026-11-22",
       "organic_share_pct": 52.3,
       "organic_holders": 159,
+      "reported_holders": 306
+    },
+    {
+      "date": "2026-11-23",
+      "organic_share_pct": 51.6,
+      "organic_holders": 157,
       "reported_holders": 306
     }
   ],

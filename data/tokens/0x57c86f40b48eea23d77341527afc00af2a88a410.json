@@ -2,7 +2,7 @@
   "address": "0x57C86f40b48EEA23d77341527afc00aF2A88a410",
   "symbol": "Xebec",
   "name": "Xebec",
-  "snapshot": "2026-11-22T17:08:09.554800+00:00",
+  "snapshot": "2026-11-23T18:51:31.943937+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-22",
+      "organic_share_pct": 3.8,
+      "organic_holders": 6,
+      "reported_holders": 157
+    },
+    {
+      "date": "2026-11-23",
       "organic_share_pct": 3.8,
       "organic_holders": 6,
       "reported_holders": 157
