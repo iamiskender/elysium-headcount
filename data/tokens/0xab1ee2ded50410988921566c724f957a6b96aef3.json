@@ -2,7 +2,7 @@
   "address": "0xaB1EE2dEd50410988921566C724F957a6B96AEf3",
   "symbol": "TEST_2727525035",
   "name": "@test_2727525035",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 27.91,
+    "market_cap_usd": 27.41,
     "holders_fetched": 1001,
     "transfers_fetched": 2000
   },
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 0.3,
+      "organic_holders": 3,
+      "reported_holders": 1001
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 0.3,
       "organic_holders": 3,
       "reported_holders": 1001

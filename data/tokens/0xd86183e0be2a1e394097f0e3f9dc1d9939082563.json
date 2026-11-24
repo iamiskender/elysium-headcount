@@ -2,7 +2,7 @@
   "address": "0xd86183E0bE2A1E394097F0E3f9dc1d9939082563",
   "symbol": "Wayne",
   "name": "Wayne",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 3.3,
+      "organic_holders": 5,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 3.3,
       "organic_holders": 5,
       "reported_holders": 152

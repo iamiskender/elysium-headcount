@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T18:51:31.943937+00:00",
+    "generated_at": "2026-11-24T19:38:02.130402+00:00",
     "api": "https://testnet-api.elysium.kinetiq.xyz/api/v2",
     "params": {
       "min_holders": 100,
@@ -4099,7 +4099,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4685.83,
+      "market_cap_usd": 4602.64,
       "holders_fetched": 298,
       "transfers_fetched": 808
     },
@@ -4126,7 +4126,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4210.12,
+      "market_cap_usd": 4135.38,
       "holders_fetched": 290,
       "transfers_fetched": 599
     },
@@ -4153,7 +4153,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8163.48,
+      "market_cap_usd": 8015.14,
       "holders_fetched": 280,
       "transfers_fetched": 435
     },
@@ -4180,7 +4180,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 44245.56,
+      "market_cap_usd": 43441.58,
       "holders_fetched": 6276,
       "transfers_fetched": 2000
     },
@@ -4207,7 +4207,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 148266.26,
+      "market_cap_usd": 145572.14,
       "holders_fetched": 5169,
       "transfers_fetched": 2000
     },
@@ -4288,7 +4288,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2879.94,
+      "market_cap_usd": 2828.81,
       "holders_fetched": 2596,
       "transfers_fetched": 2000
     },
@@ -4315,7 +4315,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2643.39,
+      "market_cap_usd": 2596.46,
       "holders_fetched": 2085,
       "transfers_fetched": 2000
     },
@@ -4396,7 +4396,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13782.73,
+      "market_cap_usd": 13532.29,
       "holders_fetched": 679,
       "transfers_fetched": 1917
     },
@@ -4423,7 +4423,7 @@
       "farm_sample_pct": 66.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 9855.6,
+      "market_cap_usd": 9676.52,
       "holders_fetched": 422,
       "transfers_fetched": 879
     },
@@ -4450,7 +4450,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10637.68,
+      "market_cap_usd": 10444.39,
       "holders_fetched": 676,
       "transfers_fetched": 1928
     },
@@ -4477,7 +4477,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 12652.78,
+      "market_cap_usd": 12422.87,
       "holders_fetched": 667,
       "transfers_fetched": 1774
     },
@@ -4504,7 +4504,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4456.46,
+      "market_cap_usd": 4377.34,
       "holders_fetched": 442,
       "transfers_fetched": 2000
     },
@@ -4531,7 +4531,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4196.11,
+      "market_cap_usd": 4121.62,
       "holders_fetched": 423,
       "transfers_fetched": 2000
     },
@@ -4558,7 +4558,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 155112.68,
+      "market_cap_usd": 152294.15,
       "holders_fetched": 2572,
       "transfers_fetched": 2000
     },
@@ -4828,7 +4828,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 60844.05,
+      "market_cap_usd": 59738.47,
       "holders_fetched": 1919,
       "transfers_fetched": 2000
     },
@@ -4855,7 +4855,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 9589.02,
+      "market_cap_usd": 9414.78,
       "holders_fetched": 1678,
       "transfers_fetched": 2000
     },
@@ -4882,7 +4882,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4531.4,
+      "market_cap_usd": 4450.96,
       "holders_fetched": 1508,
       "transfers_fetched": 2000
     },
@@ -4909,7 +4909,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 44251.18,
+      "market_cap_usd": 43447.1,
       "holders_fetched": 1491,
       "transfers_fetched": 2000
     },
@@ -4936,7 +4936,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3559.26,
+      "market_cap_usd": 3494.59,
       "holders_fetched": 1439,
       "transfers_fetched": 2000
     },
@@ -4963,7 +4963,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4218.74,
+      "market_cap_usd": 4142.08,
       "holders_fetched": 1297,
       "transfers_fetched": 2000
     },
@@ -4990,7 +4990,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 49.81,
+      "market_cap_usd": 48.93,
       "holders_fetched": 1265,
       "transfers_fetched": 2000
     },
@@ -5017,7 +5017,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4637.24,
+      "market_cap_usd": 4554.92,
       "holders_fetched": 1235,
       "transfers_fetched": 2000
     },
@@ -5044,7 +5044,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4129.77,
+      "market_cap_usd": 4056.45,
       "holders_fetched": 1211,
       "transfers_fetched": 2000
     },
@@ -5071,7 +5071,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3368.66,
+      "market_cap_usd": 3307.44,
       "holders_fetched": 1082,
       "transfers_fetched": 2000
     },
@@ -5098,7 +5098,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 67.76,
+      "market_cap_usd": 66.56,
       "holders_fetched": 1005,
       "transfers_fetched": 2000
     },
@@ -5125,7 +5125,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 67.76,
+      "market_cap_usd": 66.56,
       "holders_fetched": 1004,
       "transfers_fetched": 2000
     },
@@ -5152,7 +5152,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 67.76,
+      "market_cap_usd": 66.56,
       "holders_fetched": 1004,
       "transfers_fetched": 2000
     },
@@ -5179,7 +5179,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 67.76,
+      "market_cap_usd": 66.56,
       "holders_fetched": 1002,
       "transfers_fetched": 2000
     },
@@ -5206,7 +5206,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 27.91,
+      "market_cap_usd": 27.41,
       "holders_fetched": 1001,
       "transfers_fetched": 2000
     },
@@ -5233,7 +5233,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 67.76,
+      "market_cap_usd": 66.56,
       "holders_fetched": 1000,
       "transfers_fetched": 2000
     },
@@ -5260,7 +5260,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 26.08,
+      "market_cap_usd": 25.62,
       "holders_fetched": 1000,
       "transfers_fetched": 2000
     },
@@ -5287,7 +5287,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 181438.56,
+      "market_cap_usd": 178141.67,
       "holders_fetched": 2284,
       "transfers_fetched": 2000
     },
@@ -5314,7 +5314,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 47369.01,
+      "market_cap_usd": 46508.28,
       "holders_fetched": 2256,
       "transfers_fetched": 2000
     },
@@ -5341,7 +5341,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 102956.39,
+      "market_cap_usd": 101085.59,
       "holders_fetched": 2158,
       "transfers_fetched": 2000
     },
@@ -5368,7 +5368,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4408.72,
+      "market_cap_usd": 4330.46,
       "holders_fetched": 2011,
       "transfers_fetched": 2000
     },
@@ -5395,7 +5395,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6189.24,
+      "market_cap_usd": 6079.37,
       "holders_fetched": 1457,
       "transfers_fetched": 2000
     },
@@ -5422,7 +5422,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 11518.5,
+      "market_cap_usd": 11309.2,
       "holders_fetched": 1403,
       "transfers_fetched": 2000
     },
@@ -5449,7 +5449,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6210.75,
+      "market_cap_usd": 6100.49,
       "holders_fetched": 1353,
       "transfers_fetched": 2000
     },
@@ -5476,7 +5476,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5811.86,
+      "market_cap_usd": 5708.68,
       "holders_fetched": 1295,
       "transfers_fetched": 1898
     },
@@ -5503,7 +5503,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4910.53,
+      "market_cap_usd": 4823.35,
       "holders_fetched": 1293,
       "transfers_fetched": 1487
     },
@@ -5530,7 +5530,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4613.65,
+      "market_cap_usd": 4531.75,
       "holders_fetched": 1273,
       "transfers_fetched": 2000
     },
@@ -5557,7 +5557,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13000.67,
+      "market_cap_usd": 12764.44,
       "holders_fetched": 1272,
       "transfers_fetched": 1421
     },
@@ -5584,7 +5584,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8421.39,
+      "market_cap_usd": 8268.36,
       "holders_fetched": 1270,
       "transfers_fetched": 1356
     },
@@ -5611,7 +5611,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 26200.2,
+      "market_cap_usd": 25724.12,
       "holders_fetched": 1265,
       "transfers_fetched": 2000
     },
@@ -5638,7 +5638,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 46393.13,
+      "market_cap_usd": 45550.13,
       "holders_fetched": 1264,
       "transfers_fetched": 1379
     },
@@ -5665,7 +5665,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6326.37,
+      "market_cap_usd": 6214.06,
       "holders_fetched": 1264,
       "transfers_fetched": 2000
     },
@@ -5692,7 +5692,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4374.58,
+      "market_cap_usd": 4296.92,
       "holders_fetched": 1264,
       "transfers_fetched": 2000
     },
@@ -5719,7 +5719,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4577.01,
+      "market_cap_usd": 4495.76,
       "holders_fetched": 1262,
       "transfers_fetched": 2000
     },
@@ -5746,7 +5746,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4229.61,
+      "market_cap_usd": 4154.53,
       "holders_fetched": 1261,
       "transfers_fetched": 1275
     },
@@ -5773,7 +5773,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4370.11,
+      "market_cap_usd": 4292.52,
       "holders_fetched": 1260,
       "transfers_fetched": 2000
     },
@@ -5800,7 +5800,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10238.89,
+      "market_cap_usd": 10052.84,
       "holders_fetched": 1258,
       "transfers_fetched": 1399
     },
@@ -5827,7 +5827,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6706.76,
+      "market_cap_usd": 6587.69,
       "holders_fetched": 1258,
       "transfers_fetched": 1277
     },
@@ -5854,7 +5854,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5258.52,
+      "market_cap_usd": 5165.16,
       "holders_fetched": 1254,
       "transfers_fetched": 1439
     },
@@ -5881,7 +5881,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4521.81,
+      "market_cap_usd": 4441.54,
       "holders_fetched": 1253,
       "transfers_fetched": 2000
     },
@@ -5908,7 +5908,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5694.57,
+      "market_cap_usd": 5593.48,
       "holders_fetched": 1251,
       "transfers_fetched": 1329
     },
@@ -5935,7 +5935,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4254.4,
+      "market_cap_usd": 4178.87,
       "holders_fetched": 1249,
       "transfers_fetched": 1322
     },
@@ -5962,7 +5962,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4217.23,
+      "market_cap_usd": 4142.37,
       "holders_fetched": 1249,
       "transfers_fetched": 1326
     },
@@ -5989,7 +5989,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8217.0,
+      "market_cap_usd": 8067.69,
       "holders_fetched": 4124,
       "transfers_fetched": 2000
     },
@@ -6016,7 +6016,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 9212.85,
+      "market_cap_usd": 9045.45,
       "holders_fetched": 3993,
       "transfers_fetched": 2000
     },
@@ -6043,7 +6043,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 18524.58,
+      "market_cap_usd": 18187.97,
       "holders_fetched": 3888,
       "transfers_fetched": 2000
     },
@@ -6070,7 +6070,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8977.64,
+      "market_cap_usd": 8814.51,
       "holders_fetched": 3841,
       "transfers_fetched": 2000
     },
@@ -6097,7 +6097,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5918.64,
+      "market_cap_usd": 5813.57,
       "holders_fetched": 3743,
       "transfers_fetched": 2000
     },
@@ -6124,7 +6124,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 37915.51,
+      "market_cap_usd": 37226.55,
       "holders_fetched": 3534,
       "transfers_fetched": 2000
     },
@@ -6151,7 +6151,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7685.25,
+      "market_cap_usd": 7545.6,
       "holders_fetched": 3473,
       "transfers_fetched": 2000
     },
@@ -6178,7 +6178,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7082.87,
+      "market_cap_usd": 6950.26,
       "holders_fetched": 3168,
       "transfers_fetched": 2000
     },
@@ -6205,7 +6205,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7433.08,
+      "market_cap_usd": 7298.01,
       "holders_fetched": 2905,
       "transfers_fetched": 2000
     },
@@ -6232,7 +6232,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7216.16,
+      "market_cap_usd": 7085.04,
       "holders_fetched": 2827,
       "transfers_fetched": 2000
     },
@@ -6259,7 +6259,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7070.43,
+      "market_cap_usd": 6944.91,
       "holders_fetched": 2647,
       "transfers_fetched": 2000
     },
@@ -6286,7 +6286,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 16983.41,
+      "market_cap_usd": 16674.81,
       "holders_fetched": 2397,
       "transfers_fetched": 2000
     },
@@ -6313,7 +6313,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10115.41,
+      "market_cap_usd": 9931.61,
       "holders_fetched": 2278,
       "transfers_fetched": 2000
     },
@@ -6340,7 +6340,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10351.98,
+      "market_cap_usd": 10163.87,
       "holders_fetched": 2211,
       "transfers_fetched": 2000
     },
@@ -6367,7 +6367,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13657.23,
+      "market_cap_usd": 13409.07,
       "holders_fetched": 2191,
       "transfers_fetched": 2000
     },
@@ -6394,7 +6394,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10116.62,
+      "market_cap_usd": 9932.79,
       "holders_fetched": 2136,
       "transfers_fetched": 2000
     },
@@ -6421,7 +6421,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 12254.81,
+      "market_cap_usd": 12032.13,
       "holders_fetched": 2084,
       "transfers_fetched": 2000
     },
@@ -6448,7 +6448,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 22394.91,
+      "market_cap_usd": 21987.98,
       "holders_fetched": 2000,
       "transfers_fetched": 2000
     },
@@ -6475,7 +6475,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3943.04,
+      "market_cap_usd": 3871.39,
       "holders_fetched": 1842,
       "transfers_fetched": 2000
     },
@@ -6502,7 +6502,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 58378.47,
+      "market_cap_usd": 57317.69,
       "holders_fetched": 1389,
       "transfers_fetched": 1420
     },
@@ -6529,7 +6529,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5073.75,
+      "market_cap_usd": 4981.56,
       "holders_fetched": 1259,
       "transfers_fetched": 1896
     },
@@ -6556,7 +6556,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5443.73,
+      "market_cap_usd": 5344.81,
       "holders_fetched": 1065,
       "transfers_fetched": 1079
     },
@@ -6583,7 +6583,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5467.55,
+      "market_cap_usd": 5368.2,
       "holders_fetched": 986,
       "transfers_fetched": 997
     },
@@ -6610,7 +6610,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 19608.05,
+      "market_cap_usd": 19251.76,
       "holders_fetched": 953,
       "transfers_fetched": 1070
     },
@@ -6637,7 +6637,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5054.17,
+      "market_cap_usd": 4964.44,
       "holders_fetched": 853,
       "transfers_fetched": 888
     },
@@ -6664,7 +6664,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4709.53,
+      "market_cap_usd": 4625.93,
       "holders_fetched": 843,
       "transfers_fetched": 863
     },
@@ -6691,7 +6691,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4868.53,
+      "market_cap_usd": 4782.1,
       "holders_fetched": 819,
       "transfers_fetched": 858
     },
@@ -6718,7 +6718,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4417.94,
+      "market_cap_usd": 4339.51,
       "holders_fetched": 816,
       "transfers_fetched": 835
     },
@@ -6745,7 +6745,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5333.09,
+      "market_cap_usd": 5238.41,
       "holders_fetched": 807,
       "transfers_fetched": 814
     },
@@ -6772,7 +6772,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7810.34,
+      "market_cap_usd": 7668.42,
       "holders_fetched": 800,
       "transfers_fetched": 832
     },
@@ -6799,7 +6799,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4325.51,
+      "market_cap_usd": 4248.72,
       "holders_fetched": 793,
       "transfers_fetched": 811
     },
@@ -6826,7 +6826,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5408.1,
+      "market_cap_usd": 5312.09,
       "holders_fetched": 769,
       "transfers_fetched": 783
     },
@@ -6853,7 +6853,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 90860.91,
+      "market_cap_usd": 89209.89,
       "holders_fetched": 6395,
       "transfers_fetched": 2000
     },
@@ -6880,7 +6880,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6785.35,
+      "market_cap_usd": 6664.89,
       "holders_fetched": 3565,
       "transfers_fetched": 2000
     },
@@ -6907,7 +6907,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4652.48,
+      "market_cap_usd": 4569.89,
       "holders_fetched": 3367,
       "transfers_fetched": 2000
     },
@@ -6934,7 +6934,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 105695.88,
+      "market_cap_usd": 103775.3,
       "holders_fetched": 3268,
       "transfers_fetched": 2000
     },
@@ -6961,7 +6961,7 @@
       "farm_sample_pct": 66.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6432.19,
+      "market_cap_usd": 6318.0,
       "holders_fetched": 3177,
       "transfers_fetched": 2000
     },
@@ -7015,7 +7015,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 42320.72,
+      "market_cap_usd": 41551.72,
       "holders_fetched": 2454,
       "transfers_fetched": 2000
     },
@@ -7042,7 +7042,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 45638.98,
+      "market_cap_usd": 44809.68,
       "holders_fetched": 2342,
       "transfers_fetched": 2000
     },
@@ -7069,7 +7069,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6616.58,
+      "market_cap_usd": 6499.12,
       "holders_fetched": 2263,
       "transfers_fetched": 2000
     },
@@ -7096,7 +7096,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6639.51,
+      "market_cap_usd": 6521.64,
       "holders_fetched": 2250,
       "transfers_fetched": 2000
     },
@@ -7123,7 +7123,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8321.17,
+      "market_cap_usd": 8169.96,
       "holders_fetched": 1667,
       "transfers_fetched": 2000
     },
@@ -7150,7 +7150,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2679.67,
+      "market_cap_usd": 2632.09,
       "holders_fetched": 2061,
       "transfers_fetched": 2000
     },
@@ -7177,7 +7177,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3304.95,
+      "market_cap_usd": 3246.27,
       "holders_fetched": 1827,
       "transfers_fetched": 2000
     },
@@ -7204,7 +7204,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2708.87,
+      "market_cap_usd": 2660.78,
       "holders_fetched": 1770,
       "transfers_fetched": 2000
     },
@@ -7231,7 +7231,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2992.49,
+      "market_cap_usd": 2939.37,
       "holders_fetched": 1756,
       "transfers_fetched": 2000
     },
@@ -7258,7 +7258,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2914.5,
+      "market_cap_usd": 2862.76,
       "holders_fetched": 1707,
       "transfers_fetched": 2000
     },
@@ -7285,7 +7285,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2914.53,
+      "market_cap_usd": 2862.79,
       "holders_fetched": 1693,
       "transfers_fetched": 2000
     },
@@ -7312,7 +7312,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2728.51,
+      "market_cap_usd": 2680.07,
       "holders_fetched": 1665,
       "transfers_fetched": 2000
     },
@@ -7339,7 +7339,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 18748.72,
+      "market_cap_usd": 18408.04,
       "holders_fetched": 324,
       "transfers_fetched": 2000
     },
@@ -7366,7 +7366,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6354.69,
+      "market_cap_usd": 6241.88,
       "holders_fetched": 236,
       "transfers_fetched": 2000
     },
@@ -7393,7 +7393,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7243.13,
+      "market_cap_usd": 7111.51,
       "holders_fetched": 196,
       "transfers_fetched": 2000
     },
@@ -7420,7 +7420,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7016.7,
+      "market_cap_usd": 6892.13,
       "holders_fetched": 194,
       "transfers_fetched": 2000
     },
@@ -7447,7 +7447,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4912.5,
+      "market_cap_usd": 4825.29,
       "holders_fetched": 193,
       "transfers_fetched": 2000
     },
@@ -7474,7 +7474,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5521.17,
+      "market_cap_usd": 5423.15,
       "holders_fetched": 190,
       "transfers_fetched": 2000
     },
@@ -7501,7 +7501,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3760.22,
+      "market_cap_usd": 3693.47,
       "holders_fetched": 599,
       "transfers_fetched": 2000
     },
@@ -7528,7 +7528,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 12179.17,
+      "market_cap_usd": 11957.87,
       "holders_fetched": 541,
       "transfers_fetched": 1591
     },
@@ -7555,7 +7555,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6958.38,
+      "market_cap_usd": 6831.94,
       "holders_fetched": 501,
       "transfers_fetched": 1082
     },
@@ -7636,7 +7636,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 30057.86,
+      "market_cap_usd": 29511.68,
       "holders_fetched": 9116,
       "transfers_fetched": 2000
     },
@@ -7690,7 +7690,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 187565.35,
+      "market_cap_usd": 184157.13,
       "holders_fetched": 7087,
       "transfers_fetched": 2000
     },
@@ -7744,7 +7744,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 1471711.77,
+      "market_cap_usd": 1444969.56,
       "holders_fetched": 5466,
       "transfers_fetched": 2000
     },
@@ -7771,7 +7771,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 25753.26,
+      "market_cap_usd": 25285.31,
       "holders_fetched": 4872,
       "transfers_fetched": 2000
     },
@@ -7798,7 +7798,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 1100382.19,
+      "market_cap_usd": 1080387.34,
       "holders_fetched": 4740,
       "transfers_fetched": 2000
     },
@@ -7825,7 +7825,7 @@
       "farm_sample_pct": 66.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6657.81,
+      "market_cap_usd": 6536.83,
       "holders_fetched": 4601,
       "transfers_fetched": 2000
     },
@@ -7852,7 +7852,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 135750.29,
+      "market_cap_usd": 133283.6,
       "holders_fetched": 4007,
       "transfers_fetched": 2000
     },
@@ -7906,7 +7906,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5453.95,
+      "market_cap_usd": 5357.13,
       "holders_fetched": 3460,
       "transfers_fetched": 2000
     },
@@ -7933,7 +7933,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 1548254.54,
+      "market_cap_usd": 1520462.44,
       "holders_fetched": 2857,
       "transfers_fetched": 2000
     },
@@ -7987,7 +7987,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 453735.91,
+      "market_cap_usd": 445491.16,
       "holders_fetched": 2705,
       "transfers_fetched": 2000
     },
@@ -8007,14 +8007,14 @@
       "quality_pct": 3.2,
       "pool_share_pct": 83.5,
       "top_eoa_share_pct": 0.1,
-      "pool_buys_seen": 136,
-      "burst_6h_pct": 14.0,
+      "pool_buys_seen": 151,
+      "burst_6h_pct": 12.6,
       "ladder_pct": 0.0,
       "buy_only_pct": 0.0,
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
-      "volume_24h_usd": 2.56,
-      "market_cap_usd": 10260.34,
+      "volume_24h_usd": 3.35,
+      "market_cap_usd": 9989.23,
       "holders_fetched": 2360,
       "transfers_fetched": 2000
     },
@@ -8041,7 +8041,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5689.17,
+      "market_cap_usd": 5585.79,
       "holders_fetched": 2176,
       "transfers_fetched": 2000
     },
@@ -8068,7 +8068,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3230.2,
+      "market_cap_usd": 3172.85,
       "holders_fetched": 2155,
       "transfers_fetched": 2000
     },
@@ -8095,7 +8095,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8807.59,
+      "market_cap_usd": 8647.55,
       "holders_fetched": 1766,
       "transfers_fetched": 2000
     },
@@ -8122,7 +8122,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13866.23,
+      "market_cap_usd": 13614.27,
       "holders_fetched": 1763,
       "transfers_fetched": 2000
     },
@@ -8149,7 +8149,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 41284.52,
+      "market_cap_usd": 40534.35,
       "holders_fetched": 1707,
       "transfers_fetched": 2000
     },
@@ -8176,7 +8176,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10558.28,
+      "market_cap_usd": 10366.43,
       "holders_fetched": 1704,
       "transfers_fetched": 1857
     },
@@ -8203,7 +8203,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4251.61,
+      "market_cap_usd": 4176.13,
       "holders_fetched": 1690,
       "transfers_fetched": 1812
     },
@@ -8230,7 +8230,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 12169.65,
+      "market_cap_usd": 11948.52,
       "holders_fetched": 1652,
       "transfers_fetched": 1752
     },
@@ -8257,7 +8257,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8280.13,
+      "market_cap_usd": 8129.68,
       "holders_fetched": 1628,
       "transfers_fetched": 1829
     },
@@ -8284,7 +8284,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 101833.5,
+      "market_cap_usd": 99983.1,
       "holders_fetched": 1551,
       "transfers_fetched": 1601
     },
@@ -8311,7 +8311,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5050.07,
+      "market_cap_usd": 4960.41,
       "holders_fetched": 1518,
       "transfers_fetched": 2000
     },
@@ -8338,7 +8338,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5294.9,
+      "market_cap_usd": 5198.69,
       "holders_fetched": 1435,
       "transfers_fetched": 2000
     },
@@ -8365,7 +8365,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4073.39,
+      "market_cap_usd": 4001.08,
       "holders_fetched": 1418,
       "transfers_fetched": 1425
     },
@@ -8392,7 +8392,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 243831.84,
+      "market_cap_usd": 239401.22,
       "holders_fetched": 1415,
       "transfers_fetched": 1476
     },
@@ -8419,7 +8419,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5891.82,
+      "market_cap_usd": 5784.76,
       "holders_fetched": 1397,
       "transfers_fetched": 1437
     },
@@ -8446,7 +8446,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3359.74,
+      "market_cap_usd": 3300.09,
       "holders_fetched": 1377,
       "transfers_fetched": 1400
     },
@@ -8473,7 +8473,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5530.89,
+      "market_cap_usd": 5432.7,
       "holders_fetched": 1361,
       "transfers_fetched": 1367
     },
@@ -8500,7 +8500,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8921.65,
+      "market_cap_usd": 8759.53,
       "holders_fetched": 1357,
       "transfers_fetched": 2000
     },
@@ -8527,7 +8527,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4596.19,
+      "market_cap_usd": 4514.59,
       "holders_fetched": 1263,
       "transfers_fetched": 1432
     },
@@ -8554,7 +8554,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 51111.41,
+      "market_cap_usd": 50182.68,
       "holders_fetched": 1259,
       "transfers_fetched": 2000
     },
@@ -8581,7 +8581,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10411.35,
+      "market_cap_usd": 10222.16,
       "holders_fetched": 1258,
       "transfers_fetched": 1270
     },
@@ -8608,7 +8608,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 122053.82,
+      "market_cap_usd": 119836.0,
       "holders_fetched": 1245,
       "transfers_fetched": 1571
     },
@@ -8635,7 +8635,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 79485.9,
+      "market_cap_usd": 78041.58,
       "holders_fetched": 1201,
       "transfers_fetched": 1272
     },
@@ -8662,7 +8662,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4929.61,
+      "market_cap_usd": 4842.1,
       "holders_fetched": 1190,
       "transfers_fetched": 1218
     },
@@ -8689,7 +8689,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 19641.91,
+      "market_cap_usd": 19285.0,
       "holders_fetched": 1189,
       "transfers_fetched": 1254
     },
@@ -8716,7 +8716,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8875.99,
+      "market_cap_usd": 8714.71,
       "holders_fetched": 1181,
       "transfers_fetched": 1188
     },
@@ -8743,7 +8743,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 29971.71,
+      "market_cap_usd": 29427.1,
       "holders_fetched": 1179,
       "transfers_fetched": 1286
     },
@@ -8770,7 +8770,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 27270.38,
+      "market_cap_usd": 26774.86,
       "holders_fetched": 1168,
       "transfers_fetched": 1219
     },
@@ -8797,7 +8797,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 40154.35,
+      "market_cap_usd": 39424.71,
       "holders_fetched": 1147,
       "transfers_fetched": 1160
     },
@@ -8824,7 +8824,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3939.1,
+      "market_cap_usd": 3867.52,
       "holders_fetched": 1136,
       "transfers_fetched": 1639
     },
@@ -8851,7 +8851,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4531.29,
+      "market_cap_usd": 4450.84,
       "holders_fetched": 1132,
       "transfers_fetched": 1157
     },
@@ -8878,7 +8878,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5631.88,
+      "market_cap_usd": 5531.9,
       "holders_fetched": 1127,
       "transfers_fetched": 1133
     },
@@ -8905,7 +8905,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5701.69,
+      "market_cap_usd": 5598.08,
       "holders_fetched": 1124,
       "transfers_fetched": 1147
     },
@@ -8932,7 +8932,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 1370746.48,
+      "market_cap_usd": 1345838.89,
       "holders_fetched": 1101,
       "transfers_fetched": 1304
     },
@@ -8959,7 +8959,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2629.23,
+      "market_cap_usd": 2582.55,
       "holders_fetched": 1097,
       "transfers_fetched": 2000
     },
@@ -8986,7 +8986,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4098.81,
+      "market_cap_usd": 4026.04,
       "holders_fetched": 1090,
       "transfers_fetched": 1097
     },
@@ -9013,7 +9013,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5073.78,
+      "market_cap_usd": 4981.58,
       "holders_fetched": 1064,
       "transfers_fetched": 2000
     },
@@ -9040,7 +9040,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4323.24,
+      "market_cap_usd": 4246.49,
       "holders_fetched": 1063,
       "transfers_fetched": 1071
     },
@@ -9067,7 +9067,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4152.09,
+      "market_cap_usd": 4078.38,
       "holders_fetched": 1054,
       "transfers_fetched": 1088
     },
@@ -9094,7 +9094,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 1194037.13,
+      "market_cap_usd": 1172340.5,
       "holders_fetched": 998,
       "transfers_fetched": 1089
     },
@@ -9121,7 +9121,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4278.69,
+      "market_cap_usd": 4202.74,
       "holders_fetched": 992,
       "transfers_fetched": 994
     },
@@ -9148,7 +9148,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4084.09,
+      "market_cap_usd": 4011.59,
       "holders_fetched": 954,
       "transfers_fetched": 996
     },
@@ -9175,7 +9175,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4073.87,
+      "market_cap_usd": 4001.55,
       "holders_fetched": 933,
       "transfers_fetched": 937
     },
@@ -9202,7 +9202,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3727.56,
+      "market_cap_usd": 3661.39,
       "holders_fetched": 905,
       "transfers_fetched": 928
     },
@@ -9229,7 +9229,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4343.54,
+      "market_cap_usd": 4266.43,
       "holders_fetched": 853,
       "transfers_fetched": 855
     },
@@ -9256,7 +9256,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4416.46,
+      "market_cap_usd": 4338.05,
       "holders_fetched": 843,
       "transfers_fetched": 2000
     },
@@ -9283,7 +9283,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6324.86,
+      "market_cap_usd": 6209.93,
       "holders_fetched": 841,
       "transfers_fetched": 853
     },
@@ -9304,13 +9304,13 @@
       "pool_share_pct": 33.3,
       "top_eoa_share_pct": 4.5,
       "pool_buys_seen": 323,
-      "burst_6h_pct": 52.0,
-      "ladder_pct": 17.0,
+      "burst_6h_pct": 51.4,
+      "ladder_pct": 18.3,
       "buy_only_pct": 59.5,
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
-      "volume_24h_usd": 0.12,
-      "market_cap_usd": 142192.16,
+      "volume_24h_usd": 0.13,
+      "market_cap_usd": 139608.41,
       "holders_fetched": 837,
       "transfers_fetched": 2000
     },
@@ -9337,7 +9337,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5573.89,
+      "market_cap_usd": 5472.61,
       "holders_fetched": 832,
       "transfers_fetched": 835
     },
@@ -9364,7 +9364,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3092.2,
+      "market_cap_usd": 3037.31,
       "holders_fetched": 830,
       "transfers_fetched": 867
     },
@@ -9391,7 +9391,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3035.89,
+      "market_cap_usd": 2981.99,
       "holders_fetched": 824,
       "transfers_fetched": 832
     },
@@ -9418,7 +9418,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10910.94,
+      "market_cap_usd": 10712.68,
       "holders_fetched": 812,
       "transfers_fetched": 896
     },
@@ -9445,7 +9445,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7218.65,
+      "market_cap_usd": 7090.49,
       "holders_fetched": 788,
       "transfers_fetched": 952
     },
@@ -9472,7 +9472,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5408.03,
+      "market_cap_usd": 5309.77,
       "holders_fetched": 787,
       "transfers_fetched": 793
     },
@@ -9499,7 +9499,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 41561.63,
+      "market_cap_usd": 40806.42,
       "holders_fetched": 785,
       "transfers_fetched": 810
     },
@@ -9526,7 +9526,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3747.38,
+      "market_cap_usd": 3680.85,
       "holders_fetched": 774,
       "transfers_fetched": 815
     },
@@ -9553,7 +9553,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4121.37,
+      "market_cap_usd": 4048.21,
       "holders_fetched": 771,
       "transfers_fetched": 1313
     },
@@ -9580,7 +9580,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5890.26,
+      "market_cap_usd": 5783.23,
       "holders_fetched": 766,
       "transfers_fetched": 928
     },
@@ -9607,7 +9607,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4836.34,
+      "market_cap_usd": 4750.48,
       "holders_fetched": 743,
       "transfers_fetched": 749
     },
@@ -9634,7 +9634,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6060.43,
+      "market_cap_usd": 5950.31,
       "holders_fetched": 732,
       "transfers_fetched": 920
     },
@@ -9661,7 +9661,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4536.17,
+      "market_cap_usd": 4455.64,
       "holders_fetched": 732,
       "transfers_fetched": 889
     },
@@ -9688,7 +9688,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2837.6,
+      "market_cap_usd": 2787.23,
       "holders_fetched": 725,
       "transfers_fetched": 2000
     },
@@ -9715,7 +9715,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2668.13,
+      "market_cap_usd": 2620.76,
       "holders_fetched": 717,
       "transfers_fetched": 728
     },
@@ -9742,7 +9742,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2903.6,
+      "market_cap_usd": 2852.05,
       "holders_fetched": 712,
       "transfers_fetched": 754
     },
@@ -9769,7 +9769,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6597.94,
+      "market_cap_usd": 6480.81,
       "holders_fetched": 710,
       "transfers_fetched": 876
     },
@@ -9796,7 +9796,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5423.57,
+      "market_cap_usd": 5325.02,
       "holders_fetched": 693,
       "transfers_fetched": 697
     },
@@ -9823,7 +9823,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2741.45,
+      "market_cap_usd": 2692.78,
       "holders_fetched": 693,
       "transfers_fetched": 749
     },
@@ -9850,7 +9850,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5313.52,
+      "market_cap_usd": 5216.97,
       "holders_fetched": 680,
       "transfers_fetched": 693
     },
@@ -9877,7 +9877,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4771.6,
+      "market_cap_usd": 4684.89,
       "holders_fetched": 676,
       "transfers_fetched": 711
     },
@@ -9904,7 +9904,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6396.12,
+      "market_cap_usd": 6282.57,
       "holders_fetched": 666,
       "transfers_fetched": 2000
     },
@@ -9931,7 +9931,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2819.42,
+      "market_cap_usd": 2769.37,
       "holders_fetched": 662,
       "transfers_fetched": 1302
     },
@@ -9958,7 +9958,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7892.85,
+      "market_cap_usd": 7752.73,
       "holders_fetched": 657,
       "transfers_fetched": 841
     },
@@ -9985,7 +9985,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3791.02,
+      "market_cap_usd": 3723.72,
       "holders_fetched": 657,
       "transfers_fetched": 2000
     },
@@ -10012,7 +10012,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2751.77,
+      "market_cap_usd": 2702.92,
       "holders_fetched": 645,
       "transfers_fetched": 2000
     },
@@ -10039,7 +10039,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3891.66,
+      "market_cap_usd": 3822.58,
       "holders_fetched": 643,
       "transfers_fetched": 687
     },
@@ -10066,7 +10066,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4208.26,
+      "market_cap_usd": 4133.55,
       "holders_fetched": 640,
       "transfers_fetched": 641
     },
@@ -10093,7 +10093,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2947.59,
+      "market_cap_usd": 2895.26,
       "holders_fetched": 632,
       "transfers_fetched": 1350
     },
@@ -10120,7 +10120,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 27792.73,
+      "market_cap_usd": 27287.71,
       "holders_fetched": 629,
       "transfers_fetched": 652
     },
@@ -10147,7 +10147,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4377.12,
+      "market_cap_usd": 4299.41,
       "holders_fetched": 626,
       "transfers_fetched": 630
     },
@@ -10174,7 +10174,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3152.28,
+      "market_cap_usd": 3096.32,
       "holders_fetched": 625,
       "transfers_fetched": 1429
     },
@@ -10201,7 +10201,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3959.2,
+      "market_cap_usd": 3888.91,
       "holders_fetched": 623,
       "transfers_fetched": 624
     },
@@ -10228,7 +10228,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2988913.43,
+      "market_cap_usd": 2934602.42,
       "holders_fetched": 620,
       "transfers_fetched": 670
     },
@@ -10255,7 +10255,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 10030.55,
+      "market_cap_usd": 9848.29,
       "holders_fetched": 620,
       "transfers_fetched": 635
     },
@@ -10282,7 +10282,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13004.34,
+      "market_cap_usd": 12768.04,
       "holders_fetched": 608,
       "transfers_fetched": 624
     },
@@ -10309,7 +10309,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4044.26,
+      "market_cap_usd": 3972.46,
       "holders_fetched": 605,
       "transfers_fetched": 608
     },
@@ -10336,7 +10336,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3374.54,
+      "market_cap_usd": 3314.63,
       "holders_fetched": 596,
       "transfers_fetched": 608
     },
@@ -10363,7 +10363,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3886.18,
+      "market_cap_usd": 3817.19,
       "holders_fetched": 591,
       "transfers_fetched": 610
     },
@@ -10390,7 +10390,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3767.02,
+      "market_cap_usd": 3700.15,
       "holders_fetched": 575,
       "transfers_fetched": 581
     },
@@ -10417,7 +10417,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 42182.35,
+      "market_cap_usd": 41415.86,
       "holders_fetched": 569,
       "transfers_fetched": 579
     },
@@ -10444,7 +10444,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2838.69,
+      "market_cap_usd": 2788.29,
       "holders_fetched": 568,
       "transfers_fetched": 600
     },
@@ -10471,7 +10471,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4434.79,
+      "market_cap_usd": 4356.06,
       "holders_fetched": 564,
       "transfers_fetched": 714
     },
@@ -10498,7 +10498,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4269.93,
+      "market_cap_usd": 4194.13,
       "holders_fetched": 551,
       "transfers_fetched": 556
     },
@@ -10525,7 +10525,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 55225.84,
+      "market_cap_usd": 54222.34,
       "holders_fetched": 544,
       "transfers_fetched": 553
     },
@@ -10552,7 +10552,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 19856.04,
+      "market_cap_usd": 19495.24,
       "holders_fetched": 543,
       "transfers_fetched": 550
     },
@@ -10579,7 +10579,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3215.8,
+      "market_cap_usd": 3158.71,
       "holders_fetched": 537,
       "transfers_fetched": 1296
     },
@@ -10606,7 +10606,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4438.31,
+      "market_cap_usd": 4359.52,
       "holders_fetched": 535,
       "transfers_fetched": 689
     },
@@ -10633,7 +10633,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3123.09,
+      "market_cap_usd": 3067.65,
       "holders_fetched": 535,
       "transfers_fetched": 545
     },
@@ -10660,7 +10660,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2722.91,
+      "market_cap_usd": 2674.57,
       "holders_fetched": 526,
       "transfers_fetched": 558
     },
@@ -10687,7 +10687,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2645.91,
+      "market_cap_usd": 2598.94,
       "holders_fetched": 526,
       "transfers_fetched": 536
     },
@@ -10714,7 +10714,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4081.58,
+      "market_cap_usd": 4009.12,
       "holders_fetched": 523,
       "transfers_fetched": 528
     },
@@ -10741,7 +10741,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2676.08,
+      "market_cap_usd": 2628.57,
       "holders_fetched": 520,
       "transfers_fetched": 524
     },
@@ -10768,7 +10768,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 32096.67,
+      "market_cap_usd": 31513.44,
       "holders_fetched": 508,
       "transfers_fetched": 518
     },
@@ -10795,7 +10795,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3337.77,
+      "market_cap_usd": 3278.52,
       "holders_fetched": 507,
       "transfers_fetched": 1316
     },
@@ -10822,7 +10822,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3850.74,
+      "market_cap_usd": 3782.38,
       "holders_fetched": 504,
       "transfers_fetched": 1119
     },
@@ -10849,7 +10849,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2998.82,
+      "market_cap_usd": 2945.58,
       "holders_fetched": 493,
       "transfers_fetched": 1324
     },
@@ -10876,7 +10876,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4932.94,
+      "market_cap_usd": 4845.37,
       "holders_fetched": 491,
       "transfers_fetched": 547
     },
@@ -10903,7 +10903,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2665.52,
+      "market_cap_usd": 2618.2,
       "holders_fetched": 489,
       "transfers_fetched": 1055
     },
@@ -10930,7 +10930,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2766.42,
+      "market_cap_usd": 2717.31,
       "holders_fetched": 474,
       "transfers_fetched": 1150
     },
@@ -10957,7 +10957,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2674.98,
+      "market_cap_usd": 2627.49,
       "holders_fetched": 473,
       "transfers_fetched": 1586
     },
@@ -10984,7 +10984,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4101.54,
+      "market_cap_usd": 4028.73,
       "holders_fetched": 469,
       "transfers_fetched": 473
     },
@@ -11011,7 +11011,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6273.15,
+      "market_cap_usd": 6159.16,
       "holders_fetched": 467,
       "transfers_fetched": 1008
     },
@@ -11038,7 +11038,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7057.0,
+      "market_cap_usd": 6928.77,
       "holders_fetched": 466,
       "transfers_fetched": 485
     },
@@ -11065,7 +11065,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3088.22,
+      "market_cap_usd": 3033.4,
       "holders_fetched": 466,
       "transfers_fetched": 474
     },
@@ -11092,7 +11092,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4118.5,
+      "market_cap_usd": 4045.38,
       "holders_fetched": 463,
       "transfers_fetched": 503
     },
@@ -11119,7 +11119,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3189.16,
+      "market_cap_usd": 3132.55,
       "holders_fetched": 457,
       "transfers_fetched": 464
     },
@@ -11146,7 +11146,7 @@
       "farm_sample_pct": 33.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3716.0,
+      "market_cap_usd": 3650.03,
       "holders_fetched": 452,
       "transfers_fetched": 473
     },
@@ -11173,7 +11173,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5578.42,
+      "market_cap_usd": 5477.05,
       "holders_fetched": 447,
       "transfers_fetched": 609
     },
@@ -11200,7 +11200,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2624.55,
+      "market_cap_usd": 2577.96,
       "holders_fetched": 446,
       "transfers_fetched": 1007
     },
@@ -11227,7 +11227,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2748.45,
+      "market_cap_usd": 2699.66,
       "holders_fetched": 436,
       "transfers_fetched": 1099
     },
@@ -11254,7 +11254,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2756.97,
+      "market_cap_usd": 2708.03,
       "holders_fetched": 434,
       "transfers_fetched": 954
     },
@@ -11281,7 +11281,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7968.07,
+      "market_cap_usd": 7823.29,
       "holders_fetched": 431,
       "transfers_fetched": 634
     },
@@ -11308,7 +11308,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4079.35,
+      "market_cap_usd": 4005.22,
       "holders_fetched": 429,
       "transfers_fetched": 459
     },
@@ -11335,7 +11335,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3246.74,
+      "market_cap_usd": 3189.1,
       "holders_fetched": 417,
       "transfers_fetched": 418
     },
@@ -11362,7 +11362,7 @@
       "farm_sample_pct": 60.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 7924.77,
+      "market_cap_usd": 7780.77,
       "holders_fetched": 414,
       "transfers_fetched": 418
     },
@@ -11389,7 +11389,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3845.63,
+      "market_cap_usd": 3777.36,
       "holders_fetched": 414,
       "transfers_fetched": 419
     },
@@ -11416,7 +11416,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3855.57,
+      "market_cap_usd": 3787.12,
       "holders_fetched": 411,
       "transfers_fetched": 430
     },
@@ -11443,7 +11443,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2939.97,
+      "market_cap_usd": 2887.77,
       "holders_fetched": 400,
       "transfers_fetched": 405
     },
@@ -11470,7 +11470,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4108.46,
+      "market_cap_usd": 4035.52,
       "holders_fetched": 394,
       "transfers_fetched": 399
     },
@@ -11497,7 +11497,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3236.06,
+      "market_cap_usd": 3178.61,
       "holders_fetched": 388,
       "transfers_fetched": 824
     },
@@ -11524,7 +11524,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6821.62,
+      "market_cap_usd": 6697.67,
       "holders_fetched": 382,
       "transfers_fetched": 393
     },
@@ -11551,7 +11551,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3160.67,
+      "market_cap_usd": 3104.56,
       "holders_fetched": 365,
       "transfers_fetched": 370
     },
@@ -11578,7 +11578,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2663.58,
+      "market_cap_usd": 2616.29,
       "holders_fetched": 329,
       "transfers_fetched": 341
     },
@@ -11605,7 +11605,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3033.22,
+      "market_cap_usd": 2979.37,
       "holders_fetched": 326,
       "transfers_fetched": 334
     },
@@ -11632,7 +11632,7 @@
       "farm_sample_pct": 53.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3843.52,
+      "market_cap_usd": 3775.28,
       "holders_fetched": 318,
       "transfers_fetched": 343
     },
@@ -11659,7 +11659,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2701.21,
+      "market_cap_usd": 2653.25,
       "holders_fetched": 312,
       "transfers_fetched": 370
     },
@@ -11686,7 +11686,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2667.88,
+      "market_cap_usd": 2620.52,
       "holders_fetched": 308,
       "transfers_fetched": 312
     },
@@ -11713,7 +11713,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5890.35,
+      "market_cap_usd": 5783.32,
       "holders_fetched": 306,
       "transfers_fetched": 316
     },
@@ -11740,7 +11740,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4839.52,
+      "market_cap_usd": 4753.61,
       "holders_fetched": 304,
       "transfers_fetched": 1572
     },
@@ -11767,7 +11767,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4402.39,
+      "market_cap_usd": 4324.23,
       "holders_fetched": 300,
       "transfers_fetched": 447
     },
@@ -11794,7 +11794,7 @@
       "farm_sample_pct": 26.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5738.7,
+      "market_cap_usd": 5634.42,
       "holders_fetched": 297,
       "transfers_fetched": 310
     },
@@ -11821,7 +11821,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2741.57,
+      "market_cap_usd": 2692.9,
       "holders_fetched": 288,
       "transfers_fetched": 289
     },
@@ -11848,7 +11848,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 8062.79,
+      "market_cap_usd": 7916.28,
       "holders_fetched": 284,
       "transfers_fetched": 345
     },
@@ -11875,7 +11875,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4092.24,
+      "market_cap_usd": 4019.6,
       "holders_fetched": 279,
       "transfers_fetched": 469
     },
@@ -11902,7 +11902,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 24428.04,
+      "market_cap_usd": 23984.17,
       "holders_fetched": 275,
       "transfers_fetched": 863
     },
@@ -11929,7 +11929,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3555.7,
+      "market_cap_usd": 3492.58,
       "holders_fetched": 271,
       "transfers_fetched": 291
     },
@@ -11956,7 +11956,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5403.15,
+      "market_cap_usd": 5304.97,
       "holders_fetched": 269,
       "transfers_fetched": 281
     },
@@ -11983,7 +11983,7 @@
       "farm_sample_pct": 40.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2910.48,
+      "market_cap_usd": 2858.81,
       "holders_fetched": 266,
       "transfers_fetched": 277
     },
@@ -12010,7 +12010,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4077.85,
+      "market_cap_usd": 4005.45,
       "holders_fetched": 261,
       "transfers_fetched": 414
     },
@@ -12037,7 +12037,7 @@
       "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3636.43,
+      "market_cap_usd": 3571.87,
       "holders_fetched": 257,
       "transfers_fetched": 288
     },
@@ -12064,7 +12064,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 9878.97,
+      "market_cap_usd": 9699.46,
       "holders_fetched": 231,
       "transfers_fetched": 344
     },
@@ -12091,7 +12091,7 @@
       "farm_sample_pct": 13.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4517.66,
+      "market_cap_usd": 4437.46,
       "holders_fetched": 230,
       "transfers_fetched": 368
     },
@@ -12118,7 +12118,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2762.07,
+      "market_cap_usd": 2713.03,
       "holders_fetched": 224,
       "transfers_fetched": 225
     },
@@ -12145,7 +12145,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3951.03,
+      "market_cap_usd": 3879.24,
       "holders_fetched": 223,
       "transfers_fetched": 233
     },
@@ -12172,7 +12172,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4207.09,
+      "market_cap_usd": 4132.4,
       "holders_fetched": 218,
       "transfers_fetched": 364
     },
@@ -12199,7 +12199,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4218.63,
+      "market_cap_usd": 4143.73,
       "holders_fetched": 217,
       "transfers_fetched": 365
     },
@@ -12226,7 +12226,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4108.26,
+      "market_cap_usd": 4035.33,
       "holders_fetched": 212,
       "transfers_fetched": 356
     },
@@ -12253,7 +12253,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2681.57,
+      "market_cap_usd": 2633.97,
       "holders_fetched": 211,
       "transfers_fetched": 2000
     },
@@ -12280,7 +12280,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2940.93,
+      "market_cap_usd": 2888.72,
       "holders_fetched": 210,
       "transfers_fetched": 214
     },
@@ -12307,7 +12307,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4333.06,
+      "market_cap_usd": 4256.13,
       "holders_fetched": 209,
       "transfers_fetched": 354
     },
@@ -12334,7 +12334,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4011.17,
+      "market_cap_usd": 3939.96,
       "holders_fetched": 206,
       "transfers_fetched": 340
     },
@@ -12361,7 +12361,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4398.39,
+      "market_cap_usd": 4320.31,
       "holders_fetched": 205,
       "transfers_fetched": 343
     },
@@ -12388,7 +12388,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4117.07,
+      "market_cap_usd": 4043.98,
       "holders_fetched": 205,
       "transfers_fetched": 352
     },
@@ -12415,7 +12415,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4247.53,
+      "market_cap_usd": 4172.12,
       "holders_fetched": 203,
       "transfers_fetched": 215
     },
@@ -12442,7 +12442,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4283.83,
+      "market_cap_usd": 4207.78,
       "holders_fetched": 202,
       "transfers_fetched": 351
     },
@@ -12469,7 +12469,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4011.36,
+      "market_cap_usd": 3938.47,
       "holders_fetched": 201,
       "transfers_fetched": 228
     },
@@ -12496,7 +12496,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3778.42,
+      "market_cap_usd": 3711.34,
       "holders_fetched": 196,
       "transfers_fetched": 244
     },
@@ -12523,7 +12523,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4112.74,
+      "market_cap_usd": 4039.72,
       "holders_fetched": 192,
       "transfers_fetched": 344
     },
@@ -12550,7 +12550,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4111.38,
+      "market_cap_usd": 4038.39,
       "holders_fetched": 191,
       "transfers_fetched": 348
     },
@@ -12577,7 +12577,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3056.56,
+      "market_cap_usd": 3002.3,
       "holders_fetched": 191,
       "transfers_fetched": 243
     },
@@ -12604,7 +12604,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4394.32,
+      "market_cap_usd": 4316.31,
       "holders_fetched": 190,
       "transfers_fetched": 192
     },
@@ -12631,7 +12631,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4148.97,
+      "market_cap_usd": 4075.32,
       "holders_fetched": 172,
       "transfers_fetched": 174
     },
@@ -12658,7 +12658,7 @@
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4762.38,
+      "market_cap_usd": 4677.83,
       "holders_fetched": 164,
       "transfers_fetched": 172
     },
@@ -12685,7 +12685,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2735.54,
+      "market_cap_usd": 2686.97,
       "holders_fetched": 162,
       "transfers_fetched": 185
     },
@@ -12712,7 +12712,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 25222.23,
+      "market_cap_usd": 24763.92,
       "holders_fetched": 157,
       "transfers_fetched": 176
     },
@@ -12739,7 +12739,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4902.31,
+      "market_cap_usd": 4815.28,
       "holders_fetched": 153,
       "transfers_fetched": 154
     },
@@ -12766,7 +12766,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 158615.55,
+      "market_cap_usd": 155733.38,
       "holders_fetched": 149,
       "transfers_fetched": 166
     },
@@ -12793,7 +12793,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3166.93,
+      "market_cap_usd": 3110.71,
       "holders_fetched": 139,
       "transfers_fetched": 790
     },
@@ -12820,7 +12820,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2716.5,
+      "market_cap_usd": 2668.27,
       "holders_fetched": 135,
       "transfers_fetched": 146
     },
@@ -12847,7 +12847,7 @@
       "farm_sample_pct": 86.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3392.03,
+      "market_cap_usd": 3331.81,
       "holders_fetched": 134,
       "transfers_fetched": 160
     },
@@ -12874,7 +12874,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4436.38,
+      "market_cap_usd": 4357.62,
       "holders_fetched": 131,
       "transfers_fetched": 134
     },
@@ -12901,7 +12901,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3038.04,
+      "market_cap_usd": 2984.11,
       "holders_fetched": 130,
       "transfers_fetched": 160
     },
@@ -12928,7 +12928,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 5428.95,
+      "market_cap_usd": 5330.3,
       "holders_fetched": 128,
       "transfers_fetched": 133
     },
@@ -12955,7 +12955,7 @@
       "farm_sample_pct": 0.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4658.34,
+      "market_cap_usd": 4575.64,
       "holders_fetched": 128,
       "transfers_fetched": 132
     },
@@ -12982,7 +12982,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4135.35,
+      "market_cap_usd": 4061.93,
       "holders_fetched": 118,
       "transfers_fetched": 123
     },
@@ -13009,7 +13009,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6828.46,
+      "market_cap_usd": 6707.24,
       "holders_fetched": 118,
       "transfers_fetched": 384
     },
@@ -13036,7 +13036,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3956.76,
+      "market_cap_usd": 3886.52,
       "holders_fetched": 117,
       "transfers_fetched": 119
     },
@@ -13063,7 +13063,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3924.23,
+      "market_cap_usd": 3854.57,
       "holders_fetched": 117,
       "transfers_fetched": 133
     },
@@ -13090,7 +13090,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3956.45,
+      "market_cap_usd": 3886.21,
       "holders_fetched": 115,
       "transfers_fetched": 115
     },
@@ -13117,7 +13117,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 13190.89,
+      "market_cap_usd": 12951.2,
       "holders_fetched": 113,
       "transfers_fetched": 122
     },
@@ -13144,7 +13144,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 6629.82,
+      "market_cap_usd": 6509.35,
       "holders_fetched": 111,
       "transfers_fetched": 114
     },
@@ -13171,7 +13171,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 4155.93,
+      "market_cap_usd": 4082.15,
       "holders_fetched": 108,
       "transfers_fetched": 110
     },
@@ -13198,7 +13198,7 @@
       "farm_sample_pct": 100.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2785.39,
+      "market_cap_usd": 2735.94,
       "holders_fetched": 106,
       "transfers_fetched": 118
     },
@@ -13225,7 +13225,7 @@
       "farm_sample_pct": 46.7,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 11988.4,
+      "market_cap_usd": 11770.56,
       "holders_fetched": 106,
       "transfers_fetched": 123
     },
@@ -13279,7 +13279,7 @@
       "farm_sample_pct": null,
       "farm_sample_n": 0,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 3956.86,
+      "market_cap_usd": 3886.62,
       "holders_fetched": 102,
       "transfers_fetched": 102
     },
@@ -13306,7 +13306,7 @@
       "farm_sample_pct": 80.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 2825.57,
+      "market_cap_usd": 2775.41,
       "holders_fetched": 102,
       "transfers_fetched": 104
     },
@@ -13319,20 +13319,20 @@
       "address": "0x8a2201953AF29e8BE7700bcB53dA3ce5caD18726",
       "raw_holders": 126735,
       "eoa_holders": 9983,
-      "clone_wallets": 4787,
+      "clone_wallets": 4786,
       "largest_cluster": 1210,
       "cross_token_wallets": 2346,
-      "est_organic": 4383,
+      "est_organic": 4384,
       "quality_pct": null,
       "pool_share_pct": 9.9,
       "top_eoa_share_pct": 70.4,
-      "pool_buys_seen": 1029,
-      "burst_6h_pct": 83.8,
+      "pool_buys_seen": 1030,
+      "burst_6h_pct": 81.5,
       "ladder_pct": 0.0,
-      "buy_only_pct": 0.9,
-      "farm_sample_pct": 86.7,
+      "buy_only_pct": 1.0,
+      "farm_sample_pct": 93.3,
       "farm_sample_n": 15,
-      "volume_24h_usd": 2709.99,
+      "volume_24h_usd": 2688.18,
       "market_cap_usd": 653946446.3,
       "holders_fetched": 10000,
       "transfers_fetched": 2000
@@ -13353,14 +13353,14 @@
       "quality_pct": null,
       "pool_share_pct": 45.2,
       "top_eoa_share_pct": 18.8,
-      "pool_buys_seen": 1986,
+      "pool_buys_seen": 1984,
       "burst_6h_pct": 15.4,
       "ladder_pct": 99.8,
       "buy_only_pct": 33.3,
       "farm_sample_pct": 6.7,
       "farm_sample_n": 15,
-      "volume_24h_usd": 0.5,
-      "market_cap_usd": 1241016.85,
+      "volume_24h_usd": 1.12,
+      "market_cap_usd": 1218479.11,
       "holders_fetched": 10000,
       "transfers_fetched": 2000
     },
@@ -13441,7 +13441,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 308420.99,
+      "market_cap_usd": 302816.72,
       "holders_fetched": 10000,
       "transfers_fetched": 2000
     },
@@ -13468,7 +13468,7 @@
       "farm_sample_pct": 73.3,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 399587.65,
+      "market_cap_usd": 392326.82,
       "holders_fetched": 10000,
       "transfers_fetched": 2000
     },
@@ -13495,7 +13495,7 @@
       "farm_sample_pct": 20.0,
       "farm_sample_n": 15,
       "volume_24h_usd": 0.0,
-      "market_cap_usd": 15832.49,
+      "market_cap_usd": 15544.8,
       "holders_fetched": 10000,
       "transfers_fetched": 2000
     }

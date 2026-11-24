@@ -2,7 +2,7 @@
   "address": "0x7cc41cac5704E0E28aaF56844850955fa7c59E33",
   "symbol": "HYGAARA",
   "name": "Garra",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8321.17,
+    "market_cap_usd": 8169.96,
     "holders_fetched": 1667,
     "transfers_fetched": 2000
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 4.9,
+      "organic_holders": 82,
+      "reported_holders": 1667
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 4.9,
       "organic_holders": 82,
       "reported_holders": 1667

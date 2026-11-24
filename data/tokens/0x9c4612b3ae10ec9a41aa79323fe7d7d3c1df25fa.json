@@ -2,7 +2,7 @@
   "address": "0x9C4612B3aE10Ec9A41aa79323FE7d7D3C1Df25fA",
   "symbol": "EHYPE",
   "name": "eHYPE",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 7016.7,
+    "market_cap_usd": 6892.13,
     "holders_fetched": 194,
     "transfers_fetched": 2000
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 3.6,
+      "organic_holders": 7,
+      "reported_holders": 194
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 3.6,
       "organic_holders": 7,
       "reported_holders": 194

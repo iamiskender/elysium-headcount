@@ -2,7 +2,7 @@
   "address": "0x783677206193A6d1470C606E485Dc5e0e46aBF10",
   "symbol": "OSMO",
   "name": "Osmosis",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 2.0,
+      "organic_holders": 3,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 2.0,
       "organic_holders": 3,
       "reported_holders": 150

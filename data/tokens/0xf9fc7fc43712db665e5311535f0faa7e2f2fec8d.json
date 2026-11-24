@@ -2,7 +2,7 @@
   "address": "0xf9fc7fc43712db665e5311535f0fAA7e2F2FeC8d",
   "symbol": "ATLAS",
   "name": "atlas",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 9878.97,
+    "market_cap_usd": 9699.46,
     "holders_fetched": 231,
     "transfers_fetched": 344
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 7.0,
+      "organic_holders": 16,
+      "reported_holders": 231
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 7.0,
       "organic_holders": 16,
       "reported_holders": 231

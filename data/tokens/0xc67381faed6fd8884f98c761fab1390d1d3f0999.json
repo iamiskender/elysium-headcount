@@ -2,7 +2,7 @@
   "address": "0xc67381fAed6fd8884f98C761Fab1390d1d3f0999",
   "symbol": "KM",
   "name": "Kinetiq Monster",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F12",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 4.4,
+      "organic_holders": 146,
+      "reported_holders": 3301
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 4.4,
       "organic_holders": 146,
       "reported_holders": 3301

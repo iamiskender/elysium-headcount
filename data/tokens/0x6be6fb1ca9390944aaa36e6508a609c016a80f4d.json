@@ -2,7 +2,7 @@
   "address": "0x6be6fb1ca9390944aAA36e6508A609C016A80F4D",
   "symbol": "GRL",
   "name": "Girl",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4073.87,
+    "market_cap_usd": 4001.55,
     "holders_fetched": 933,
     "transfers_fetched": 937
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 3.1,
+      "organic_holders": 29,
+      "reported_holders": 933
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 3.1,
       "organic_holders": 29,
       "reported_holders": 933

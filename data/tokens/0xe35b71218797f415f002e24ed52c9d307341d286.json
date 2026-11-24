@@ -2,7 +2,7 @@
   "address": "0xE35b71218797F415F002e24ed52c9d307341D286",
   "symbol": "FRONK",
   "name": "FRONK",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 22394.91,
+    "market_cap_usd": 21987.98,
     "holders_fetched": 2000,
     "transfers_fetched": 2000
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 43.7,
+      "organic_holders": 874,
+      "reported_holders": 2000
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 43.7,
       "organic_holders": 874,
       "reported_holders": 2000

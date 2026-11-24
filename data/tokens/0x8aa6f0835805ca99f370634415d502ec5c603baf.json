@@ -2,7 +2,7 @@
   "address": "0x8aa6F0835805Ca99f370634415d502ec5c603Baf",
   "symbol": "GCR",
   "name": "Gigantic Rebirth",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 399587.65,
+    "market_cap_usd": 392326.82,
     "holders_fetched": 10000,
     "transfers_fetched": 2000
   },

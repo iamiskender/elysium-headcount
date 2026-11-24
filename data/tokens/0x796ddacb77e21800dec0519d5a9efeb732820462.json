@@ -2,7 +2,7 @@
   "address": "0x796ddaCb77E21800dEC0519D5A9eFeB732820462",
   "symbol": "KHUTLA",
   "name": "KARHUTLA",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F14",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 0.4,
+      "organic_holders": 4,
+      "reported_holders": 1009
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 0.4,
       "organic_holders": 4,
       "reported_holders": 1009

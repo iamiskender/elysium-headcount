@@ -2,7 +2,7 @@
   "address": "0x378BCC6827483d176473AddC279d19A8Ea3ad752",
   "symbol": "RHSL",
   "name": "Rehearsal",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 308420.99,
+    "market_cap_usd": 302816.72,
     "holders_fetched": 10000,
     "transfers_fetched": 2000
   },

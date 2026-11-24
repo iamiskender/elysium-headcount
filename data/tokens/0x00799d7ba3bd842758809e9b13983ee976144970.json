@@ -2,7 +2,7 @@
   "address": "0x00799D7bA3bD842758809e9b13983Ee976144970",
   "symbol": "C15R",
   "name": "C15 Roadster",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 7070.43,
+    "market_cap_usd": 6944.91,
     "holders_fetched": 2647,
     "transfers_fetched": 2000
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 35.4,
+      "organic_holders": 938,
+      "reported_holders": 2647
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 35.4,
       "organic_holders": 938,
       "reported_holders": 2647

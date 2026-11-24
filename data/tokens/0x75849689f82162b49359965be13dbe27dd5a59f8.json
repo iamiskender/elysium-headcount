@@ -2,7 +2,7 @@
   "address": "0x75849689F82162b49359965BE13dBE27Dd5a59f8",
   "symbol": "EACC",
   "name": "hear me out",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4839.52,
+    "market_cap_usd": 4753.61,
     "holders_fetched": 304,
     "transfers_fetched": 1572
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 4.0,
+      "organic_holders": 12,
+      "reported_holders": 304
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 4.0,
       "organic_holders": 12,
       "reported_holders": 304

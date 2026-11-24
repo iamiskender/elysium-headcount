@@ -2,7 +2,7 @@
   "address": "0x71cCc89D7508946f8D88e59Ed71440cd28263ADD",
   "symbol": "VEL",
   "name": "Velusia",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 37915.51,
+    "market_cap_usd": 37226.55,
     "holders_fetched": 3534,
     "transfers_fetched": 2000
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 25.5,
+      "organic_holders": 901,
+      "reported_holders": 3534
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 25.5,
       "organic_holders": 901,
       "reported_holders": 3534

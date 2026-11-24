@@ -2,7 +2,7 @@
   "address": "0x7211356b65658ac1eDfFBCf46Ac406efE6E7E685",
   "symbol": "HPS",
   "name": "hasan parvez",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3236.06,
+    "market_cap_usd": 3178.61,
     "holders_fetched": 388,
     "transfers_fetched": 824
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 3.4,
+      "organic_holders": 13,
+      "reported_holders": 388
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 3.4,
       "organic_holders": 13,
       "reported_holders": 388

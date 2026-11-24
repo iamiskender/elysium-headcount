@@ -2,7 +2,7 @@
   "address": "0xDB0E8d9A6Ec94c4E6e8b82522eE7D2b96323A3D5",
   "symbol": "GLDx",
   "name": "Gold",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 147
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 2.7,
       "organic_holders": 4,
       "reported_holders": 147

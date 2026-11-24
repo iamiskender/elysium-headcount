@@ -2,7 +2,7 @@
   "address": "0x4ec9971241CEc36b14e358328407AE0C165312bb",
   "symbol": "IVBIS",
   "name": "Ivory Bison",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F10",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8163.48,
+    "market_cap_usd": 8015.14,
     "holders_fetched": 280,
     "transfers_fetched": 435
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 14.0,
+      "organic_holders": 39,
+      "reported_holders": 280
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 14.0,
       "organic_holders": 39,
       "reported_holders": 280

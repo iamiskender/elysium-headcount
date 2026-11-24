@@ -2,7 +2,7 @@
   "address": "0x9eB07F6Fff5d97ea90e733d3731Ae64BaBFfDc29",
   "symbol": "RING",
   "name": "ring",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F10",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4685.83,
+    "market_cap_usd": 4602.64,
     "holders_fetched": 298,
     "transfers_fetched": 808
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 12.5,
+      "organic_holders": 37,
+      "reported_holders": 298
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 12.5,
       "organic_holders": 37,
       "reported_holders": 298

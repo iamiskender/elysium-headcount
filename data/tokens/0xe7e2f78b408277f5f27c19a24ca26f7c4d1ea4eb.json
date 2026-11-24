@@ -2,7 +2,7 @@
   "address": "0xE7e2F78B408277f5F27C19A24ca26F7c4d1ea4eb",
   "symbol": "hgelo",
   "name": "Hyip GelO",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F14",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 0.2,
+      "organic_holders": 2,
+      "reported_holders": 1008
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 0.2,
       "organic_holders": 2,
       "reported_holders": 1008

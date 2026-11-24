@@ -2,7 +2,7 @@
   "address": "0x5A828dd7e501001116f1f1bFdB158d23239e335d",
   "symbol": "CHIHUA",
   "name": "Chihuahua",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 5.3,
+      "organic_holders": 8,
+      "reported_holders": 153
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 5.3,
       "organic_holders": 8,
       "reported_holders": 153

@@ -2,7 +2,7 @@
   "address": "0xc9e3C415e6A64eF6376c62555CB22286922b65DF",
   "symbol": "PAIN",
   "name": "Max pain",
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4868.53,
+    "market_cap_usd": 4782.1,
     "holders_fetched": 819,
     "transfers_fetched": 858
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-23",
+      "organic_share_pct": 3.8,
+      "organic_holders": 31,
+      "reported_holders": 819
+    },
+    {
+      "date": "2026-11-24",
       "organic_share_pct": 3.8,
       "organic_holders": 31,
       "reported_holders": 819

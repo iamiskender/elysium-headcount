@@ -1,12 +1,12 @@
 {
-  "snapshot": "2026-11-23T18:51:31.943937+00:00",
+  "snapshot": "2026-11-24T19:38:02.130402+00:00",
   "totals": {
     "tokens": 492,
     "raw": 443455,
     "eoa": 442804,
     "organic": 50679
   },
-  "days_recorded": 16,
+  "days_recorded": 17,
   "tokens": [
     {
       "address": "0x5a5F20682B20A06aD81e840c85773Ea823624637",
