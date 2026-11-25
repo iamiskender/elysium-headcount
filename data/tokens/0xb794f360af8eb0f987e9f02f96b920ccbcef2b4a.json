@@ -2,7 +2,7 @@
   "address": "0xB794F360af8Eb0F987E9F02F96b920cCbcef2b4a",
   "symbol": "YAHE",
   "name": "YarHunter",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 4.4,
+      "organic_holders": 7,
+      "reported_holders": 161
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 4.4,
       "organic_holders": 7,
       "reported_holders": 161

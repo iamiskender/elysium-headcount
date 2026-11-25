@@ -2,7 +2,7 @@
   "address": "0x33fed3D3FB48aCaaa77fD272eecA534Bd1bEB664",
   "symbol": "JBTO",
   "name": "JABATO",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5238.41,
+    "market_cap_usd": 4858.79,
     "holders_fetched": 807,
     "transfers_fetched": 814
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 2.5,
+      "organic_holders": 20,
+      "reported_holders": 807
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 2.5,
       "organic_holders": 20,
       "reported_holders": 807

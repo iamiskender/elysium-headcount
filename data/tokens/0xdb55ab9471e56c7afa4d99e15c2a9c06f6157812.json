@@ -2,7 +2,7 @@
   "address": "0xdb55Ab9471E56C7afa4d99E15C2a9C06f6157812",
   "symbol": "AEL",
   "name": "3D Angel",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1359,
     "clone_wallets": 844,
     "largest_cluster": 92,
-    "cross_token_wallets": 1228,
-    "est_organic": 68,
-    "quality_pct": 5.0,
+    "cross_token_wallets": 1225,
+    "est_organic": 69,
+    "quality_pct": 5.1,
     "pool_share_pct": 61.3,
     "top_eoa_share_pct": 30.9,
     "pool_buys_seen": 1363,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5432.7,
+    "market_cap_usd": 5038.99,
     "holders_fetched": 1361,
     "transfers_fetched": 1367
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 5.0,
       "organic_holders": 68,
+      "reported_holders": 1361
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 5.1,
+      "organic_holders": 69,
       "reported_holders": 1361
     }
   ],

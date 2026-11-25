@@ -2,7 +2,7 @@
   "address": "0x8215C28be8A3Be795E24099BBE527BEE47193e8f",
   "symbol": "ATLSP",
   "name": "Atlas Pillar",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6664.89,
+    "market_cap_usd": 6181.88,
     "holders_fetched": 3565,
     "transfers_fetched": 2000
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 1.5,
+      "organic_holders": 52,
+      "reported_holders": 3565
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 1.5,
       "organic_holders": 52,
       "reported_holders": 3565

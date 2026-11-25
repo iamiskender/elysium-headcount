@@ -2,7 +2,7 @@
   "address": "0xcB47022ce7Ea68a225F8E8c125c26B680DE4199d",
   "symbol": "CENA",
   "name": "JOHNCENA",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": null,
     "farm_sample_n": 0,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2633.97,
+    "market_cap_usd": 2443.08,
     "holders_fetched": 211,
     "transfers_fetched": 2000
   },
@@ -69,6 +69,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 96.2,
+      "organic_holders": 202,
+      "reported_holders": 211
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 96.2,
       "organic_holders": 202,
       "reported_holders": 211

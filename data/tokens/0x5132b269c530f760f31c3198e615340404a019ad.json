@@ -2,7 +2,7 @@
   "address": "0x5132B269c530F760F31c3198E615340404A019ad",
   "symbol": "pop",
   "name": "Pop Social",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 5.1,
+      "organic_holders": 8,
+      "reported_holders": 157
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 5.1,
       "organic_holders": 8,
       "reported_holders": 157

@@ -2,7 +2,7 @@
   "address": "0x91d48F5259E3f237c536bA285A396584C89810b1",
   "symbol": "Glyph",
   "name": "Glyph Universe",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 4.6,
+      "organic_holders": 7,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 4.6,
       "organic_holders": 7,
       "reported_holders": 152

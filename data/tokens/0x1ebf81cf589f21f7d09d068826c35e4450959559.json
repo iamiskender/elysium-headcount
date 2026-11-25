@@ -2,11 +2,11 @@
   "address": "0x1ebF81cf589f21f7D09d068826c35E4450959559",
   "symbol": "CHOCOBO",
   "name": "Chocobo Token",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
-    "family_size": 6,
+    "family_size": 7,
     "symbol": "CHOCOBO",
     "name": "Chocobo Token",
     "address": "0x1ebF81cf589f21f7D09d068826c35E4450959559",
@@ -14,9 +14,9 @@
     "eoa_holders": 192,
     "clone_wallets": 141,
     "largest_cluster": 33,
-    "cross_token_wallets": 183,
-    "est_organic": 9,
-    "quality_pct": 4.7,
+    "cross_token_wallets": 188,
+    "est_organic": 4,
+    "quality_pct": 2.1,
     "pool_share_pct": 93.6,
     "top_eoa_share_pct": 5.5,
     "pool_buys_seen": 2000,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4825.29,
+    "market_cap_usd": 4475.6,
     "holders_fetched": 193,
     "transfers_fetched": 2000
   },
@@ -95,6 +95,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 4.7,
       "organic_holders": 9,
+      "reported_holders": 193
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 2.1,
+      "organic_holders": 4,
       "reported_holders": 193
     }
   ],

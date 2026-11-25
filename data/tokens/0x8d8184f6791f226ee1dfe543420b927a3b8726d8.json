@@ -2,7 +2,7 @@
   "address": "0x8d8184F6791F226Ee1Dfe543420b927A3B8726D8",
   "symbol": "TFROG",
   "name": "TurboFrog",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3132.55,
+    "market_cap_usd": 2905.53,
     "holders_fetched": 457,
     "transfers_fetched": 464
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 1.3,
+      "organic_holders": 6,
+      "reported_holders": 457
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 1.3,
       "organic_holders": 6,
       "reported_holders": 457

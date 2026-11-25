@@ -2,7 +2,7 @@
   "address": "0x6367eeD5F5D247422d9282D5a3865230c18f8888",
   "symbol": "EVRT",
   "name": "Elysium Verified Release Test",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -123,6 +123,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 2.0,
+      "organic_holders": 41,
+      "reported_holders": 2053
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 2.0,
       "organic_holders": 41,
       "reported_holders": 2053

@@ -2,7 +2,7 @@
   "address": "0xFF2940976E65734ae22A37E4eB50556f5925b61a",
   "symbol": "HUNT",
   "name": "HUNTERS",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1130,
     "clone_wallets": 495,
     "largest_cluster": 87,
-    "cross_token_wallets": 1013,
-    "est_organic": 85,
-    "quality_pct": 7.5,
+    "cross_token_wallets": 1011,
+    "est_organic": 86,
+    "quality_pct": 7.6,
     "pool_share_pct": 90.3,
     "top_eoa_share_pct": 7.5,
     "pool_buys_seen": 1146,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4450.84,
+    "market_cap_usd": 4128.29,
     "holders_fetched": 1132,
     "transfers_fetched": 1157
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 7.5,
       "organic_holders": 85,
+      "reported_holders": 1132
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 7.6,
+      "organic_holders": 86,
       "reported_holders": 1132
     }
   ],

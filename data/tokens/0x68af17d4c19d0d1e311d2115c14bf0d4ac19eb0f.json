@@ -2,7 +2,7 @@
   "address": "0x68Af17d4C19D0D1E311D2115c14BF0d4Ac19eb0F",
   "symbol": "ELYZ",
   "name": "Elyziuma",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 5216.97,
+    "market_cap_usd": 4836.17,
     "holders_fetched": 680,
     "transfers_fetched": 693
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 9.6,
+      "organic_holders": 65,
+      "reported_holders": 680
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 9.6,
       "organic_holders": 65,
       "reported_holders": 680

@@ -2,7 +2,7 @@
   "address": "0x74C00EE9f8c3fb2f2923f33823187FE5EC752f50",
   "symbol": "BTZN",
   "name": "Bitizens",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -20,13 +20,13 @@
     "pool_share_pct": 33.3,
     "top_eoa_share_pct": 4.5,
     "pool_buys_seen": 323,
-    "burst_6h_pct": 51.4,
+    "burst_6h_pct": 51.1,
     "ladder_pct": 18.3,
     "buy_only_pct": 59.5,
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
-    "volume_24h_usd": 0.13,
-    "market_cap_usd": 139608.41,
+    "volume_24h_usd": 0.06,
+    "market_cap_usd": 129418.03,
     "holders_fetched": 837,
     "transfers_fetched": 2000
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 77.7,
+      "organic_holders": 645,
+      "reported_holders": 837
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 77.7,
       "organic_holders": 645,
       "reported_holders": 837

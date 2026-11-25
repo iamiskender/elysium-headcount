@@ -2,7 +2,7 @@
   "address": "0xd4a3b414DFa1744c8ebFBac775f2F3C89692Aea2",
   "symbol": "BUNNY",
   "name": "Bunny Test",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,8 +14,8 @@
     "eoa_holders": 4737,
     "clone_wallets": 1829,
     "largest_cluster": 911,
-    "cross_token_wallets": 3584,
-    "est_organic": 1112,
+    "cross_token_wallets": 3582,
+    "est_organic": 1114,
     "quality_pct": 23.5,
     "pool_share_pct": 4.7,
     "top_eoa_share_pct": 1.6,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 13.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 1080387.34,
+    "market_cap_usd": 1001527.06,
     "holders_fetched": 4740,
     "transfers_fetched": 2000
   },
@@ -89,6 +89,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 23.5,
       "organic_holders": 1112,
+      "reported_holders": 4740
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 23.5,
+      "organic_holders": 1114,
       "reported_holders": 4740
     }
   ],

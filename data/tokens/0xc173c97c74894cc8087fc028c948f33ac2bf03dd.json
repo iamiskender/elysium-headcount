@@ -2,11 +2,11 @@
   "address": "0xc173C97C74894Cc8087fc028c948f33AC2bf03DD",
   "symbol": "DOGE",
   "name": "dogecoin",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F8",
-    "family_size": 6,
+    "family_size": 7,
     "symbol": "DOGE",
     "name": "dogecoin",
     "address": "0xc173C97C74894Cc8087fc028c948f33AC2bf03DD",
@@ -14,9 +14,9 @@
     "eoa_holders": 235,
     "clone_wallets": 125,
     "largest_cluster": 29,
-    "cross_token_wallets": 187,
-    "est_organic": 19,
-    "quality_pct": 8.1,
+    "cross_token_wallets": 192,
+    "est_organic": 14,
+    "quality_pct": 6.0,
     "pool_share_pct": 89.4,
     "top_eoa_share_pct": 9.8,
     "pool_buys_seen": 1997,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6241.88,
+    "market_cap_usd": 5789.53,
     "holders_fetched": 236,
     "transfers_fetched": 2000
   },
@@ -101,6 +101,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 8.1,
       "organic_holders": 19,
+      "reported_holders": 236
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 6.0,
+      "organic_holders": 14,
       "reported_holders": 236
     }
   ],

@@ -2,7 +2,7 @@
   "address": "0x109aC6299f7a24c13Cd35d3e3433E23DeF35274D",
   "symbol": "ELASIA",
   "name": "elasia",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 26.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 101085.59,
+    "market_cap_usd": 93707.09,
     "holders_fetched": 2158,
     "transfers_fetched": 2000
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 1.3,
+      "organic_holders": 29,
+      "reported_holders": 2158
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 1.3,
       "organic_holders": 29,
       "reported_holders": 2158

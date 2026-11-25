@@ -2,7 +2,7 @@
   "address": "0x95f37F906114D5B7ED7f2690784a154Fd0B5c29A",
   "symbol": "ECOSIG4",
   "name": "EcoSig4356",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3693.47,
+    "market_cap_usd": 3425.8,
     "holders_fetched": 599,
     "transfers_fetched": 2000
   },
@@ -129,6 +129,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 16.6,
+      "organic_holders": 99,
+      "reported_holders": 599
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 16.6,
       "organic_holders": 99,
       "reported_holders": 599

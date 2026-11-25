@@ -2,7 +2,7 @@
   "address": "0x7300211dAf6478E776C242DAd61573334c368888",
   "symbol": "ELYS",
   "name": "Elys",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -123,6 +123,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 2.1,
+      "organic_holders": 41,
+      "reported_holders": 1999
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 2.1,
       "organic_holders": 41,
       "reported_holders": 1999

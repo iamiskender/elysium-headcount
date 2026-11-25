@@ -2,7 +2,7 @@
   "address": "0xdaCF691498b4b245F959B2B45912322e1220653D",
   "symbol": "CRCLx",
   "name": "Circle",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 5.7,
+      "organic_holders": 9,
+      "reported_holders": 158
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 5.7,
       "organic_holders": 9,
       "reported_holders": 158

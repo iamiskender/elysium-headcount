@@ -2,7 +2,7 @@
   "address": "0x8176B9faB65858C5d3Ae7Ba026a6cF25995356b2",
   "symbol": "Stable",
   "name": "Stable",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 3.9,
+      "organic_holders": 6,
+      "reported_holders": 153
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 3.9,
       "organic_holders": 6,
       "reported_holders": 153

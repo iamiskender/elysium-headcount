@@ -2,7 +2,7 @@
   "address": "0x8aa6F0835805Ca99f370634415d502ec5c603Baf",
   "symbol": "GCR",
   "name": "Gigantic Rebirth",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -14,8 +14,8 @@
     "eoa_holders": 9999,
     "clone_wallets": 7832,
     "largest_cluster": 1888,
-    "cross_token_wallets": 5888,
-    "est_organic": 1324,
+    "cross_token_wallets": 5893,
+    "est_organic": 1319,
     "quality_pct": null,
     "pool_share_pct": 22.9,
     "top_eoa_share_pct": 72.4,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 392326.82,
+    "market_cap_usd": 363689.86,
     "holders_fetched": 10000,
     "transfers_fetched": 2000
   },

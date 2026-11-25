@@ -2,7 +2,7 @@
   "address": "0xFFAaE5698502555d0088cb340b86d261D49529D5",
   "symbol": "Woodie",
   "name": "Woodie",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 399,
     "clone_wallets": 391,
     "largest_cluster": 202,
-    "cross_token_wallets": 384,
+    "cross_token_wallets": 383,
     "est_organic": 7,
     "quality_pct": 1.8,
     "pool_share_pct": 90.0,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2887.77,
+    "market_cap_usd": 2678.5,
     "holders_fetched": 400,
     "transfers_fetched": 405
   },
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 1.8,
+      "organic_holders": 7,
+      "reported_holders": 400
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 1.8,
       "organic_holders": 7,
       "reported_holders": 400

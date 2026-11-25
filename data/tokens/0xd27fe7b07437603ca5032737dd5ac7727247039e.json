@@ -2,7 +2,7 @@
   "address": "0xD27Fe7B07437603CA5032737dD5Ac7727247039E",
   "symbol": "MNC",
   "name": "MNC",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F11",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 26.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 145572.14,
+    "market_cap_usd": 134946.45,
     "holders_fetched": 5169,
     "transfers_fetched": 2000
   },
@@ -129,6 +129,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 19.6,
+      "organic_holders": 1014,
+      "reported_holders": 5169
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 19.6,
       "organic_holders": 1014,
       "reported_holders": 5169

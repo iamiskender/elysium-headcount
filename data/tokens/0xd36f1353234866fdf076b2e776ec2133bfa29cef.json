@@ -2,7 +2,7 @@
   "address": "0xd36f1353234866Fdf076B2e776EC2133BFa29CEf",
   "symbol": "HEFE",
   "name": "Hefe The Walrus",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 4.6,
+      "organic_holders": 7,
+      "reported_holders": 153
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 4.6,
       "organic_holders": 7,
       "reported_holders": 153

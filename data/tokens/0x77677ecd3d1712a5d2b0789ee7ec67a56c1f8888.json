@@ -2,7 +2,7 @@
   "address": "0x77677Ecd3D1712a5D2B0789Ee7EC67A56c1f8888",
   "symbol": "ELYCAT",
   "name": "Elysium Cat",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -14,8 +14,8 @@
     "eoa_holders": 2046,
     "clone_wallets": 1476,
     "largest_cluster": 749,
-    "cross_token_wallets": 1964,
-    "est_organic": 46,
+    "cross_token_wallets": 1965,
+    "est_organic": 45,
     "quality_pct": 2.2,
     "pool_share_pct": 80.7,
     "top_eoa_share_pct": 12.5,
@@ -125,6 +125,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 2.2,
       "organic_holders": 46,
+      "reported_holders": 2047
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 2.2,
+      "organic_holders": 45,
       "reported_holders": 2047
     }
   ],

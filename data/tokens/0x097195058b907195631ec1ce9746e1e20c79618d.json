@@ -2,7 +2,7 @@
   "address": "0x097195058B907195631Ec1ce9746E1e20C79618D",
   "symbol": "Suno",
   "name": "Suno",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 2.8,
+      "organic_holders": 4,
+      "reported_holders": 143
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 2.8,
       "organic_holders": 4,
       "reported_holders": 143

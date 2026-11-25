@@ -2,7 +2,7 @@
   "address": "0x00799D7bA3bD842758809e9b13983Ee976144970",
   "symbol": "C15R",
   "name": "C15 Roadster",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 2646,
     "clone_wallets": 1199,
     "largest_cluster": 566,
-    "cross_token_wallets": 1700,
-    "est_organic": 938,
-    "quality_pct": 35.4,
+    "cross_token_wallets": 1705,
+    "est_organic": 933,
+    "quality_pct": 35.3,
     "pool_share_pct": 86.8,
     "top_eoa_share_pct": 0.6,
     "pool_buys_seen": 1209,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6944.91,
+    "market_cap_usd": 6441.61,
     "holders_fetched": 2647,
     "transfers_fetched": 2000
   },
@@ -101,6 +101,12 @@
       "date": "2026-11-24",
       "organic_share_pct": 35.4,
       "organic_holders": 938,
+      "reported_holders": 2647
+    },
+    {
+      "date": "2026-11-25",
+      "organic_share_pct": 35.3,
+      "organic_holders": 933,
       "reported_holders": 2647
     }
   ],

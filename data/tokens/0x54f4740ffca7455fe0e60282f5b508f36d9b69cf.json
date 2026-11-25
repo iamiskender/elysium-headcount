@@ -2,7 +2,7 @@
   "address": "0x54F4740FFCA7455fe0e60282F5B508F36D9B69Cf",
   "symbol": "MAD",
   "name": "Mad Scientists \ud83e\uddea",
-  "snapshot": "2026-11-24T19:38:02.130402+00:00",
+  "snapshot": "2026-11-25T18:47:24.541196+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -87,6 +87,12 @@
     },
     {
       "date": "2026-11-24",
+      "organic_share_pct": 6.3,
+      "organic_holders": 10,
+      "reported_holders": 160
+    },
+    {
+      "date": "2026-11-25",
       "organic_share_pct": 6.3,
       "organic_holders": 10,
       "reported_holders": 160
