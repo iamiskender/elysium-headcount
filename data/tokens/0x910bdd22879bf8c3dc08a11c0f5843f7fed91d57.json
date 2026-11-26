@@ -2,7 +2,7 @@
   "address": "0x910BdD22879BF8C3dc08a11C0f5843f7feD91d57",
   "symbol": "TOMMY",
   "name": "mascot of ascend",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 11085.03,
+    "market_cap_usd": 11666.1,
     "holders_fetched": 541,
     "transfers_fetched": 1591
   },
@@ -129,6 +129,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 21.5,
+      "organic_holders": 116,
+      "reported_holders": 541
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 21.5,
       "organic_holders": 116,
       "reported_holders": 541

@@ -2,7 +2,7 @@
   "address": "0x9DD317bC3482f097c2c1f6aE95D2b655d6Dd87c1",
   "symbol": "TOTEM",
   "name": "Elysium Totem",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F15",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 80.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 9682.03,
+    "market_cap_usd": 10189.55,
     "holders_fetched": 676,
     "transfers_fetched": 1928
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 3.9,
+      "organic_holders": 26,
+      "reported_holders": 676
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 3.9,
       "organic_holders": 26,
       "reported_holders": 676

@@ -2,7 +2,7 @@
   "address": "0x52C9CCa2619b01bEFF9b152A106F91396222557f",
   "symbol": "BFB",
   "name": "Battle for Blockchain",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 3.9,
+      "organic_holders": 6,
+      "reported_holders": 156
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 3.9,
       "organic_holders": 6,
       "reported_holders": 156

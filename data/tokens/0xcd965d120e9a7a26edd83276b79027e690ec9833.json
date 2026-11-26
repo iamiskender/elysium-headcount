@@ -2,7 +2,7 @@
   "address": "0xCd965d120E9a7A26edd83276b79027E690eC9833",
   "symbol": "ELYSIANS",
   "name": "elysians",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": null,
     "farm_sample_n": 0,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4941.23,
+    "market_cap_usd": 5200.24,
     "holders_fetched": 128,
     "transfers_fetched": 133
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 64.3,
+      "organic_holders": 81,
+      "reported_holders": 128
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 64.3,
       "organic_holders": 81,
       "reported_holders": 128

@@ -2,7 +2,7 @@
   "address": "0x0f9E18006f6d1475e548ebC41fAA0c2f4cAf555f",
   "symbol": "METAPIXEL",
   "name": "METAPIXEL",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 2.7,
       "organic_holders": 4,
       "reported_holders": 150

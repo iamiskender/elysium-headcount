@@ -2,7 +2,7 @@
   "address": "0x52f7448D79f04F881Edd1E112236005B68B846B5",
   "symbol": "ANGEL",
   "name": "ELYSIUM ANGEL",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F15",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 80.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 11516.09,
+    "market_cap_usd": 12119.76,
     "holders_fetched": 667,
     "transfers_fetched": 1774
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 4.2,
+      "organic_holders": 28,
+      "reported_holders": 667
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 4.2,
       "organic_holders": 28,
       "reported_holders": 667

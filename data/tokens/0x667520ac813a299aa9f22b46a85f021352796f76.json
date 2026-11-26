@@ -2,7 +2,7 @@
   "address": "0x667520Ac813a299AA9f22B46a85F021352796f76",
   "symbol": "elly",
   "name": "elly/acc",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3585.22,
+    "market_cap_usd": 3773.15,
     "holders_fetched": 1136,
     "transfers_fetched": 1639
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 4.6,
+      "organic_holders": 52,
+      "reported_holders": 1136
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 4.6,
       "organic_holders": 52,
       "reported_holders": 1136

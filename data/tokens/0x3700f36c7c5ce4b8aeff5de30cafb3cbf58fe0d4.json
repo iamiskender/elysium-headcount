@@ -2,7 +2,7 @@
   "address": "0x3700f36c7c5Ce4b8aEff5De30CaFB3cBf58fe0D4",
   "symbol": "MUISYLE",
   "name": "MUISYLE",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F7",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 26.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 2441.35,
+    "market_cap_usd": 2569.32,
     "holders_fetched": 2061,
     "transfers_fetched": 2000
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 6.9,
+      "organic_holders": 143,
+      "reported_holders": 2061
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 6.9,
       "organic_holders": 143,
       "reported_holders": 2061

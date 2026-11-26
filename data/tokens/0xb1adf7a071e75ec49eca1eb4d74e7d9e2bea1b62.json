@@ -2,7 +2,7 @@
   "address": "0xb1ADf7a071E75Ec49ECa1eb4D74e7d9e2bEA1b62",
   "symbol": "AKASIUM",
   "name": "AKASIUM",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 14410.14,
+    "market_cap_usd": 15165.51,
     "holders_fetched": 10000,
     "transfers_fetched": 2000
   },

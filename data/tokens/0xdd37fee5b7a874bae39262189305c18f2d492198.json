@@ -2,7 +2,7 @@
   "address": "0xDd37FEE5b7A874Bae39262189305c18f2d492198",
   "symbol": "nunu",
   "name": "skape",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3060.93,
+    "market_cap_usd": 3221.39,
     "holders_fetched": 1377,
     "transfers_fetched": 1400
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 0.8,
+      "organic_holders": 11,
+      "reported_holders": 1377
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 0.8,
       "organic_holders": 11,
       "reported_holders": 1377

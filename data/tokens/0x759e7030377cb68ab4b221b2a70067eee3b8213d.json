@@ -2,7 +2,7 @@
   "address": "0x759e7030377CB68AB4B221b2A70067eEe3b8213d",
   "symbol": "DONPEPE",
   "name": "DON PEPE",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -14,9 +14,9 @@
     "eoa_holders": 3840,
     "clone_wallets": 2021,
     "largest_cluster": 837,
-    "cross_token_wallets": 2832,
-    "est_organic": 978,
-    "quality_pct": 25.5,
+    "cross_token_wallets": 2827,
+    "est_organic": 983,
+    "quality_pct": 25.6,
     "pool_share_pct": 81.2,
     "top_eoa_share_pct": 2.0,
     "pool_buys_seen": 1365,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 46.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8171.12,
+    "market_cap_usd": 8599.44,
     "holders_fetched": 3841,
     "transfers_fetched": 2000
   },
@@ -107,6 +107,12 @@
       "date": "2026-11-25",
       "organic_share_pct": 25.5,
       "organic_holders": 978,
+      "reported_holders": 3841
+    },
+    {
+      "date": "2026-11-26",
+      "organic_share_pct": 25.6,
+      "organic_holders": 983,
       "reported_holders": 3841
     }
   ],

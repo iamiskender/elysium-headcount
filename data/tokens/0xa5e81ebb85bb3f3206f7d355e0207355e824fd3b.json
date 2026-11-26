@@ -2,7 +2,7 @@
   "address": "0xA5E81EBb85bb3f3206f7d355e0207355E824FD3B",
   "symbol": "Tesla",
   "name": "Tesla",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 2.6,
+      "organic_holders": 4,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 2.6,
       "organic_holders": 4,
       "reported_holders": 152

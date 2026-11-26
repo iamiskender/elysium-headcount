@@ -2,7 +2,7 @@
   "address": "0xa543b421c4aE32a66d1878d332F30b70b5C1FaB6",
   "symbol": "Barto",
   "name": "Barto",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 2.0,
+      "organic_holders": 3,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 2.0,
       "organic_holders": 3,
       "reported_holders": 150

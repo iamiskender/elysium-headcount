@@ -2,7 +2,7 @@
   "address": "0x51dB1958a62cbEc077069fBfe7a1677b3A207652",
   "symbol": "OMH",
   "name": "OMAH",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3736.76,
+    "market_cap_usd": 3932.64,
     "holders_fetched": 469,
     "transfers_fetched": 473
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 7.5,
+      "organic_holders": 35,
+      "reported_holders": 469
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 7.5,
       "organic_holders": 35,
       "reported_holders": 469

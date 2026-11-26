@@ -2,7 +2,7 @@
   "address": "0x7666051F8F58Aa1Bc0dAD46A1B0ebf1F2584866A",
   "symbol": "ANGEL2",
   "name": "Angel2",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4604.67,
+    "market_cap_usd": 4846.05,
     "holders_fetched": 853,
     "transfers_fetched": 888
   },
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 3.6,
+      "organic_holders": 31,
+      "reported_holders": 853
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 3.6,
       "organic_holders": 31,
       "reported_holders": 853

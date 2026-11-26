@@ -2,7 +2,7 @@
   "address": "0x6E4EF8DA3405F9a1e0f29c163b2Be1D20E6A0021",
   "symbol": "MRVLx",
   "name": "Marvell",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -93,6 +93,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 1.4,
+      "organic_holders": 2,
+      "reported_holders": 147
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 1.4,
       "organic_holders": 2,
       "reported_holders": 147

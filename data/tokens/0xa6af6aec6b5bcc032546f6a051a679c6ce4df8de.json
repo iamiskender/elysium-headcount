@@ -2,7 +2,7 @@
   "address": "0xA6af6AeC6b5BCc032546F6a051A679c6ce4dF8De",
   "symbol": "SIGNAL",
   "name": "Signal",
-  "snapshot": "2026-11-25T18:47:24.541196+00:00",
+  "snapshot": "2026-11-26T18:26:31.704048+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 45.38,
+    "market_cap_usd": 47.76,
     "holders_fetched": 1265,
     "transfers_fetched": 2000
   },
@@ -75,6 +75,12 @@
     },
     {
       "date": "2026-11-25",
+      "organic_share_pct": 3.4,
+      "organic_holders": 43,
+      "reported_holders": 1265
+    },
+    {
+      "date": "2026-11-26",
       "organic_share_pct": 3.4,
       "organic_holders": 43,
       "reported_holders": 1265
