@@ -2,7 +2,7 @@
   "address": "0x6fDCf8Cf8Fa801c912Ec55665b511FBd4B867938",
   "symbol": "JOHNPORK",
   "name": "JOHN PORK",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F9",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 6665.25,
+    "market_cap_usd": 7179.67,
     "holders_fetched": 501,
     "transfers_fetched": 1082
   },
@@ -135,6 +135,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 24.8,
+      "organic_holders": 124,
+      "reported_holders": 501
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 24.8,
       "organic_holders": 124,
       "reported_holders": 501

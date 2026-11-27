@@ -2,7 +2,7 @@
   "address": "0x8Ae1E8bdb251e400e9375905990f07cA2C3E009a",
   "symbol": "Arctis",
   "name": "Arctis Fun",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 3.2,
+      "organic_holders": 5,
+      "reported_holders": 155
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 3.2,
       "organic_holders": 5,
       "reported_holders": 155

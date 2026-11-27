@@ -2,7 +2,7 @@
   "address": "0x4c6F7543BF9094f7a6f9958F2E7e60F7f256BA02",
   "symbol": "STIO_BIGGY",
   "name": "@stio_biggy",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 0.2,
+      "organic_holders": 7,
+      "reported_holders": 3166
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 0.2,
       "organic_holders": 7,
       "reported_holders": 3166

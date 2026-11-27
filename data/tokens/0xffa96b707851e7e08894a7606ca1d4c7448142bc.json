@@ -2,7 +2,7 @@
   "address": "0xFfA96B707851E7E08894a7606cA1d4C7448142bC",
   "symbol": "MEOW",
   "name": "MEOWRISE",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 3907.5,
+    "market_cap_usd": 4209.08,
     "holders_fetched": 429,
     "transfers_fetched": 459
   },
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 4.4,
+      "organic_holders": 19,
+      "reported_holders": 429
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 4.4,
       "organic_holders": 19,
       "reported_holders": 429

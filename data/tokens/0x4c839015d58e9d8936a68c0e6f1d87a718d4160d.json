@@ -2,7 +2,7 @@
   "address": "0x4C839015D58e9D8936a68c0E6f1d87a718D4160D",
   "symbol": "BIRDS",
   "name": "BIRDS",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 16267.95,
+    "market_cap_usd": 17523.5,
     "holders_fetched": 2397,
     "transfers_fetched": 2000
   },
@@ -111,6 +111,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 41.8,
+      "organic_holders": 1002,
+      "reported_holders": 2397
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 41.8,
       "organic_holders": 1002,
       "reported_holders": 2397

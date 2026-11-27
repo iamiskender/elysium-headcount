@@ -2,7 +2,7 @@
   "address": "0xa4CE6e6C719f7FB524230C367948039b078683E4",
   "symbol": "Oxy-USDC",
   "name": "Oxy USDC",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "partial",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 9984,
     "clone_wallets": 8810,
     "largest_cluster": 784,
-    "cross_token_wallets": 1050,
+    "cross_token_wallets": 1053,
     "est_organic": 1036,
     "quality_pct": null,
     "pool_share_pct": 84.0,

@@ -2,7 +2,7 @@
   "address": "0x6dA302fc430344E1e9dbB7EDF5e673e295fD6e03",
   "symbol": "Gecko",
   "name": "Gecko",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 2.6,
+      "organic_holders": 4,
+      "reported_holders": 152
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 2.6,
       "organic_holders": 4,
       "reported_holders": 152

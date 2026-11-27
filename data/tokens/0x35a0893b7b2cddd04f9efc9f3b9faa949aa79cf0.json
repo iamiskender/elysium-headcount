@@ -2,7 +2,7 @@
   "address": "0x35A0893b7B2cDdd04F9eFc9F3B9faa949aA79Cf0",
   "symbol": "FEO",
   "name": "ELFEO",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 17744.2,
+    "market_cap_usd": 19113.69,
     "holders_fetched": 3888,
     "transfers_fetched": 2000
   },
@@ -111,6 +111,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 24.3,
+      "organic_holders": 946,
+      "reported_holders": 3888
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 24.3,
       "organic_holders": 946,
       "reported_holders": 3888

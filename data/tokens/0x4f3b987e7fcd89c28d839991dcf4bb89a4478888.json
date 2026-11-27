@@ -2,11 +2,11 @@
   "address": "0x4F3b987E7fcD89C28D839991DcF4bb89A4478888",
   "symbol": "HYPF",
   "name": "hyperfried",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
-    "family_size": 27,
+    "family_size": 26,
     "symbol": "HYPF",
     "name": "hyperfried",
     "address": "0x4F3b987E7fcD89C28D839991DcF4bb89A4478888",
@@ -135,6 +135,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 1.4,
+      "organic_holders": 28,
+      "reported_holders": 2016
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 1.4,
       "organic_holders": 28,
       "reported_holders": 2016

@@ -2,7 +2,7 @@
   "address": "0xbc9198b6739e7F0bDB55164EFBecdBbF23e91695",
   "symbol": "9X",
   "name": "XXX XXX XXX",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F10",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4036.76,
+    "market_cap_usd": 4348.31,
     "holders_fetched": 290,
     "transfers_fetched": 599
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 5.9,
+      "organic_holders": 17,
+      "reported_holders": 290
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 5.9,
       "organic_holders": 17,
       "reported_holders": 290

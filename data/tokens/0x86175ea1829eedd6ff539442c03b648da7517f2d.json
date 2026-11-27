@@ -2,7 +2,7 @@
   "address": "0x86175eA1829EEdd6FF539442c03b648Da7517f2d",
   "symbol": "DeGods",
   "name": "DeGods",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 4.5,
+      "organic_holders": 7,
+      "reported_holders": 156
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 4.5,
       "organic_holders": 7,
       "reported_holders": 156

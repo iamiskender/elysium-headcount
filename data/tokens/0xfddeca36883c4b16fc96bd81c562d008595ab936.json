@@ -2,7 +2,7 @@
   "address": "0xFDDeca36883C4B16fc96BD81c562d008595Ab936",
   "symbol": "CHIM",
   "name": "Chimera Chain",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 1179,
     "clone_wallets": 526,
     "largest_cluster": 58,
-    "cross_token_wallets": 1083,
+    "cross_token_wallets": 1085,
     "est_organic": 67,
     "quality_pct": 5.7,
     "pool_share_pct": 64.5,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8502.08,
+    "market_cap_usd": 9158.26,
     "holders_fetched": 1181,
     "transfers_fetched": 1188
   },
@@ -99,6 +99,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 5.7,
+      "organic_holders": 67,
+      "reported_holders": 1181
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 5.7,
       "organic_holders": 67,
       "reported_holders": 1181

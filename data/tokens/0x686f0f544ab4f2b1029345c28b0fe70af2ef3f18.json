@@ -2,11 +2,11 @@
   "address": "0x686F0f544ab4F2B1029345C28B0fe70Af2ef3f18",
   "symbol": "ELYSIUM",
   "name": "ELYSIUM",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
-    "family_size": 27,
+    "family_size": 26,
     "symbol": "ELYSIUM",
     "name": "ELYSIUM",
     "address": "0x686F0f544ab4F2B1029345C28B0fe70Af2ef3f18",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 58280.88,
+    "market_cap_usd": 62778.97,
     "holders_fetched": 1919,
     "transfers_fetched": 2000
   },
@@ -141,6 +141,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 13.7,
+      "organic_holders": 263,
+      "reported_holders": 1919
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 13.7,
       "organic_holders": 263,
       "reported_holders": 1919

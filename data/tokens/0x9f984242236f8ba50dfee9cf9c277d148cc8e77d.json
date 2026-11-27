@@ -2,10 +2,10 @@
   "address": "0x9f984242236F8BA50dfee9Cf9C277d148cC8e77D",
   "symbol": "PPM",
   "name": "Peperium",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
-    "family": "F16",
+    "family": "F17",
     "family_size": 2,
     "symbol": "PPM",
     "name": "Peperium",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4023.32,
+    "market_cap_usd": 4333.84,
     "holders_fetched": 423,
     "transfers_fetched": 2000
   },
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 6.6,
+      "organic_holders": 28,
+      "reported_holders": 423
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 6.6,
       "organic_holders": 28,
       "reported_holders": 423

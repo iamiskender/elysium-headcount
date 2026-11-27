@@ -2,7 +2,7 @@
   "address": "0x58A6b2459a4A820AC316880938e15379Ba2f8d9e",
   "symbol": "SIERRA",
   "name": "JAVIER",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F11",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 73.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 42381.64,
+    "market_cap_usd": 45652.62,
     "holders_fetched": 6276,
     "transfers_fetched": 2000
   },
@@ -111,6 +111,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 16.2,
+      "organic_holders": 1017,
+      "reported_holders": 6276
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 16.2,
       "organic_holders": 1017,
       "reported_holders": 6276

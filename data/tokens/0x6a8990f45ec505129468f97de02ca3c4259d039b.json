@@ -2,7 +2,7 @@
   "address": "0x6A8990f45EC505129468f97De02cA3C4259d039B",
   "symbol": "NEMO",
   "name": "Nemo",
-  "snapshot": "2026-11-26T18:26:31.704048+00:00",
+  "snapshot": "2026-11-27T18:20:39.782138+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 86.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 13081.9,
+    "market_cap_usd": 14091.55,
     "holders_fetched": 2191,
     "transfers_fetched": 2000
   },
@@ -111,6 +111,12 @@
     },
     {
       "date": "2026-11-26",
+      "organic_share_pct": 41.0,
+      "organic_holders": 898,
+      "reported_holders": 2191
+    },
+    {
+      "date": "2026-11-27",
       "organic_share_pct": 41.0,
       "organic_holders": 898,
       "reported_holders": 2191
