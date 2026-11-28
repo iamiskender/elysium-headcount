@@ -2,7 +2,7 @@
   "address": "0x070e5406D24eA5df4517FAF6c61469ff2CA676f1",
   "symbol": "TCK",
   "name": "ticktock",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F4",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 60.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 8478.31,
+    "market_cap_usd": 8086.34,
     "holders_fetched": 4124,
     "transfers_fetched": 2000
   },
@@ -117,6 +117,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 22.0,
+      "organic_holders": 907,
+      "reported_holders": 4124
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 22.0,
       "organic_holders": 907,
       "reported_holders": 4124

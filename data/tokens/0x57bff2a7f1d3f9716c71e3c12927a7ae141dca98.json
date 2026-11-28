@@ -2,11 +2,11 @@
   "address": "0x57bff2a7f1D3f9716C71E3c12927a7Ae141DCA98",
   "symbol": "HPM",
   "name": "HyperMount",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
-    "family_size": 26,
+    "family_size": 27,
     "symbol": "HPM",
     "name": "HyperMount",
     "address": "0x57bff2a7f1D3f9716C71E3c12927a7Ae141DCA98",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 160045.45,
+    "market_cap_usd": 152659.66,
     "holders_fetched": 2572,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 2.7,
+      "organic_holders": 69,
+      "reported_holders": 2572
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 2.7,
       "organic_holders": 69,
       "reported_holders": 2572

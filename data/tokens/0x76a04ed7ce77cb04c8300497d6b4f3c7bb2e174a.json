@@ -2,7 +2,7 @@
   "address": "0x76A04ed7Ce77CB04c8300497D6B4F3C7bb2E174A",
   "symbol": "HYPENG",
   "name": "hyper pengu",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 1099,
     "clone_wallets": 456,
     "largest_cluster": 67,
-    "cross_token_wallets": 891,
-    "est_organic": 169,
-    "quality_pct": 15.4,
+    "cross_token_wallets": 890,
+    "est_organic": 170,
+    "quality_pct": 15.5,
     "pool_share_pct": 4.7,
     "top_eoa_share_pct": 63.8,
     "pool_buys_seen": 1242,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 1414337.86,
+    "market_cap_usd": 1349068.88,
     "holders_fetched": 1101,
     "transfers_fetched": 1304
   },
@@ -107,6 +107,12 @@
       "date": "2026-11-27",
       "organic_share_pct": 15.4,
       "organic_holders": 169,
+      "reported_holders": 1101
+    },
+    {
+      "date": "2026-11-28",
+      "organic_share_pct": 15.5,
+      "organic_holders": 170,
       "reported_holders": 1101
     }
   ],

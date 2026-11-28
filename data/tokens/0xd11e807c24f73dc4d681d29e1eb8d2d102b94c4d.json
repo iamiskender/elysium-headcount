@@ -2,7 +2,7 @@
   "address": "0xd11e807c24F73Dc4D681d29E1Eb8d2D102b94C4d",
   "symbol": "MCDx",
   "name": "McDonald's",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 3.4,
+      "organic_holders": 5,
+      "reported_holders": 147
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 3.4,
       "organic_holders": 5,
       "reported_holders": 147

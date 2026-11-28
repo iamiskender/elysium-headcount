@@ -2,7 +2,7 @@
   "address": "0xA09DE17f88D0CEB457b618785B2c07Cd888928AE",
   "symbol": "Peculiars",
   "name": "The Peculiars",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 5.1,
+      "organic_holders": 8,
+      "reported_holders": 159
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 5.1,
       "organic_holders": 8,
       "reported_holders": 159

@@ -2,7 +2,7 @@
   "address": "0x321CCD0f1c8Bb743625dF4CdB0DDA60820079265",
   "symbol": "BLOB",
   "name": "The blob",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F3",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 6.7,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 48875.4,
+    "market_cap_usd": 46619.9,
     "holders_fetched": 2256,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 5.5,
+      "organic_holders": 125,
+      "reported_holders": 2256
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 5.5,
       "organic_holders": 125,
       "reported_holders": 2256

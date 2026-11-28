@@ -2,7 +2,7 @@
   "address": "0x2e3BFC59DBc7A770e85f8a1E3e6002533b415352",
   "symbol": "SPCXx",
   "name": "SpaceX",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 2.7,
+      "organic_holders": 4,
+      "reported_holders": 150
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 2.7,
       "organic_holders": 4,
       "reported_holders": 150

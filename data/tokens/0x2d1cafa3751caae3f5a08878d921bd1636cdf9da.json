@@ -2,7 +2,7 @@
   "address": "0x2D1CAFA3751cAAe3F5a08878D921bD1636cDf9DA",
   "symbol": "wut",
   "name": "wht",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,7 +14,7 @@
     "eoa_holders": 4871,
     "clone_wallets": 1745,
     "largest_cluster": 296,
-    "cross_token_wallets": 3111,
+    "cross_token_wallets": 3109,
     "est_organic": 1078,
     "quality_pct": 22.1,
     "pool_share_pct": 30.4,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 26572.25,
+    "market_cap_usd": 25345.99,
     "holders_fetched": 4872,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 22.1,
+      "organic_holders": 1078,
+      "reported_holders": 4872
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 22.1,
       "organic_holders": 1078,
       "reported_holders": 4872

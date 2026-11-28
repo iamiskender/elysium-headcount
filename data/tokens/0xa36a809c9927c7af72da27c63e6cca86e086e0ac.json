@@ -2,7 +2,7 @@
   "address": "0xa36a809c9927c7AF72dA27c63E6CCA86E086e0ac",
   "symbol": "Civitia",
   "name": "Civitia",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F1",
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 2.0,
+      "organic_holders": 3,
+      "reported_holders": 149
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 2.0,
       "organic_holders": 3,
       "reported_holders": 149

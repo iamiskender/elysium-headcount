@@ -2,7 +2,7 @@
   "address": "0x5d372E41F29bDFd0250fC0049C2Cb890443E9CCE",
   "symbol": "DOD",
   "name": "DO OR DIE",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4252.2,
+    "market_cap_usd": 4055.61,
     "holders_fetched": 205,
     "transfers_fetched": 352
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 60.1,
+      "organic_holders": 122,
+      "reported_holders": 205
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 60.1,
       "organic_holders": 122,
       "reported_holders": 205

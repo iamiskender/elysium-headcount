@@ -2,7 +2,7 @@
   "address": "0xEe637031b1200fbc636701213c9e30F8463703E2",
   "symbol": "DRIP",
   "name": "DripEVM",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 20231.61,
+    "market_cap_usd": 19297.96,
     "holders_fetched": 953,
     "transfers_fetched": 1070
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 1.7,
+      "organic_holders": 16,
+      "reported_holders": 953
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 1.7,
       "organic_holders": 16,
       "reported_holders": 953

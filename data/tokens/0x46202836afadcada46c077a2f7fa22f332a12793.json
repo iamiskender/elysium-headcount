@@ -2,7 +2,7 @@
   "address": "0x46202836aFAdCAdA46C077a2f7fa22f332A12793",
   "symbol": "MF",
   "name": "Messi fan",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4226.56,
+    "market_cap_usd": 4031.16,
     "holders_fetched": 279,
     "transfers_fetched": 469
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 55.2,
+      "organic_holders": 153,
+      "reported_holders": 279
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 55.2,
       "organic_holders": 153,
       "reported_holders": 279

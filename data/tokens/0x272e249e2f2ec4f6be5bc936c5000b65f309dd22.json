@@ -2,7 +2,7 @@
   "address": "0x272e249e2f2ec4f6BE5bC936c5000b65F309Dd22",
   "symbol": "primus",
   "name": "primus labs",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F5",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 53.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4068.44,
+    "market_cap_usd": 3880.34,
     "holders_fetched": 1842,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 4.7,
+      "organic_holders": 87,
+      "reported_holders": 1842
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 4.7,
       "organic_holders": 87,
       "reported_holders": 1842

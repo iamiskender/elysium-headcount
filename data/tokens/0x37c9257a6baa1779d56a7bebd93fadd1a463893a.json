@@ -2,7 +2,7 @@
   "address": "0x37c9257A6BAa1779d56A7BEbD93FadD1a463893A",
   "symbol": "ABY",
   "name": "Astrorabby",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F6",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 93.3,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 47090.36,
+    "market_cap_usd": 44917.23,
     "holders_fetched": 2342,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 5.7,
+      "organic_holders": 134,
+      "reported_holders": 2342
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 5.7,
       "organic_holders": 134,
       "reported_holders": 2342

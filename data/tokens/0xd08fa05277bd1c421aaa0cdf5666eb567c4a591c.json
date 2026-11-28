@@ -2,7 +2,7 @@
   "address": "0xd08fA05277bD1C421aaa0cdf5666Eb567C4A591c",
   "symbol": "FRST",
   "name": "Rainforest",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,9 +14,9 @@
     "eoa_holders": 730,
     "clone_wallets": 424,
     "largest_cluster": 47,
-    "cross_token_wallets": 565,
-    "est_organic": 96,
-    "quality_pct": 13.2,
+    "cross_token_wallets": 564,
+    "est_organic": 97,
+    "quality_pct": 13.3,
     "pool_share_pct": 74.9,
     "top_eoa_share_pct": 23.5,
     "pool_buys_seen": 884,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 4685.05,
+    "market_cap_usd": 4468.45,
     "holders_fetched": 732,
     "transfers_fetched": 889
   },
@@ -107,6 +107,12 @@
       "date": "2026-11-27",
       "organic_share_pct": 13.2,
       "organic_holders": 96,
+      "reported_holders": 732
+    },
+    {
+      "date": "2026-11-28",
+      "organic_share_pct": 13.3,
+      "organic_holders": 97,
       "reported_holders": 732
     }
   ],

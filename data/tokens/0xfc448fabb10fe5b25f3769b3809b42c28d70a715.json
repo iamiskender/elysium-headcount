@@ -2,11 +2,11 @@
   "address": "0xfc448fAbb10fe5b25F3769B3809B42c28d70A715",
   "symbol": "VON_HL",
   "name": "@von_hl",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "F2",
-    "family_size": 26,
+    "family_size": 27,
     "symbol": "VON_HL",
     "name": "@von_hl",
     "address": "0xfc448fAbb10fe5b25F3769B3809B42c28d70A715",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 100.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 26.94,
+    "market_cap_usd": 25.69,
     "holders_fetched": 1000,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 0.4,
+      "organic_holders": 4,
+      "reported_holders": 1000
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 0.4,
       "organic_holders": 4,
       "reported_holders": 1000

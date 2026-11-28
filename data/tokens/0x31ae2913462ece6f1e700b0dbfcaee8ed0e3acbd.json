@@ -2,7 +2,7 @@
   "address": "0x31aE2913462ECe6f1e700b0DBFCaEE8ed0E3AcBd",
   "symbol": "PEARL",
   "name": "Pearl Research Labs",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -26,7 +26,7 @@
     "farm_sample_pct": 20.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 42597.42,
+    "market_cap_usd": 40631.63,
     "holders_fetched": 1707,
     "transfers_fetched": 2000
   },
@@ -105,6 +105,12 @@
     },
     {
       "date": "2026-11-27",
+      "organic_share_pct": 5.2,
+      "organic_holders": 88,
+      "reported_holders": 1707
+    },
+    {
+      "date": "2026-11-28",
       "organic_share_pct": 5.2,
       "organic_holders": 88,
       "reported_holders": 1707

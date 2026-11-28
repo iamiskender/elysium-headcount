@@ -2,7 +2,7 @@
   "address": "0x3298aDe056AFCD4C3b4786C22006476c702D8D8e",
   "symbol": "BRN",
   "name": "BURN",
-  "snapshot": "2026-11-27T18:20:39.782138+00:00",
+  "snapshot": "2026-11-28T17:42:59.165751+00:00",
   "latest": {
     "status": "ok",
     "family": "",
@@ -14,8 +14,8 @@
     "eoa_holders": 1549,
     "clone_wallets": 268,
     "largest_cluster": 97,
-    "cross_token_wallets": 1362,
-    "est_organic": 159,
+    "cross_token_wallets": 1361,
+    "est_organic": 160,
     "quality_pct": 10.3,
     "pool_share_pct": 3.3,
     "top_eoa_share_pct": 90.0,
@@ -26,7 +26,7 @@
     "farm_sample_pct": 0.0,
     "farm_sample_n": 15,
     "volume_24h_usd": 0.0,
-    "market_cap_usd": 105071.93,
+    "market_cap_usd": 100214.16,
     "holders_fetched": 1551,
     "transfers_fetched": 1601
   },
@@ -107,6 +107,12 @@
       "date": "2026-11-27",
       "organic_share_pct": 10.3,
       "organic_holders": 159,
+      "reported_holders": 1551
+    },
+    {
+      "date": "2026-11-28",
+      "organic_share_pct": 10.3,
+      "organic_holders": 160,
       "reported_holders": 1551
     }
   ],
